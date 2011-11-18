@@ -35,6 +35,14 @@
     \usepackage{mathpazo}   %Palatino
     \linespread{1.05}       %Palatino braucht einen höheren Durchschuss
     \renewcommand{\sfdefault}{uop} %Optima clone classico als Überschrift
+    %  more information on http://mactex-wiki.tug.org/wiki/index.php/Typefaces#Classico
+    % install using the following command on Ubuntu (worked on 11.10):
+    %     sudo su      (or)      su
+    %     apt-get install texlive-base-bin
+    %     getnonfreefonts-sys classico
+    %     echo -e "\nMap uop.map\n" >> /var/lib/texmf/web2c/updmap.cfg
+    %     updmap-sys
+    %     exit
     \usepackage[tracking=true]{microtype} % Randkorrektur und andere Anpassungen
     \DeclareMicrotypeSet*[tracking]{my}   % Sperrt Kapitälchen
       { font = */*/*/sc/* }%
@@ -71,9 +79,9 @@
     %   pageanchor=true,         % Pages are linkable
     %   % PDF Informationen
        pdftitle={Geschäftsordnung für Plenen der ZaPF},             % Titel
-       pdfauthor={AK GO der ZaPF },                             % Autor
-       pdfcreator={PDFLaTeX, hyperref, KOMA-Script},        % Ersteller
-       pdfproducer={pdfTeX 1.40.10},   %Produzent
+       pdfauthor={AK GO der ZaPF},                             % Autor
+       pdfcreator={Zusammenkunft aller Physik-Fachschaften},        % Ersteller
+       pdfproducer={StAPF},   %Produzent
        pdftoolbar=true,         % Shows PDFToolbar
        pdfdisplaydoctitle=true, % Dokumententitel statt Dateiname im Fenstertitel
        pdfstartview=FitV,       % Dokument wird Fit Vertical geoeffnet
