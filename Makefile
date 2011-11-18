@@ -7,8 +7,7 @@
 # make all
 
 # Alle Zieldateien erstellen: PDF, Mediawiki und Markdown:
-#all: GO.pdf GO.mediawiki.txt GO.markdown.txt
-all: GO.pdf GO.mediawiki.txt
+all: GO.pdf GO.mediawiki.txt GO.markdown.txt
 
 # Die einzelnen Zieldateien werden wie folgt erstellt:
 GO.pdf: GO.tex
@@ -25,13 +24,18 @@ GO.mediawiki.txt: GO.tex
 	## Entfernen des alles umschließenden <blockquote> Tags
 	## Einfügen von  ----  sowie == Kommentare == vor dem <references /> Tag
 
-#GO.markdown.txt: GO.tex
-#	pandoc -f latex -t markdown -o GO.markdown.txt GO.tex
-#	### Korrekturen an der Markdown-Version für Veröffentlichung
-#	###  auf https://vmp.ethz.ch/zapfwiki/index.php/Gesch%C3%A4ftsordnung_f%C3%BCr_Plenen_der_ZaPF
-#	### * Überschriften weiter Einrücken
-#	### * und Leerzeilen entfernen ( ';' trennt sed Befehle voneinenader )
-#	#sed -i 's/^# /### /g;/^$$/d' GO.markdown.txt
+GO.markdown.txt: GO.tex
+	pandoc -f latex -t markdown -o GO.markdown.txt GO.tex
+	### Korrekturen an der Markdown-Version für Veröffentlichung
+	###  auf https://vmp.ethz.ch/zapfwiki/index.php/Gesch%C3%A4ftsordnung_f%C3%BCr_Plenen_der_ZaPF
+	### * Überschriften weiter Einrücken
+	### * und Leerzeilen entfernen ( ';' trennt sed Befehle voneinenader )
+	sed -i 's/^> //g;/^>$$/d' GO.markdown.txt
+	sed -i 's/^# /### /g;/^$$/d' GO.markdown.txt
+	## Benötigt leider noch etwas Handarbeit:
+	## Entfernen von {header_go}
+	## Einfügen von zwei Leerzeichen für Zeilenumbrüche vor der Liste
+	## der Geschäftsordnungsanträge und des Kommentars dazu.
 
 # delete temporary files and products of the .tex source file
 .PHONY : clean
