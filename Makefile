@@ -28,10 +28,11 @@ GO.markdown.txt: GO.tex
 	pandoc -f latex -t markdown -o GO.markdown.txt GO.tex
 	### Korrekturen an der Markdown-Version für Veröffentlichung
 	###  auf https://vmp.ethz.ch/zapfwiki/index.php/Gesch%C3%A4ftsordnung_f%C3%BCr_Plenen_der_ZaPF
+	### * Quotes entfernen (warum kommt das überhaupt zustande?)
+	sed -i 's/^> //g;/^>$$/d' GO.markdown.txt
 	### * Überschriften weiter Einrücken
 	### * und Leerzeilen entfernen ( ';' trennt sed Befehle voneinenader )
-	sed -i 's/^> //g;/^>$$/d' GO.markdown.txt
-	sed -i 's/^# /### /g;/^$$/d' GO.markdown.txt
+	sed -i 's/^### /##### /g;s/^## /#### /g;s/^# /### /g;/^$$/d' GO.markdown.txt
 	## Benötigt leider noch etwas Handarbeit:
 	## Entfernen von {header_go}
 	## Einfügen von zwei Leerzeichen für Zeilenumbrüche vor der Liste
