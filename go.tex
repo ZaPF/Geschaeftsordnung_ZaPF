@@ -1,19 +1,35 @@
-\input{header_go}
+\documentclass[draft,12pt,oneside]{scrreprt}
 
-%%% Versionen dieser GO / Inhaltliche Änderungen beschlossen auf:
-% beschlossen 2005 im Abschlussplenum der Sommer ZaPF in Erlangen
-% geändert 2007 auf der Sommer ZaPF in Berlin
-% geändert 2008 auf der Sommer ZaPF in Konstanz
-% geändert 2008 auf der Winter ZaPF in Aachen
-% geändert 2009 auf der Sommer ZaPF in Göttingen
-% geändert 2010 auf der Winter ZaPF in Frankfurt  (Siehe Reader S. 86)
+% Sprache und Encodings
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% Typographisch interessante Pakete
+\usepackage{microtype} % Randkorrektur und andere Anpassungen
+
+% References to Internet and within the document !!!always last package!!!
+\usepackage[pdftex,colorlinks=false,
+pdftitle={Geschäftsordnung für Plenen der ZaPF},
+pdfauthor={Zusammenkunft aller Physikfachschaften},
+pdfcreator={pdflatex},
+pdfdisplaydoctitle=true]{hyperref}
+
+% römische Sections
+\renewcommand \thesection {\Roman{section}}
+
+% Absaetze nicht Einruecken
+\setlength{\parindent}{0pt}
+
+\usepackage{draftwatermark}
+\SetWatermarkText{Draft}
+\SetWatermarkScale{5}
 
 \begin{document}
 
-\chapter*{Geschäftsordnung\footnote{beschlossen 2005 im Abschlussplenum der Sommer ZaPF in Erlangen.} für Plenen der ZaPF}
+\chapter*{Geschäftsordnung für Plenen der ZaPF}
 
-
-\noindent \textbf{Die männliche Anrede gilt im folgenden sowohl für
+\textbf{Die männliche Anrede gilt im folgenden sowohl für
 weibliche als auch für männliche
  TeilnehmerInnen der ZaPF.}
 
@@ -186,6 +202,25 @@ inhaltliche Gegenrede beinhaltet eine Begründung.}
   \item Abwahlen sind auch bei Abwesenheit des Betroffenen möglich und bedürfen einer 2/3-Mehrheit.
         Der Betroffene ist jedoch nach Möglichkeit anzuhören.
 \end{enumerate}
+
+\section*{Versionshistorie}
+
+Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Erlangen beschlosse.
+Inhaltliche Änderungen wurden vorgenommen auf der:
+
+\begin{itemize}
+
+  \item Sommer-ZaPF 2007 in Berlin
+
+  \item Sommer-ZaPF 2008 in Konstanz,
+
+  \item Winter-ZaPF 2008 in Aachen,
+
+  \item Sommer-ZaPF 2009 in Göttingen,
+
+  \item und auf der Winter-ZaPF 2010 in Frankfurt.
+
+\end{itemize}
 
 
 \end{document}
