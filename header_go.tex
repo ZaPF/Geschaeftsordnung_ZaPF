@@ -1,7 +1,7 @@
 \documentclass[%
     ngerman,
    %draft,                  % Entwurf draft bedeutet draft=true, wird aber auch von graphicx verstanden
-    final,
+    draft,
     twoside=true,           % zweiseitig
     DIV=14,                 % Satzspiegelberechnugn
     BCOR=12mm,              % Bindekorrektur
@@ -99,3 +99,7 @@
 
 \renewcommand \thesection {\Roman{section}}
 \setlength{\parindent}{0pt}
+
+\usepackage{draftwatermark}
+\SetWatermarkText{Entwurf}
+\SetWatermarkScale{1.2}
