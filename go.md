@@ -233,7 +233,7 @@ Wahl stehen.
    in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der
    ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
 
-8. Der so bestimmten Gruppe muss anschließend mit absoluter Mehrheit vom
+   Der so bestimmten Gruppe muss anschließend mit absoluter Mehrheit vom
    Plenum das Vertrauen ausgesprochen werden, damit sie als gewählt gelten.
    Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht,
    ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die
@@ -241,42 +241,42 @@ Wahl stehen.
    Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
    Regelung irrelevant.
 
-9. Bei weniger als sieben sich bewerbenden Menschen muss der kompletten Gruppe
+   Bei weniger als sieben sich bewerbenden Menschen muss der kompletten Gruppe
    das Vertrauen mit absoluter Mehrheit vom Plenum ausgesprochen werden,
    damit sie als gewählt gelten.
    Die Wahl durch Zustimmung entfällt hierbei.
 
-10. Eine Personaldebatte findet nicht statt, die Kandidaten und Kandidatinnen
-    dürfens sich jedoch dem Plenum vorstellen.
-    Die Stimmverteilung wird nicht bekanntgegeben.
-    Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
-    vom Wahlausschuss veröffentlicht.
+   Eine Personaldebatte findet nicht statt, die Kandidaten und Kandidatinnen
+   dürfens sich jedoch dem Plenum vorstellen.
+   Die Stimmverteilung wird nicht bekanntgegeben.
+   Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
+   vom Wahlausschuss veröffentlicht.
 
-11. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
-    aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
+   Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
+   aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 
-12. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
-    - Jeder wahlberechtigte Person erhält einen Wahlzettel mit einer
-      Liste aller zur Wahl stehenden Personen.
-    - Jeder zur Wahl stehenden Person kann eine Stimme gegeben werden.
-    - Die Auszählung der Stimmen erfolgt in mehreren Durchgängen.
-    - Im ersten Durchgang werden alle Stimmen ausgezählt und die Person
-      mit den meisten Stimmen kommt in die Gruppe der gewählten Personen.
-      Daraufhin werden alle Wahlzettel, die der ersten gewählten Person
-      eine Ja-Stimme gegeben haben, von den übrigen Wahlzetteln getrennt.
-    - In den darauf folgenden Durchgängen wird immer die Person mit den
-      meisten Stimmen in den verbliebenen Wahlzetteln der Gruppe der gewählten
-      Personen hinzugefügt und ihre Wahlzettel von den übrigen Wahlzetteln
-      getrennt. Dies wird so lange wiederholt bis alle Plätze besetzt sind
-      oder keine Wahlzettel mehr übrig sind.
-    - Sollten noch nicht alle Plätze in der Gruppe der gewählten Personen
-      besetzt sein obwohl keine Wahlzettel mehr verblieben sind, werden
-      die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde
-      besetzt. Bei Gleichstand entscheidet das Los.
+8. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
+   - Jeder wahlberechtigte Person erhält einen Wahlzettel mit einer
+     Liste aller zur Wahl stehenden Personen.
+   - Jeder zur Wahl stehenden Person kann eine Stimme gegeben werden.
+   - Die Auszählung der Stimmen erfolgt in mehreren Durchgängen.
+   - Im ersten Durchgang werden alle Stimmen ausgezählt und die Person
+     mit den meisten Stimmen kommt in die Gruppe der gewählten Personen.
+     Daraufhin werden alle Wahlzettel, die der ersten gewählten Person
+     eine Ja-Stimme gegeben haben, von den übrigen Wahlzetteln getrennt.
+   - In den darauf folgenden Durchgängen wird immer die Person mit den
+     meisten Stimmen in den verbliebenen Wahlzetteln der Gruppe der gewählten
+     Personen hinzugefügt und ihre Wahlzettel von den übrigen Wahlzetteln
+     getrennt. Dies wird so lange wiederholt bis alle Plätze besetzt sind
+     oder keine Wahlzettel mehr übrig sind.
+   - Sollten noch nicht alle Plätze in der Gruppe der gewählten Personen
+     besetzt sein obwohl keine Wahlzettel mehr verblieben sind, werden
+     die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde
+     besetzt. Bei Gleichstand entscheidet das Los.
 
-13. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
-    bedürfen einer Zweidrittelmehrheit.
-    Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
+9. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
+   bedürfen einer Zweidrittelmehrheit.
+   Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
 # Anhang: Versionshistorie
 
