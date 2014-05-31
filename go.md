@@ -125,7 +125,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 
 Dieser Abschnitt regelt die Abstimmungen und Meinungsbilder des ZaPF-Plenums
 sowie die Wahlmodi für Personenwahlen. Die Beschlussfähigkeit für Abstimmungen
-und Personenwahlen ist gegeben, wenn \textit{fünfzehn Physikfachschaften}
+und Personenwahlen ist gegeben, wenn *fünfzehn Physikfachschaften*
 im Plenum anwesend sind.
 
 Die Redeleitung übt die Funktion des Wahlausschusses für offene Abstimmungen und
@@ -217,7 +217,7 @@ Wahl stehen.
    und Kandidaten zu diskutieren.
    Diese Diskussion wird nicht protokolliert.
    Ein Kandidat oder eine Kandidatin gilt als gewählt, wenn er oder sie mehr
-   Ja-Stimmen als Nein-Stimmen, \textit{mindestens acht Ja-Stimmen}
+   Ja-Stimmen als Nein-Stimmen, *mindestens acht Ja-Stimmen*
    erhält und die Wahl annimmt.
    Enthaltungen sind möglich und wirken wie nicht oder ungültig abgegebene
    Stimmen.
