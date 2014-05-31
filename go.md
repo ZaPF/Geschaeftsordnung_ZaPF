@@ -95,29 +95,46 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
 
 4. Geschäftsordnungsanträge sind insbesondere Anträge:
+
    - zur Änderung der Tagesordnung,
+
    - zur erneuten Feststellung der Beschlussfähigkeit
      (ohne Abstimmung, ohne Gegenrede),
+
    - zur Unterbrechung der Sitzung,
+
    - zur Vertagung eines Verhandlungsgegenstandes in einen anderen
      Tagesordnungspunkt,
+
    - zur Begrenzung der Redezeit,
+
    - zum Schluss der Rednerliste (nach Annahme des Antrages können sich
      noch Redner auf die Liste setzen lassen, anschließend wird die Liste
      geschlossen, weitere Wortmeldungen sind dann nicht mehr möglich)
+
    - Wiedereröffnung der Redeliste *
+
    - geschlossene Sitzung (jeweils nur für einen Tagesordnungspunkt)
+
    - Zulassung Einzelner zur geschlossenen Sitzung
+
    - zum Schluss der Debatte (die Diskussion wird nach Annahme des
      Antrages sofort abgebrochen, eine Abstimmung zum Thema wird ggf.
      sofort durchgeführt)*
+
    - zur Anzweiflung einer Abstimmung (ohne Gegenrede, ohne Abstimmung)
+
    - zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
      Recht auf ein Meinungsbild im Plenum *
+
    - Nichtbefassung *
+
    - geheime Abstimung (ohne Gegenrede, ohne Abstimmung)
+
    - Neuwahl der Redeleitung unter Benennung eines Gegenkandidaten
+
    - Neuwahl des Protokollanten unter Benennung eines Gegenkandidaten
+
    - Einholung eines Meinungsbildes im Plenum
 
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
@@ -286,9 +303,13 @@ Erlangen beschlosse.
 Inhaltliche Änderungen wurden vorgenommen auf der:
 
 - Sommer-ZaPF 2007 in Berlin
+
 - Sommer-ZaPF 2008 in Konstanz,
+
 - Winter-ZaPF 2008 in Aachen,
+
 - Sommer-ZaPF 2009 in Göttingen,
+
 - und auf der Winter-ZaPF 2010 in Frankfurt.
 
 # Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
