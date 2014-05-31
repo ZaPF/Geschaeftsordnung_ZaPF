@@ -119,6 +119,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - Neuwahl der Redeleitung unter Benennung eines Gegenkandidaten
    - Neuwahl des Protokollanten unter Benennung eines Gegenkandidaten
    - Einholung eines Meinungsbildes im Plenum
+
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
 
 # 4 Abstimmungen und Wahlen
