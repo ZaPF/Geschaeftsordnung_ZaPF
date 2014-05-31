@@ -119,7 +119,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - Neuwahl der Redeleitung unter Benennung eines Gegenkandidaten
    - Neuwahl des Protokollanten unter Benennung eines Gegenkandidaten
    - Einholung eines Meinungsbildes im Plenum
-   Mit einem * gekennzeichnete Anträge erfordern eine 2/3-Mehrheit.
+   Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
 
 # 4 Abstimmungen und Wahlen
 
@@ -188,8 +188,8 @@ Wahl stehen.
 
 7. Beschlüsse zur Änderung dieser Geschäftsordnung bedürfen einer absoluten
    Mehrheit.
-   Die Geschäftsordnungsanträge, die einer 2/3-Mehrheit bedürfen, können nur
-   explizit und mit einer 2/3-Mehrheit geändert werden.
+   Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur
+   explizit und mit einer Zweidrittelmehrheit geändert werden.
 
 ## 4.2 Personenwahlen
 
@@ -275,7 +275,7 @@ Wahl stehen.
       besetzt. Bei Gleichstand entscheidet das Los.
 
 13. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
-    bedürfen einer 2/3-Mehrheit.
+    bedürfen einer Zweidrittelmehrheit.
     Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
 # Anhang: Versionshistorie
@@ -314,7 +314,7 @@ Gegenrede beinhaltet eine Begründung.
 
 ## Beschlussfähigkeit bei fünfzehn anwesenden Fachschaften
 
-Dies entspricht nach unserem Kenntnisstand etwa 1/4 der Physikfachschaften.
+Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachschaften.
 
 ## Mindestanzahl von Ja-Stimmen bei Personenzahlen
 
