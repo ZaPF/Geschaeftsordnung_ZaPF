@@ -5,5 +5,4 @@ Dieses Repository enthält die Arbeitsfassung der Geschäftsordnung für Plenen 
 ### Homepage
 
 Original unter (und im Ursprungsrepository von diesem Repo)
-
 * <https://vmp.ethz.ch/zapfwiki/index.php/Gesch%C3%A4ftsordnung_f%C3%BCr_Plenen_der_ZaPF>
