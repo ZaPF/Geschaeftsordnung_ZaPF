@@ -289,7 +289,9 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2008 in Konstanz,
 - Winter-ZaPF 2008 in Aachen,
 - Sommer-ZaPF 2009 in Göttingen,
-- und auf der Winter-ZaPF 2010 in Frankfurt.
+- Sommer-ZaPF 2010 in Frankfurt,
+- Sommer-ZaPF 2011 in Dresden
+- und auf der Sommer-ZaPF 2014 in Düsseldorf.
 
 # Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
 
