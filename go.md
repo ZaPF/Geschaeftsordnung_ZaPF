@@ -95,7 +95,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Mehrheit erforderlich.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
 
-4. Geschäftsordnungsanträge sind insbesondere Anträge:
+4. Geschäftsordnungsanträge sind folgende Anträge:
    - zur Änderung der Tagesordnung,
    - zur erneuten Feststellung der Beschlussfähigkeit
      (ohne Abstimmung, ohne Gegenrede),
@@ -120,6 +120,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - Neuwahl der Redeleitung unter Benennung eines Gegenkandidaten
    - Neuwahl des Protokollanten unter Benennung eines Gegenkandidaten
    - Einholung eines Meinungsbildes im Plenum
+   - Verfahrensvorschlag
+   - namentliche Abstimmung
 
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
 
