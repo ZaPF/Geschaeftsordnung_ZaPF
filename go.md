@@ -70,10 +70,11 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 3. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
-   Zur Abstimmung im Abschlussplenum müssen Anträge zur Änderung der
+   Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung der
    Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Abschlussplenum
    bekanntgegeben werden.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
+   Die Änderung der Gescháftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 
 4. Die antragsstellende Person muss im Plenum anwesend sein
    oder kann einen Vertreter oder eine Vertreterin benennen und muss dies
