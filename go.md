@@ -74,7 +74,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Abschlussplenum
    bekanntgegeben werden.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
-   Die Änderung der Gescháftsordnung tritt automatisch zum nächsten Plenum in Kraft.
+   Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 
 4. Die antragsstellende Person muss im Plenum anwesend sein
    oder kann einen Vertreter oder eine Vertreterin benennen und muss dies
@@ -133,7 +133,7 @@ und Personenwahlen ist gegeben, wenn *fünfzehn Physikfachschaften*
 im Plenum anwesend sind.
 
 Die Beschlussfähigkeit ist ausschließlich für Abstimmungen und Personenwahlen
-notwendig entsprechend dieser Geschäftsordnung.
+entsprechend dieser Geschäftsordnung notwendig.
 Nur das Plenum betreffende Abstimmungen können ohne Beschlussfähigkeit
 durchgeführt werden, dies betrifft insbesondere die Wahl der Redeleitung und der
 Protokollanten, sowie das Sitzungsende.
