@@ -130,6 +130,12 @@ sowie die Wahlmodi für Personenwahlen. Die Beschlussfähigkeit für Abstimmunge
 und Personenwahlen ist gegeben, wenn *fünfzehn Physikfachschaften*
 im Plenum anwesend sind.
 
+Die Beschlussfähigkeit ist ausschließlich für Abstimmungen und Personenwahlen
+notwendig entsprechend dieser Geschäftsordnung.
+Nur das Plenum betreffende Abstimmungen können ohne Beschlussfähigkeit
+durchgeführt werden, dies betrifft insbesondere die Wahl der Redeleitung und der
+Protokollanten, sowie das Sitzungsende.
+
 Die Redeleitung übt die Funktion des Wahlausschusses für offene Abstimmungen und
 Wahlen aus. Für geheime Abstimmungen und Wahlen wird ein Wahlausschuss von der
 Redeleitung bestimmt. Hierbei darf kein Mitglied des Wahlausschusses selbst zur
