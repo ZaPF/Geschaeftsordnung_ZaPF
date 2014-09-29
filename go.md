@@ -103,7 +103,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - zur Vertagung eines Verhandlungsgegenstandes in einen anderen
      Tagesordnungspunkt,
    - zur Begrenzung der Redezeit,
-   - zum Schluss der Rednerliste (nach Annahme des Antrages können sich
+   - zum Schluss der Redeliste (nach Annahme des Antrages können sich
      noch Redner auf die Liste setzen lassen, anschließend wird die Liste
      geschlossen, weitere Wortmeldungen sind dann nicht mehr möglich)
    - Wiedereröffnung der Redeliste *
