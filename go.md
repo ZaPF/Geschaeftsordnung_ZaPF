@@ -117,8 +117,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
      Recht auf ein Meinungsbild im Plenum *
    - Nichtbefassung *
    - geheime Abstimung (ohne Gegenrede, ohne Abstimmung)
-   - Neuwahl der Redeleitung unter Benennung eines Gegenkandidaten
-   - Neuwahl des Protokollanten unter Benennung eines Gegenkandidaten
+   - Neuwahl der Redeleitung unter Benennung eines oder mehrerer Gegenkandidaten
+   - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
    - namentliche Abstimmung
