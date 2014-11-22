@@ -27,7 +27,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Protokollführerinnen gewählt, das Protokoll der Sitzung wird im
    ZaPF-Reader für die folgende ZaPF abgedruckt.
 
-4. Nach der Wahl der Redeleitung und der Protokollführung ist die
+4. Nach der Wahl der Sitzungsleitung und der Protokollführung ist die
    Beschlussfähigkeit festzustellen.
 
 5. Anschließend wird die Tagesordnung bekanntgegeben und abgestimmt.
@@ -78,7 +78,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 
 4. Die antragsstellende Person muss im Plenum anwesend sein
    oder kann einen Vertreter oder eine Vertreterin benennen und muss dies
-   der Redeleitung mitteilen.
+   der Sitzungsleitung mitteilen.
    Die Vertreterin oder der Vertreter ist dann die neue antragstellende Person.
 
 ## 3.2 Geschäftsordnungsanträge
@@ -117,7 +117,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
      Recht auf ein Meinungsbild im Plenum *
    - Nichtbefassung *
    - geheime Abstimung (ohne Gegenrede, ohne Abstimmung)
-   - Neuwahl der Redeleitung unter Benennung eines oder mehrerer Gegenkandidaten
+   - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidaten
    - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
@@ -135,12 +135,12 @@ im Plenum anwesend sind.
 Die Beschlussfähigkeit ist ausschließlich für Abstimmungen und Personenwahlen
 entsprechend dieser Geschäftsordnung notwendig.
 Nur das Plenum betreffende Abstimmungen können ohne Beschlussfähigkeit
-durchgeführt werden, dies betrifft insbesondere die Wahl der Redeleitung und der
+durchgeführt werden, dies betrifft insbesondere die Wahl der Sitzungsleitung und der
 Protokollanten, sowie das Sitzungsende.
 
-Die Redeleitung übt die Funktion des Wahlausschusses für offene Abstimmungen und
+Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmungen und
 Wahlen aus. Für geheime Abstimmungen und Wahlen wird ein Wahlausschuss von der
-Redeleitung bestimmt. Hierbei darf kein Mitglied des Wahlausschusses selbst zur
+Sitzungsleitung bestimmt. Hierbei darf kein Mitglied des Wahlausschusses selbst zur
 Wahl stehen.
 
 ## 4.1 Abstimmungen und Meinungsbilder
