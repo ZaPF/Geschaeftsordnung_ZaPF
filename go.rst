@@ -102,6 +102,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
 
 4. Geschäftsordnungsanträge sind folgende Anträge:
+
    - zur Änderung der Tagesordnung,
    - zur erneuten Feststellung der Beschlussfähigkeit
      (ohne Abstimmung, ohne Gegenrede),
@@ -275,6 +276,7 @@ Wahl stehen.
    aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 
 8. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
+
    - Jeder wahlberechtigte Person erhält einen Wahlzettel mit einer
      Liste aller zur Wahl stehenden Personen.
    - Jeder zur Wahl stehenden Person kann eine Stimme gegeben werden.
