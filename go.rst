@@ -1,10 +1,12 @@
+====================================
 Geschäftsordnung für Plenen der ZaPF
 ====================================
 
 Begriffe und Regelungen, die im Anhang kommentiert oder erklärt werden, sind
 kursiv gedruckt.
 
-# 1 Geltungsbereich
+1 Geltungsbereich
+-----------------
 
 Diese Geschäftsordnung gilt für die Plenen (Vollversammlungen aller Teilnehmer)
 der Zusammenkunft aller Physikfachschaften (ZaPF).
@@ -16,7 +18,8 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmer und
 Teilnehmerinnen der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle
 Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 
-# 2 Ablauf eines Plenums
+2 Ablauf eines Plenums
+----------------------
 
 1. Sitzungen der ZaPF sind öffentlich.
 
@@ -50,9 +53,11 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 8. Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
    Regel jedoch zehn Minuten nicht überschreiten.
 
-# 3 Anträge
+3 Anträge
+---------
 
-## 3.1 Antragsfristen und Antragsdurchführung
+3.1 Antragsfristen und Antragsdurchführung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens
    eine Stunde vor Beginn des Plenums schriftlich bei der die ZaPF
@@ -81,7 +86,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    der Sitzungsleitung mitteilen.
    Die Vertreterin oder der Vertreter ist dann die neue antragstellende Person.
 
-## 3.2 Geschäftsordnungsanträge
+3.2 Geschäftsordnungsanträge
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. *Geschäftsordnungsanträge* (GO-Anträge) werden durch das Heben
    beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung
@@ -125,7 +131,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
 
-# 4 Abstimmungen und Wahlen
+4 Abstimmungen und Wahlen
+-------------------------
 
 Dieser Abschnitt regelt die Abstimmungen und Meinungsbilder des ZaPF-Plenums
 sowie die Wahlmodi für Personenwahlen. Die Beschlussfähigkeit für Abstimmungen
@@ -143,7 +150,8 @@ Wahlen aus. Für geheime Abstimmungen und Wahlen wird ein Wahlausschuss von der
 Sitzungsleitung bestimmt. Hierbei darf kein Mitglied des Wahlausschusses selbst zur
 Wahl stehen.
 
-## 4.1 Abstimmungen und Meinungsbilder
+4.1 Abstimmungen und Meinungsbilder
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Es werden Abstimmungen und Meinungsbilder unterschieden. Meinungsbilder
    sind informelle Abstimmungen um die Meinung der im Plenum anwesenden
@@ -201,7 +209,8 @@ Wahl stehen.
    Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur
    explizit und mit einer Zweidrittelmehrheit geändert werden.
 
-## 4.2 Personenwahlen
+4.2 Personenwahlen
+^^^^^^^^^^^^^^^^^^
 
 1. Das passive Wahlrecht für Personenwahlen haben alle angemeldeten Personen
    der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine
@@ -288,7 +297,8 @@ Wahl stehen.
    bedürfen einer Zweidrittelmehrheit.
    Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
-# Anhang: Versionshistorie
+Anhang: Versionshistorie
+------------------------
 
 Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in
 Erlangen beschlosse.
@@ -302,9 +312,11 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2011 in Dresden
 - und auf der Sommer-ZaPF 2014 in Düsseldorf.
 
-# Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
+Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
+-----------------------------------------------------------
 
-## Geschäftsordnungsanträge
+Geschäftsordnungsanträge
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Geschäftsordnungsanträge sind dazu gedacht, zu verhindern, dass eine Diskussion
 sich ins Absurde zieht. Sie sind mit äußerster Vorsicht anzuwenden.
@@ -324,11 +336,13 @@ angenommen werden.
 Formale Gegenrede bedeutet nur bekanntzugeben, dass man dagegen ist, inhaltliche
 Gegenrede beinhaltet eine Begründung.
 
-## Beschlussfähigkeit bei fünfzehn anwesenden Fachschaften
+Beschlussfähigkeit bei fünfzehn anwesenden Fachschaften
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachschaften.
 
-## Mindestanzahl von Ja-Stimmen bei Personenzahlen
+Mindestanzahl von Ja-Stimmen bei Personenzahlen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Das Minimum von acht Ja-Stimmen bewirkt, dass Kandidatinnen und Kandidaten
 mindestens die absolute Mehrheit der zur Beschlussfähigkeit notwendigen Stimmen
