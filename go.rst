@@ -123,7 +123,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
      Recht auf ein Meinungsbild im Plenum *
    - Nichtbefassung *
-   - geheime Abstimung (ohne Gegenrede, ohne Abstimmung)
+   - geheime Abstimung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
+     Abstimmung außer Kraft)
    - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidaten
    - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
    - Einholung eines Meinungsbildes im Plenum
