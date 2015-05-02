@@ -306,13 +306,14 @@ Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in
 Erlangen beschlosse.
 Inhaltliche Änderungen wurden vorgenommen auf der:
 
-- Sommer-ZaPF 2007 in Berlin
+- Sommer-ZaPF 2007 in Berlin,
 - Sommer-ZaPF 2008 in Konstanz,
 - Winter-ZaPF 2008 in Aachen,
 - Sommer-ZaPF 2009 in Göttingen,
 - Sommer-ZaPF 2010 in Frankfurt,
 - Sommer-ZaPF 2011 in Dresden
-- und auf der Sommer-ZaPF 2014 in Düsseldorf.
+- Sommer-ZaPF 2014 in Düsseldorf,
+- und auf der Winter-ZaPF 2014 in Bremen.
 
 Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
 -----------------------------------------------------------
