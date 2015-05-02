@@ -323,16 +323,33 @@ Geschäftsordnungsanträge
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 Geschäftsordnungsanträge sind dazu gedacht, zu verhindern, dass eine Diskussion
-sich ins Absurde zieht. Sie sind mit äußerster Vorsicht anzuwenden.
+sich ins Absurde zieht. Sie sind mit äußerster Vorsicht anzuwenden und sind nur
+als Korrektiv für eine Diskussion, die ihren roten Pfaden verloren hat, zu benutzen.
 
 Bei der Abstimmung über einen Geschäftsordnungsantrag sollte man vorher dreimal
-darüber nachdenken, ob man ihm zustimmt, da Ende der Debatte Ende der Debatte
+darüber nachdenken, ob man ihm zustimmt, da Ende der Debatte auch Ende der Debatte
 bedeutet.
 
 Geschäftsordnungsanträge können als Mittel zu einer Schlammschlacht genutzt
-werden, jedoch sollte bedacht werden, dass wir als Physiker und Physikerinnen
-sachliche Diskussionen führen sollten und auch einsehen sollten, wenn die
-Mehrheit einen Antrag nicht unterstützt.
+werden, jedoch sollte bedacht werden, dass wir sachliche Diskussionen führen
+wollen und auch einsehen sollten, wenn die Mehrheit einen Antrag nicht
+unterstützt. Die GO kann nie so gefasst werden, dass sie weder von Teilnehmenden
+des Plenums noch von der Redeleitung missbraucht werden kann. Für einen guten
+Ablauf des Plenums sind wir auf das Wohlwollen aller angewiesen.
+
+Um die GO-Anträge auf ihren einzigen Sinn, der Steuerung der Diskussion, zu
+beschränken, wurden auf der ZaPF im Wintersemester 2014/2015 in Bremen die Liste
+der GO-Anträge abgeschlossen und umfasst alle GO-Anträge die in der jüngeren
+Vergangenheit benutzt wurden und die, die schon immer auf der Liste waren.
+Dies umfasst unter anderem auch Verfahrensvorschläge,
+wie z.B. die Entscheidung 2011 in Dresden eine ZaPF um die sich mehrere
+Fachschaften beworben hatten per Stein-Schere-Papier zu vergeben.
+
+Zu entscheiden als welcher GO-Antrag, falls er nicht wie in der Liste benannt
+gestellt wird, ein Antrag gewertet wird obliegt der Redeleitung. Falls die
+Redeleitung dabei einen Fehler macht, erinnert euch daran, dass auch die
+Redeleitung nur aus Menschen besteht, die Fehler machen können und weist sie
+darauf hin.
 
 Abstimmungen ohne jegliche Gegenrede sollten nur mit äußerster Vorsicht
 angenommen werden.
