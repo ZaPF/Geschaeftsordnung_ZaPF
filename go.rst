@@ -1,10 +1,12 @@
+====================================
 Geschäftsordnung für Plenen der ZaPF
 ====================================
 
 Begriffe und Regelungen, die im Anhang kommentiert oder erklärt werden, sind
 kursiv gedruckt.
 
-# 1 Geltungsbereich
+1 Geltungsbereich
+-----------------
 
 Diese Geschäftsordnung gilt für die Plenen (Vollversammlungen aller Teilnehmer)
 der Zusammenkunft aller Physikfachschaften (ZaPF).
@@ -16,7 +18,8 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmer und
 Teilnehmerinnen der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle
 Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 
-# 2 Ablauf eines Plenums
+2 Ablauf eines Plenums
+----------------------
 
 1. Sitzungen der ZaPF sind öffentlich.
 
@@ -27,7 +30,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Protokollführerinnen gewählt, das Protokoll der Sitzung wird im
    ZaPF-Reader für die folgende ZaPF abgedruckt.
 
-4. Nach der Wahl der Redeleitung und der Protokollführung ist die
+4. Nach der Wahl der Sitzungsleitung und der Protokollführung ist die
    Beschlussfähigkeit festzustellen.
 
 5. Anschließend wird die Tagesordnung bekanntgegeben und abgestimmt.
@@ -50,9 +53,11 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 8. Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
    Regel jedoch zehn Minuten nicht überschreiten.
 
-# 3 Anträge
+3 Anträge
+---------
 
-## 3.1 Antragsfristen und Antragsdurchführung
+3.1 Antragsfristen und Antragsdurchführung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens
    eine Stunde vor Beginn des Plenums schriftlich bei der die ZaPF
@@ -70,17 +75,19 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 3. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
-   Zur Abstimmung im Abschlussplenum müssen Anträge zur Änderung der
-   Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Abschlussplenum
-   bekanntgegeben werden.
+   Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
+   der Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
+   Abschlussplenum bekanntgegeben werden.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
+   Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 
 4. Die antragsstellende Person muss im Plenum anwesend sein
    oder kann einen Vertreter oder eine Vertreterin benennen und muss dies
-   der Redeleitung mitteilen.
+   der Sitzungsleitung mitteilen.
    Die Vertreterin oder der Vertreter ist dann die neue antragstellende Person.
 
-## 3.2 Geschäftsordnungsanträge
+3.2 Geschäftsordnungsanträge
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. *Geschäftsordnungsanträge* (GO-Anträge) werden durch das Heben
    beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung
@@ -94,7 +101,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Mehrheit erforderlich.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
 
-4. Geschäftsordnungsanträge sind insbesondere Anträge:
+4. Geschäftsordnungsanträge sind folgende Anträge:
+
    - zur Änderung der Tagesordnung,
    - zur erneuten Feststellung der Beschlussfähigkeit
      (ohne Abstimmung, ohne Gegenrede),
@@ -102,7 +110,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - zur Vertagung eines Verhandlungsgegenstandes in einen anderen
      Tagesordnungspunkt,
    - zur Begrenzung der Redezeit,
-   - zum Schluss der Rednerliste (nach Annahme des Antrages können sich
+   - zum Schluss der Redeliste (nach Annahme des Antrages können sich
      noch Redner auf die Liste setzen lassen, anschließend wird die Liste
      geschlossen, weitere Wortmeldungen sind dann nicht mehr möglich)
    - Wiedereröffnung der Redeliste *
@@ -115,26 +123,37 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
      Recht auf ein Meinungsbild im Plenum *
    - Nichtbefassung *
-   - geheime Abstimung (ohne Gegenrede, ohne Abstimmung)
-   - Neuwahl der Redeleitung unter Benennung eines Gegenkandidaten
-   - Neuwahl des Protokollanten unter Benennung eines Gegenkandidaten
+   - geheime Abstimung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
+     Abstimmung außer Kraft)
+   - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidaten
+   - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
    - Einholung eines Meinungsbildes im Plenum
+   - Verfahrensvorschlag
+   - namentliche Abstimmung
 
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
 
-# 4 Abstimmungen und Wahlen
+4 Abstimmungen und Wahlen
+-------------------------
 
 Dieser Abschnitt regelt die Abstimmungen und Meinungsbilder des ZaPF-Plenums
 sowie die Wahlmodi für Personenwahlen. Die Beschlussfähigkeit für Abstimmungen
 und Personenwahlen ist gegeben, wenn *fünfzehn Physikfachschaften*
 im Plenum anwesend sind.
 
-Die Redeleitung übt die Funktion des Wahlausschusses für offene Abstimmungen und
+Die Beschlussfähigkeit ist ausschließlich für Abstimmungen und Personenwahlen
+entsprechend dieser Geschäftsordnung notwendig.
+Nur das Plenum betreffende Abstimmungen können ohne Beschlussfähigkeit
+durchgeführt werden, dies betrifft insbesondere die Wahl der Sitzungsleitung und der
+Protokollanten, sowie das Sitzungsende.
+
+Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmungen und
 Wahlen aus. Für geheime Abstimmungen und Wahlen wird ein Wahlausschuss von der
-Redeleitung bestimmt. Hierbei darf kein Mitglied des Wahlausschusses selbst zur
+Sitzungsleitung bestimmt. Hierbei darf kein Mitglied des Wahlausschusses selbst zur
 Wahl stehen.
 
-## 4.1 Abstimmungen und Meinungsbilder
+4.1 Abstimmungen und Meinungsbilder
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Es werden Abstimmungen und Meinungsbilder unterschieden. Meinungsbilder
    sind informelle Abstimmungen um die Meinung der im Plenum anwesenden
@@ -192,7 +211,8 @@ Wahl stehen.
    Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur
    explizit und mit einer Zweidrittelmehrheit geändert werden.
 
-## 4.2 Personenwahlen
+4.2 Personenwahlen
+^^^^^^^^^^^^^^^^^^
 
 1. Das passive Wahlrecht für Personenwahlen haben alle angemeldeten Personen
    der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine
@@ -257,6 +277,7 @@ Wahl stehen.
    aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 
 8. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
+
    - Jeder wahlberechtigte Person erhält einen Wahlzettel mit einer
      Liste aller zur Wahl stehenden Personen.
    - Jeder zur Wahl stehenden Person kann eine Stimme gegeben werden.
@@ -279,23 +300,27 @@ Wahl stehen.
    bedürfen einer Zweidrittelmehrheit.
    Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
-# Anhang: Versionshistorie
+Anhang: Versionshistorie
+------------------------
 
 Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in
 Erlangen beschlosse.
 Inhaltliche Änderungen wurden vorgenommen auf der:
 
-- Sommer-ZaPF 2007 in Berlin
+- Sommer-ZaPF 2007 in Berlin,
 - Sommer-ZaPF 2008 in Konstanz,
 - Winter-ZaPF 2008 in Aachen,
 - Sommer-ZaPF 2009 in Göttingen,
 - Sommer-ZaPF 2010 in Frankfurt,
 - Sommer-ZaPF 2011 in Dresden
-- und auf der Sommer-ZaPF 2014 in Düsseldorf.
+- Sommer-ZaPF 2014 in Düsseldorf,
+- und auf der Winter-ZaPF 2014 in Bremen.
 
-# Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
+Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
+-----------------------------------------------------------
 
-## Geschäftsordnungsanträge
+Geschäftsordnungsanträge
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Geschäftsordnungsanträge sind dazu gedacht, zu verhindern, dass eine Diskussion
 sich ins Absurde zieht. Sie sind mit äußerster Vorsicht anzuwenden.
@@ -315,11 +340,13 @@ angenommen werden.
 Formale Gegenrede bedeutet nur bekanntzugeben, dass man dagegen ist, inhaltliche
 Gegenrede beinhaltet eine Begründung.
 
-## Beschlussfähigkeit bei fünfzehn anwesenden Fachschaften
+Beschlussfähigkeit bei fünfzehn anwesenden Fachschaften
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachschaften.
 
-## Mindestanzahl von Ja-Stimmen bei Personenzahlen
+Mindestanzahl von Ja-Stimmen bei Personenzahlen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Das Minimum von acht Ja-Stimmen bewirkt, dass Kandidatinnen und Kandidaten
 mindestens die absolute Mehrheit der zur Beschlussfähigkeit notwendigen Stimmen
