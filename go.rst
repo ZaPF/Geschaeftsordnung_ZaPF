@@ -348,7 +348,7 @@ Fachschaften beworben hatten, per Stein-Schere-Papier zu vergeben.
 
 Falls ein GO-Antrag nicht wie in der Liste benannt gestellt wird, versucht die
 Redeleitung in Rücksprache einen inhaltsgleichen, korrekt gestellten Antrag zu
-finden. Falls die Redeleitung dabei einen Fehler macht, erinnert euch daran,
+finden. Sollte die Redeleitung dabei einen Fehler macht, erinnert euch daran,
 dass auch die Redeleitung nur aus Menschen besteht, die Fehler machen können und
 weist sie darauf hin.
 
