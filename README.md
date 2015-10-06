@@ -5,7 +5,7 @@ Dieses Repository enthält die Quelldateien für die Geschäftsordnung für Plen
 Die main branch enthält die offiziele Variante der Satzung in reStructuredText
 Markdown. Aus dieser können mit dem Python Paket `docutils` die Versionen in
 HTML und LaTeX und daraus die PDF-Version generiert werden. Mit dem Skript
-`rst2wiki.py`  in `'./util` kann eine Variante in Mediawiki-Markup generiert
+`rst2wiki.py`  in `./util` kann eine Variante in Mediawiki-Markup generiert
 werden.
 
 ### Homepage
