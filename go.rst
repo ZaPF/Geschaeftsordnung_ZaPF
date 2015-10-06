@@ -314,7 +314,8 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2010 in Frankfurt,
 - Sommer-ZaPF 2011 in Dresden
 - Sommer-ZaPF 2014 in Düsseldorf,
-- und auf der Winter-ZaPF 2014 in Bremen.
+- Winter-ZaPF 2014 in Bremen.
+- und auf der Sommer-ZaPF 2015 in Aachen.
 
 Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
 -----------------------------------------------------------
