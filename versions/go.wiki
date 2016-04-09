@@ -13,8 +13,6 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmer und Teiln
 #Nach der Wahl der Sitzungsleitung und der Protokollführung ist die Beschlussfähigkeit festzustellen.
 #Anschließend wird die Tagesordnung bekanntgegeben und abgestimmt. Diese Tagesordnung ist bindend.
 #Im Anfangsplenum werden nach Abstimmung der Tagesordnung die Vertrauenspersonen gewählt.
-
-
 #Im Abschlussplenum sollte es immer einen Tagesordnungspunkt "Berichte der Arbeitskreise" geben. Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild einholen wollen, so ist diese entsprechend des Abschnittes "Anträge" einzureichen.
 #Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage mit Wirkung für die gesamte Sitzung durch die Sitzungsleitung entschieden werden.
 #Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der Regel jedoch zehn Minuten nicht überschreiten.
@@ -70,8 +68,6 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 
 #Es werden Abstimmungen und Meinungsbilder unterschieden. Meinungsbilder sind informelle Abstimmungen um die Meinung der im Plenum anwesenden einzuholen, während Abstimmungen über die Annahme oder Ablehnung von Beschlüssen entscheiden.
 #Beschlüsse sind nach außen zu tragende Resolutionen, die zwingend einen Adressaten haben müssen, Positionspapiere, die keinen Adressaten haben, sowie ZaPF-interne Selbstverpflichtungen und Aufträge an den StAPF.
-
-
 #Stimmberechtigt für Meinungsbilder ist jede angemeldete Person der ZaPF.
 #Stimmberechtigt für Abstimmungen ist jede im Plenum anwesende Fachschaft die mindestens eine angemeldete Person hat. Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der jeweiligen Fachschaft zu regeln. Den Fachschaften ist Zeit zur Beratung zu gewähren. Eine geheime Abstimmung ist möglich.
 #Ein Beschluss gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer ist als die Summe aus Enthaltungen und Nein-Stimmen. Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen überwiegen, wird die Abstimmung einmalig wiederholt. Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen überwiegt, gilt der Antrag als abgelehnt. Die Abstimmung geschieht durch deutliches Handheben, eine geheime Abstimmung kann beantragt werden. Eine schriftliche Stimmabgabe ist bei vorzeitiger Abreise möglich, es ist jedoch bei geheimer Abstimmung auf Wahrung des Wahlgeheimnisses zu achten. Die schriftliche Stimmabgabe gilt nur für inhaltlich unveränderte Anträge und verfällt sonst. Stimmrechtsübertragung ist nicht möglich. Anträge zur Abstimmung sind positiv zu formulieren.
@@ -119,16 +115,19 @@ Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Er
 *Sommer-ZaPF 2010 in Frankfurt,
 *Sommer-ZaPF 2011 in Dresden
 *Sommer-ZaPF 2014 in Düsseldorf,
-*und auf der Winter-ZaPF 2014 in Bremen.
+*Winter-ZaPF 2014 in Bremen.
+*und auf der Sommer-ZaPF 2015 in Aachen.
 
 
 == Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung ==
 
 === Geschäftsordnungsanträge ===
 
-Geschäftsordnungsanträge sind dazu gedacht, zu verhindern, dass eine Diskussion sich ins Absurde zieht. Sie sind mit äußerster Vorsicht anzuwenden.
-Bei der Abstimmung über einen Geschäftsordnungsantrag sollte man vorher dreimal darüber nachdenken, ob man ihm zustimmt, da Ende der Debatte Ende der Debatte bedeutet.
-Geschäftsordnungsanträge können als Mittel zu einer Schlammschlacht genutzt werden, jedoch sollte bedacht werden, dass wir als Physiker und Physikerinnen sachliche Diskussionen führen sollten und auch einsehen sollten, wenn die Mehrheit einen Antrag nicht unterstützt.
+Geschäftsordnungsanträge sind dazu gedacht, zu verhindern, dass eine Diskussion sich ins Absurde zieht. Sie sind mit äußerster Vorsicht anzuwenden und sind insbesondere als Korrektiv für eine Diskussion, die ihren roten Faden verloren hat, zu benutzen.
+Bei der Abstimmung über einen Geschäftsordnungsantrag sollte man vorher dreimal darüber nachdenken, ob man ihm zustimmt, da Ende der Debatte auch Ende der Debatte bedeutet.
+Geschäftsordnungsanträge können als Mittel zu einer Schlammschlacht genutzt werden, jedoch sollte bedacht werden, dass wir sachliche Diskussionen führen wollen und auch einsehen sollten, wenn die Mehrheit einen Antrag nicht unterstützt. Die GO kann nie so gefasst werden, dass sie weder von Teilnehmenden des Plenums noch von der Redeleitung missbraucht werden kann. Für einen guten Ablauf des Plenums sind wir auf das Wohlwollen aller angewiesen.
+Um die GO-Anträge auf ihren einzigen Sinn, die Steuerung der Diskussion, zu beschränken, wurden auf der ZaPF im Wintersemester 2014/2015 in Bremen die Liste der GO-Anträge abgeschlossen und umfasst alle GO-Anträge die in der jüngeren Vergangenheit benutzt wurden und die, die schon immer auf der Liste waren. Dies umfasst unter anderem auch Verfahrensvorschläge, wie z.B. die Entscheidung 2011 in Dresden eine ZaPF, um die sich mehrere Fachschaften beworben hatten, per Stein-Schere-Papier zu vergeben.
+Falls ein GO-Antrag nicht wie in der Liste benannt gestellt wird, versucht die Redeleitung in Rücksprache einen inhaltsgleichen, korrekt gestellten Antrag zu finden. Sollte die Redeleitung dabei einen Fehler macht, erinnert euch daran, dass auch die Redeleitung nur aus Menschen besteht, die Fehler machen können und weist sie darauf hin.
 Abstimmungen ohne jegliche Gegenrede sollten nur mit äußerster Vorsicht angenommen werden.
 Formale Gegenrede bedeutet nur bekanntzugeben, dass man dagegen ist, inhaltliche Gegenrede beinhaltet eine Begründung.
 === Beschlussfähigkeit bei fünfzehn anwesenden Fachschaften ===
