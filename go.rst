@@ -39,18 +39,18 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 6. Im Anfangsplenum werden nach Abstimmung der Tagesordnung die
    Vertrauenspersonen gewählt.
 
-6. Im Abschlussplenum sollte es immer einen Tagesordnungspunkt "Berichte
+7. Im Abschlussplenum sollte es immer einen Tagesordnungspunkt "Berichte
    der Arbeitskreise" geben.
    Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild
    einholen wollen, so ist diese entsprechend des Abschnittes "Anträge"
    einzureichen.
 
-7. Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung
+8. Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung
    auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage
    mit Wirkung für die gesamte Sitzung durch die Sitzungsleitung entschieden
    werden.
 
-8. Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
+9. Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
    Regel jedoch zehn Minuten nicht überschreiten.
 
 3 Anträge
@@ -164,16 +164,16 @@ Wahl stehen.
    Adressaten haben müssen, Positionspapiere, die keinen Adressaten haben,
    sowie ZaPF-interne Selbstverpflichtungen und Aufträge an den StAPF.
 
-2. Stimmberechtigt für Meinungsbilder ist jede angemeldete Person der ZaPF.
+3. Stimmberechtigt für Meinungsbilder ist jede angemeldete Person der ZaPF.
 
-3. Stimmberechtigt für Abstimmungen ist jede im Plenum anwesende Fachschaft
+4. Stimmberechtigt für Abstimmungen ist jede im Plenum anwesende Fachschaft
    die mindestens eine angemeldete Person hat.
    Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der
    jeweiligen Fachschaft zu regeln.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
    Eine geheime Abstimmung ist möglich.
 
-4. Ein Beschluss gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer
+5. Ein Beschluss gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer
    ist als die Summe aus Enthaltungen und Nein-Stimmen.
    Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen
    überwiegen, wird die Abstimmung einmalig wiederholt.
@@ -188,7 +188,7 @@ Wahl stehen.
    Stimmrechtsübertragung ist nicht möglich.
    Anträge zur Abstimmung sind positiv zu formulieren.
 
-5. Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das Wesen.
+6. Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das Wesen.
    Sie können von jeder teilnehmenden Person gestellt werden.
    Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen.
    Soweit das Plenum den Änderungsanträgen zustimmt oder sie vom
@@ -197,7 +197,7 @@ Wahl stehen.
    Der antragstellende Person hat bis zur endgültigen Beschlussfassung das Recht,
    auch eine geänderte Fassung seines Antrages zurückzuziehen.
 
-6. Bei konkurrierenden Anträgen ist die Beschlussfassung wie folgt durchzuführen:
+7. Bei konkurrierenden Anträgen ist die Beschlussfassung wie folgt durchzuführen:
    Geht ein Antrag weiter als ein anderer, so ist über den weitergehenden
    zuerst abzustimmen.
    Wird dieser angenommen, so sind weniger weit gehende Anträge erledigt.
@@ -206,7 +206,7 @@ Wahl stehen.
    gestellt werden, aus der Reihenfolge der Antragsstellung.
    Lässt sich diese nicht mehr feststellen, entscheidet die Sitzungsleitung.
 
-7. Beschlüsse zur Änderung dieser Geschäftsordnung bedürfen einer absoluten
+8. Beschlüsse zur Änderung dieser Geschäftsordnung bedürfen einer absoluten
    Mehrheit.
    Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur
    explizit und mit einer Zweidrittelmehrheit geändert werden.
