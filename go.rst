@@ -220,6 +220,8 @@ Wahl stehen.
    anwesende Teilnehmerinnen und Teilnehmer gewählt werden können.
 
 2. Personenwahlen sind grundsätzlich geheim durchzuführen.
+   In Abweichung davon dürfen Sitzungsleitung und Protokollführung per
+   Akklamation gewählt werden.
 
 3. Es werden die Wahlmodi für normale Personenwahlen und die Wahl der
    Vertrauenspersonen im Anfangsplenum unterschieden.
