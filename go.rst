@@ -25,6 +25,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 
 2. Die Sitzungsleitung wird von der die ZaPF organisierenden Fachschaft
    vorgeschlagen und im Plenum abgestimmt.
+   Bis zur Wahl der Sitzungsleitung fungiert die ausrichtende Fachschaft als
+   Sitzungsleitung.
 
 3. Zu Beginn der Sitzung werden ein oder mehrere Protokollführer bzw.
    Protokollführerinnen gewählt, das Protokoll der Sitzung wird im
