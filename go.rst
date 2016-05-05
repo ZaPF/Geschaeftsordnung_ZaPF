@@ -129,7 +129,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
-   - namentliche Abstimmung
+   - namentliche Abstimmung (ohne Gegenrede, ohne Abstimmung)
 
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
 
