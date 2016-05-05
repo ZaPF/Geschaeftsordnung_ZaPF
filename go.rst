@@ -179,8 +179,8 @@ Wahl stehen.
    überwiegen, wird die Abstimmung einmalig wiederholt.
    Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen
    überwiegt, gilt der Antrag als abgelehnt.
-   Die Abstimmung geschieht durch deutliches Handheben, eine geheime
-   Abstimmung kann beantragt werden.
+   Die Abstimmung ist geeignet, z.B. durch deutliches Handheben, kenntlich zu
+   machen eine geheime Abstimmung kann beantragt werden.
    Eine schriftliche Stimmabgabe ist bei vorzeitiger Abreise möglich, es ist
    jedoch bei geheimer Abstimmung auf Wahrung des Wahlgeheimnisses zu achten.
    Die schriftliche Stimmabgabe gilt nur für inhaltlich unveränderte Anträge
