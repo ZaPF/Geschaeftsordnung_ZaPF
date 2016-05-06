@@ -229,7 +229,6 @@ Wahl stehen.
    Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der
    jeweiligen Fachschaft zu regeln.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
-   Eine geheime Abstimmung ist möglich.
 
 5. Die normalen Personenwahlen sind wie folgt durchzuführen:
    Die Kandidaten und Kandidatinnen stellen sich vor der Wahl kurz dem
