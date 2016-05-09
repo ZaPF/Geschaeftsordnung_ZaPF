@@ -129,12 +129,15 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
      Recht auf ein Meinungsbild im Plenum *
    - Nichtbefassung *
    - geheime Abstimung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
-     Abstimmung außer Kraft)
+     Abstimmung und Abstimmung per Handzeichen außer Kraft)
    - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidaten
    - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
-   - namentliche Abstimmung (ohne Gegenrede, ohne Abstimmung)
+   - namentliche Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt Abstimmung
+     per Handzeichen außer Kraft)
+   - Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei
+     Abstimmungen und Meinungsbildern)
 
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
 
@@ -184,8 +187,8 @@ Wahl stehen.
    überwiegen, wird die Abstimmung einmalig wiederholt.
    Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen
    überwiegt, gilt der Antrag als abgelehnt.
-   Die Abstimmung geschieht durch deutliches Handheben, eine geheime
-   Abstimmung kann beantragt werden.
+   Die Abstimmung ist geeignet, z.B. durch deutliches Handheben, kenntlich zu
+   machen, eine geheime Abstimmung in Papierform kann beantragt werden.
    Eine schriftliche Stimmabgabe ist bei vorzeitiger Abreise möglich, es ist
    jedoch bei geheimer Abstimmung auf Wahrung des Wahlgeheimnisses zu achten.
    Die schriftliche Stimmabgabe gilt nur für inhaltlich unveränderte Anträge
