@@ -214,7 +214,7 @@ Wahl stehen.
 4.2 Personenwahlen
 ^^^^^^^^^^^^^^^^^^
 
-1. Das passive Wahlrecht für Personenwahlen haben alle angemeldeten Personen
+1. Das passive Wahlrecht für Personenwahlen haben alle teilnehmenden Personen
    der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine
    Wiederwahl oder Bestätigung im Amt ist, so dass in diesem Fall auch nicht
    anwesende Teilnehmerinnen und Teilnehmer gewählt werden können.
