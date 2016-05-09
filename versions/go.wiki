@@ -8,12 +8,12 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmer und Teiln
 == 2 Ablauf eines Plenums ==
 
 #Sitzungen der ZaPF sind öffentlich.
-#Die Sitzungsleitung wird von der die ZaPF organisierenden Fachschaft vorgeschlagen und im Plenum abgestimmt.
+#Die Sitzungsleitung wird von der die ZaPF organisierenden Fachschaft vorgeschlagen und im Plenum abgestimmt. Bis zur Wahl der Sitzungsleitung fungiert die ausrichtende Fachschaft als Sitzungsleitung.
 #Zu Beginn der Sitzung werden ein oder mehrere Protokollführer bzw. Protokollführerinnen gewählt, das Protokoll der Sitzung wird im ZaPF-Reader für die folgende ZaPF abgedruckt.
 #Nach der Wahl der Sitzungsleitung und der Protokollführung ist die Beschlussfähigkeit festzustellen.
 #Anschließend wird die Tagesordnung bekanntgegeben und abgestimmt. Diese Tagesordnung ist bindend.
 #Im Anfangsplenum werden nach Abstimmung der Tagesordnung die Vertrauenspersonen gewählt.
-#Im Abschlussplenum sollte es immer einen Tagesordnungspunkt "Berichte der Arbeitskreise" geben. Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild einholen wollen, so ist diese entsprechend des Abschnittes "Anträge" einzureichen.
+#Im Abschlussplenum sollte es immer einen Tagesordnungspunkt "Berichte der Arbeitskreise" geben. Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild einholen wollen, so ist diese entsprechend des Abschnittes "Anträge" einzureichen. Auf einer vorherigen ZaPF durch einen GO-Antrag auf "Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im Plenum" vertagten Anträge sollen priorisiert behandelt werden.
 #Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage mit Wirkung für die gesamte Sitzung durch die Sitzungsleitung entschieden werden.
 #Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der Regel jedoch zehn Minuten nicht überschreiten.
 
@@ -47,12 +47,13 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmer und Teiln
 #*zur Anzweiflung einer Abstimmung (ohne Gegenrede, ohne Abstimmung)
 #*zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im Plenum *
 #*Nichtbefassung *
-#*geheime Abstimung (ohne Gegenrede, ohne Abstimmung, setzt namentliche Abstimmung außer Kraft)
+#*geheime Abstimung (ohne Gegenrede, ohne Abstimmung, setzt namentliche Abstimmung und Abstimmung per Handzeichen außer Kraft)
 #*Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidaten
 #*Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
 #*Einholung eines Meinungsbildes im Plenum
 #*Verfahrensvorschlag
-#*namentliche Abstimmung
+#*namentliche Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt Abstimmung per Handzeichen außer Kraft)
+#*Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei Abstimmungen und Meinungsbildern)
 
 
 Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
@@ -70,7 +71,7 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 #Beschlüsse sind nach außen zu tragende Resolutionen, die zwingend einen Adressaten haben müssen, Positionspapiere, die keinen Adressaten haben, sowie ZaPF-interne Selbstverpflichtungen und Aufträge an den StAPF.
 #Stimmberechtigt für Meinungsbilder ist jede angemeldete Person der ZaPF.
 #Stimmberechtigt für Abstimmungen ist jede im Plenum anwesende Fachschaft die mindestens eine angemeldete Person hat. Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der jeweiligen Fachschaft zu regeln. Den Fachschaften ist Zeit zur Beratung zu gewähren. Eine geheime Abstimmung ist möglich.
-#Ein Beschluss gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer ist als die Summe aus Enthaltungen und Nein-Stimmen. Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen überwiegen, wird die Abstimmung einmalig wiederholt. Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen überwiegt, gilt der Antrag als abgelehnt. Die Abstimmung geschieht durch deutliches Handheben, eine geheime Abstimmung kann beantragt werden. Eine schriftliche Stimmabgabe ist bei vorzeitiger Abreise möglich, es ist jedoch bei geheimer Abstimmung auf Wahrung des Wahlgeheimnisses zu achten. Die schriftliche Stimmabgabe gilt nur für inhaltlich unveränderte Anträge und verfällt sonst. Stimmrechtsübertragung ist nicht möglich. Anträge zur Abstimmung sind positiv zu formulieren.
+#Ein Beschluss gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer ist als die Summe aus Enthaltungen und Nein-Stimmen. Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen überwiegen, wird die Abstimmung einmalig wiederholt. Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen überwiegt, gilt der Antrag als abgelehnt. Die Abstimmung ist geeignet, z.B. durch deutliches Handheben, kenntlich zu machen, eine geheime Abstimmung in Papierform kann beantragt werden. Eine schriftliche Stimmabgabe ist bei vorzeitiger Abreise möglich, es ist jedoch bei geheimer Abstimmung auf Wahrung des Wahlgeheimnisses zu achten. Die schriftliche Stimmabgabe gilt nur für inhaltlich unveränderte Anträge und verfällt sonst. Stimmrechtsübertragung ist nicht möglich. Anträge zur Abstimmung sind positiv zu formulieren.
 #Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das Wesen. Sie können von jeder teilnehmenden Person gestellt werden. Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen. Soweit das Plenum den Änderungsanträgen zustimmt oder sie vom Hauptantragsteller oder von der Hauptantragstellerin übernommen werden, wird der Hauptantrag in der geänderten Fassung zur Beschlussfassung gestellt. Der antragstellende Person hat bis zur endgültigen Beschlussfassung das Recht, auch eine geänderte Fassung seines Antrages zurückzuziehen.
 #Bei konkurrierenden Anträgen ist die Beschlussfassung wie folgt durchzuführen: Geht ein Antrag weiter als ein anderer, so ist über den weitergehenden zuerst abzustimmen. Wird dieser angenommen, so sind weniger weit gehende Anträge erledigt. Lässt sich ein Weitergehen nicht feststellen, so bestimmt sich die Reihenfolge, in der die konkurrierenden Anträge zur Beschlussfassung gestellt werden, aus der Reihenfolge der Antragsstellung. Lässt sich diese nicht mehr feststellen, entscheidet die Sitzungsleitung.
 #Beschlüsse zur Änderung dieser Geschäftsordnung bedürfen einer absoluten Mehrheit. Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur explizit und mit einer Zweidrittelmehrheit geändert werden.
@@ -78,10 +79,10 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 
 === 4.2 Personenwahlen ===
 
-#Das passive Wahlrecht für Personenwahlen haben alle angemeldeten Personen der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine Wiederwahl oder Bestätigung im Amt ist, so dass in diesem Fall auch nicht anwesende Teilnehmerinnen und Teilnehmer gewählt werden können.
-#Personenwahlen sind grundsätzlich geheim durchzuführen.
+#Das passive Wahlrecht für Personenwahlen haben alle teilnehmenden Personen der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine Wiederwahl oder Bestätigung im Amt ist, so dass in diesem Fall auch nicht anwesende Teilnehmerinnen und Teilnehmer gewählt werden können.
+#Personenwahlen sind grundsätzlich geheim durchzuführen. In Abweichung davon dürfen Sitzungsleitung und Protokollführung per Akklamation gewählt werden.
 #Es werden die Wahlmodi für normale Personenwahlen und die Wahl der Vertrauenspersonen im Anfangsplenum unterschieden.
-#Stimmberechtigt für normale Personenwahlen ist jede im Plenum anwesende Fachschaft die mindestens eine angemeldete Person hat. Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der jeweiligen Fachschaft zu regeln. Den Fachschaften ist Zeit zur Beratung zu gewähren. Eine geheime Abstimmung ist möglich.
+#Stimmberechtigt für normale Personenwahlen ist jede im Plenum anwesende Fachschaft die mindestens eine angemeldete Person hat. Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der jeweiligen Fachschaft zu regeln. Den Fachschaften ist Zeit zur Beratung zu gewähren.
 #Die normalen Personenwahlen sind wie folgt durchzuführen: Die Kandidaten und Kandidatinnen stellen sich vor der Wahl kurz dem Plenum vor. Dem Plenum ist die Möglichkeit zu geben, unter Ausschluss der Kandidatinnen und Kandidaten zu diskutieren. Diese Diskussion wird nicht protokolliert. Ein Kandidat oder eine Kandidatin gilt als gewählt, wenn er oder sie mehr Ja-Stimmen als Nein-Stimmen, ''mindestens acht Ja-Stimmen''erhält und die Wahl annimmt. Enthaltungen sind möglich und wirken wie nicht oder ungültig abgegebene Stimmen. Sollten mehr Kandidatinnen und Kandidaten gewählt werden, als Posten zur Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
 #Im Anfangsplenumg werden sechs Vertrauenspersonen gewählt. Zur Wahl berechtigt sind alle angemeldeten Teilnehmer der ZaPF.
 #Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von angemeldeten Teilnehmern der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
@@ -116,7 +117,8 @@ Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Er
 *Sommer-ZaPF 2011 in Dresden
 *Sommer-ZaPF 2014 in Düsseldorf,
 *Winter-ZaPF 2014 in Bremen.
-*und auf der Sommer-ZaPF 2015 in Aachen.
+*Sommer-ZaPF 2015 in Aachen,
+*und auf der Sommer-ZaPF 2016 in Konstanz.
 
 
 == Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung ==
