@@ -44,7 +44,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild
    einholen wollen, so ist diese entsprechend des Abschnittes "Anträge"
    einzureichen.
-   Auf einer vorherigen ZaPF vertagten Anträge sind priorisiert zu behandeln.
+   Auf einer vorherigen ZaPF durch einen GO-Antrag auf Verweis in eine
+   Arbeitsgruppe vertagten Anträge sollen priorisiert behandelt werden.
 
 8. Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung
    auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage
