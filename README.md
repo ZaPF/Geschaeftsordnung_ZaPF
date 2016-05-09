@@ -10,7 +10,7 @@ werden.
 
 ### Homepage
 
-* <https://vmp.ethz.ch/zapfwiki/index.php/Gesch%C3%A4ftsordnung_f%C3%BCr_Plenen_der_ZaPF>
+* <https://zapf.wiki/Geschäftsordnung_für_Plenen_der_ZaPF>
 
 ### Kontakt
 
