@@ -25,6 +25,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 
 2. Die Sitzungsleitung wird von der die ZaPF organisierenden Fachschaft
    vorgeschlagen und im Plenum abgestimmt.
+   Bis zur Wahl der Sitzungsleitung fungiert die ausrichtende Fachschaft als
+   Sitzungsleitung.
 
 3. Zu Beginn der Sitzung werden ein oder mehrere Protokollführer bzw.
    Protokollführerinnen gewählt, das Protokoll der Sitzung wird im
@@ -220,6 +222,8 @@ Wahl stehen.
    anwesende Teilnehmerinnen und Teilnehmer gewählt werden können.
 
 2. Personenwahlen sind grundsätzlich geheim durchzuführen.
+   In Abweichung davon dürfen Sitzungsleitung und Protokollführung per
+   Akklamation gewählt werden.
 
 3. Es werden die Wahlmodi für normale Personenwahlen und die Wahl der
    Vertrauenspersonen im Anfangsplenum unterschieden.
