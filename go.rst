@@ -111,7 +111,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - zur Änderung der Tagesordnung,
    - zur erneuten Feststellung der Beschlussfähigkeit
      (ohne Abstimmung, ohne Gegenrede),
-   - zur Unterbrechung der Sitzung,
+   - zur Unterbrechung der Sitzung (auch bekannt als "Pause"),
    - zur Vertagung eines Verhandlungsgegenstandes in einen anderen
      Tagesordnungspunkt,
    - zur Begrenzung der Redezeit,
@@ -123,10 +123,11 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - Zulassung Einzelner zur geschlossenen Sitzung
    - zum Schluss der Debatte (die Diskussion wird nach Annahme des
      Antrages sofort abgebrochen, eine Abstimmung zum Thema wird ggf.
-     sofort durchgeführt)*
+     sofort durchgeführt, auch bekannt als "Antrag auf sofortige Abstimmung") *
    - zur Anzweiflung einer Abstimmung (ohne Gegenrede, ohne Abstimmung)
    - zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
-     Recht auf ein Meinungsbild im Plenum *
+     Recht auf ein Meinungsbild im Plenum (auch bekannt als "Vertagung auf die
+     nächste ZaPF") *
    - Nichtbefassung *
    - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
      Abstimmung und Abstimmung per Handzeichen außer Kraft)
