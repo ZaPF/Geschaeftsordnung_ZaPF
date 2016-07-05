@@ -48,7 +48,9 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    einzureichen.
    Auf einer vorherigen ZaPF durch einen GO-Antrag auf "Schließung der Redeliste
    und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im
-   Plenum" vertagten Anträge sollen priorisiert behandelt werden.
+   Plenum" vertagte Anträge sowie solche, die wegen mangelnder
+   Beschlussfähigkeit, nicht mehr behandelt werden konnten, sollen priorisiert
+   behandelt werden.
 
 8. Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung
    auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage
