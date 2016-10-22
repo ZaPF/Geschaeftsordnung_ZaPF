@@ -306,7 +306,8 @@ Wahl stehen.
      besetzt. Bei Gleichstand entscheidet das Los.
 
 9. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
-   bedürfen einer Zweidrittelmehrheit.
+   bedürfen einer Zweidrittelmehrheit. Der Antrag auf Abwahl ist bis spätestnes
+   15 Uhr am Vortag der ausrichtenden Fachschaft anzukündigen.
    Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
 Anhang: Versionshistorie
