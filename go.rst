@@ -287,7 +287,7 @@ Wahl stehen.
 
 8. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
 
-   - Jeder wahlberechtigte Person erhält einen Wahlzettel mit einer
+   - Jede wahlberechtigte Person erhält einen Wahlzettel mit einer
      Liste aller zur Wahl stehenden Personen.
    - Jeder zur Wahl stehenden Person kann eine Stimme gegeben werden.
    - Die Auszählung der Stimmen erfolgt in mehreren Durchgängen.
