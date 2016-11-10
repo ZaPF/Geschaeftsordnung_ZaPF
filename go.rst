@@ -128,7 +128,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
      Recht auf ein Meinungsbild im Plenum *
    - Nichtbefassung *
-   - geheime Abstimung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
+   - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
      Abstimmung und Abstimmung per Handzeichen außer Kraft)
    - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidaten
    - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
@@ -254,7 +254,7 @@ Wahl stehen.
    Sollten mehr Kandidatinnen und Kandidaten gewählt werden, als Posten zur
    Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
 
-6. Im Anfangsplenumg werden sechs Vertrauenspersonen gewählt. Zur Wahl
+6. Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Zur Wahl
    berechtigt sind alle angemeldeten Teilnehmer der ZaPF.
 
 7. Die Wahl der Vertrauenspersonen erfolgt per Wahl durch
@@ -277,7 +277,7 @@ Wahl stehen.
    Die Wahl durch Zustimmung entfällt hierbei.
 
    Eine Personaldebatte findet nicht statt, die Kandidaten und Kandidatinnen
-   dürfens sich jedoch dem Plenum vorstellen.
+   dürfen sich jedoch dem Plenum vorstellen.
    Die Stimmverteilung wird nicht bekanntgegeben.
    Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
    vom Wahlausschuss veröffentlicht.
@@ -313,7 +313,7 @@ Anhang: Versionshistorie
 ------------------------
 
 Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in
-Erlangen beschlosse.
+Erlangen beschlossen.
 Inhaltliche Änderungen wurden vorgenommen auf der:
 
 - Sommer-ZaPF 2007 in Berlin,
