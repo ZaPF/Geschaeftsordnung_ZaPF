@@ -327,7 +327,8 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2014 in Düsseldorf,
 - Winter-ZaPF 2014 in Bremen.
 - Sommer-ZaPF 2015 in Aachen,
-- und auf der Sommer-ZaPF 2016 in Konstanz.
+- Sommer-ZaPF 2016 in Konstanz,
+- und auf der Winter-ZaPF 2016 in Dresden.
 
 Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
 -----------------------------------------------------------

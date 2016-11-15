@@ -3,7 +3,7 @@
 Begriffe und Regelungen, die im Anhang kommentiert oder erklärt werden, sind kursiv gedruckt.
 == 1 Geltungsbereich ==
 
-Diese Geschäftsordnung gilt für die Plenen (Vollversammlungen aller Teilnehmer) der Zusammenkunft aller Physikfachschaften (ZaPF). Sie ist von allen Teilnehmerinnen und Teilnehmern einzuhalten und regelt unter anderem den Ablauf des Plenums, die Wahl der Organe der ZaPF entsprechend der Satzung der ZaPF und die Antragsfristen und Abstimmung von Anträgen.
+Diese Geschäftsordnung gilt für die Plenen (Vollversammlungen aller Teilnehmer) der Zusammenkunft aller Physikfachschaften (ZaPF). Sie ist von allen Teilnehmerinnen und Teilnehmern einzuhalten und regelt unter anderem den Ablauf des Plenums, die Wahl der Organe der ZaPF entsprechend der Satzung der ZaPF und die Antragsfristen und Abstimmung von Anträgen.<br /><br />
 Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmer und Teilnehmerinnen der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 == 2 Ablauf eines Plenums ==
 
@@ -13,7 +13,7 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmer und Teiln
 #Nach der Wahl der Sitzungsleitung und der Protokollführung ist die Beschlussfähigkeit festzustellen.
 #Anschließend wird die Tagesordnung bekanntgegeben und abgestimmt. Diese Tagesordnung ist bindend.
 #Im Anfangsplenum werden nach Abstimmung der Tagesordnung die Vertrauenspersonen gewählt.
-#Im Abschlussplenum sollte es immer einen Tagesordnungspunkt "Berichte der Arbeitskreise" geben. Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild einholen wollen, so ist diese entsprechend des Abschnittes "Anträge" einzureichen. Auf einer vorherigen ZaPF durch einen GO-Antrag auf "Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im Plenum" vertagten Anträge sollen priorisiert behandelt werden.
+#Im Abschlussplenum sollte es immer einen Tagesordnungspunkt "Berichte der Arbeitskreise" geben. Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild einholen wollen, so ist diese entsprechend des Abschnittes "Anträge" einzureichen. Auf einer vorherigen ZaPF durch einen GO-Antrag auf "Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im Plenum" vertagte Anträge sowie solche, die wegen mangelnder Beschlussfähigkeit, nicht mehr behandelt werden konnten, sollen priorisiert behandelt werden.
 #Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage mit Wirkung für die gesamte Sitzung durch die Sitzungsleitung entschieden werden.
 #Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der Regel jedoch zehn Minuten nicht überschreiten.
 
@@ -47,7 +47,7 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmer und Teiln
 #*zur Anzweiflung einer Abstimmung (ohne Gegenrede, ohne Abstimmung)
 #*zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im Plenum *
 #*Nichtbefassung *
-#*geheime Abstimung (ohne Gegenrede, ohne Abstimmung, setzt namentliche Abstimmung und Abstimmung per Handzeichen außer Kraft)
+#*geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt namentliche Abstimmung und Abstimmung per Handzeichen außer Kraft)
 #*Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidaten
 #*Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
 #*Einholung eines Meinungsbildes im Plenum
@@ -62,8 +62,8 @@ Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
 
 == 4 Abstimmungen und Wahlen ==
 
-Dieser Abschnitt regelt die Abstimmungen und Meinungsbilder des ZaPF-Plenums sowie die Wahlmodi für Personenwahlen. Die Beschlussfähigkeit für Abstimmungen und Personenwahlen ist gegeben, wenn ''fünfzehn Physikfachschaften''im Plenum anwesend sind.
-Die Beschlussfähigkeit ist ausschließlich für Abstimmungen und Personenwahlen entsprechend dieser Geschäftsordnung notwendig. Nur das Plenum betreffende Abstimmungen können ohne Beschlussfähigkeit durchgeführt werden, dies betrifft insbesondere die Wahl der Sitzungsleitung und der Protokollanten, sowie das Sitzungsende.
+Dieser Abschnitt regelt die Abstimmungen und Meinungsbilder des ZaPF-Plenums sowie die Wahlmodi für Personenwahlen. Die Beschlussfähigkeit für Abstimmungen und Personenwahlen ist gegeben, wenn ''fünfzehn Physikfachschaften''im Plenum anwesend sind.<br /><br />
+Die Beschlussfähigkeit ist ausschließlich für Abstimmungen und Personenwahlen entsprechend dieser Geschäftsordnung notwendig. Nur das Plenum betreffende Abstimmungen können ohne Beschlussfähigkeit durchgeführt werden, dies betrifft insbesondere die Wahl der Sitzungsleitung und der Protokollanten, sowie das Sitzungsende.<br /><br />
 Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmungen und Wahlen aus. Für geheime Abstimmungen und Wahlen wird ein Wahlausschuss von der Sitzungsleitung bestimmt. Hierbei darf kein Mitglied des Wahlausschusses selbst zur Wahl stehen.
 === 4.1 Abstimmungen und Meinungsbilder ===
 
@@ -84,31 +84,21 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 #Es werden die Wahlmodi für normale Personenwahlen und die Wahl der Vertrauenspersonen im Anfangsplenum unterschieden.
 #Stimmberechtigt für normale Personenwahlen ist jede im Plenum anwesende Fachschaft die mindestens eine angemeldete Person hat. Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der jeweiligen Fachschaft zu regeln. Den Fachschaften ist Zeit zur Beratung zu gewähren.
 #Die normalen Personenwahlen sind wie folgt durchzuführen: Die Kandidaten und Kandidatinnen stellen sich vor der Wahl kurz dem Plenum vor. Dem Plenum ist die Möglichkeit zu geben, unter Ausschluss der Kandidatinnen und Kandidaten zu diskutieren. Diese Diskussion wird nicht protokolliert. Ein Kandidat oder eine Kandidatin gilt als gewählt, wenn er oder sie mehr Ja-Stimmen als Nein-Stimmen, ''mindestens acht Ja-Stimmen''erhält und die Wahl annimmt. Enthaltungen sind möglich und wirken wie nicht oder ungültig abgegebene Stimmen. Sollten mehr Kandidatinnen und Kandidaten gewählt werden, als Posten zur Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
-#Im Anfangsplenumg werden sechs Vertrauenspersonen gewählt. Zur Wahl berechtigt sind alle angemeldeten Teilnehmer der ZaPF.
-#Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von angemeldeten Teilnehmern der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
-Der so bestimmten Gruppe muss anschließend mit absoluter Mehrheit vom Plenum das Vertrauen ausgesprochen werden, damit sie als gewählt gelten. Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht, ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die sechste Person in der Rangfolge. Sollten sich nur Personen eines Geschlechts beworben haben, ist diese Regelung irrelevant.
-
-Bei weniger als sieben sich bewerbenden Menschen muss der kompletten Gruppe das Vertrauen mit absoluter Mehrheit vom Plenum ausgesprochen werden, damit sie als gewählt gelten. Die Wahl durch Zustimmung entfällt hierbei.
-
-Eine Personaldebatte findet nicht statt, die Kandidaten und Kandidatinnen dürfens sich jedoch dem Plenum vorstellen. Die Stimmverteilung wird nicht bekanntgegeben. Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge vom Wahlausschuss veröffentlicht.
-
-Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
-
+#Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Zur Wahl berechtigt sind alle angemeldeten Teilnehmer der ZaPF.
+#Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von angemeldeten Teilnehmern der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen. <br /><br />Der so bestimmten Gruppe muss anschließend mit absoluter Mehrheit vom Plenum das Vertrauen ausgesprochen werden, damit sie als gewählt gelten. Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht, ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die sechste Person in der Rangfolge. Sollten sich nur Personen eines Geschlechts beworben haben, ist diese Regelung irrelevant. <br /><br />Bei weniger als sieben sich bewerbenden Menschen muss der kompletten Gruppe das Vertrauen mit absoluter Mehrheit vom Plenum ausgesprochen werden, damit sie als gewählt gelten. Die Wahl durch Zustimmung entfällt hierbei. <br /><br />Eine Personaldebatte findet nicht statt, die Kandidaten und Kandidatinnen dürfen sich jedoch dem Plenum vorstellen. Die Stimmverteilung wird nicht bekanntgegeben. Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge vom Wahlausschuss veröffentlicht. <br /><br />Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 #Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
-#*Jeder wahlberechtigte Person erhält einen Wahlzettel mit einer Liste aller zur Wahl stehenden Personen.
+#*Jede wahlberechtigte Person erhält einen Wahlzettel mit einer Liste aller zur Wahl stehenden Personen.
 #*Jeder zur Wahl stehenden Person kann eine Stimme gegeben werden.
 #*Die Auszählung der Stimmen erfolgt in mehreren Durchgängen.
 #*Im ersten Durchgang werden alle Stimmen ausgezählt und die Person mit den meisten Stimmen kommt in die Gruppe der gewählten Personen. Daraufhin werden alle Wahlzettel, die der ersten gewählten Person eine Ja-Stimme gegeben haben, von den übrigen Wahlzetteln getrennt.
 #*In den darauf folgenden Durchgängen wird immer die Person mit den meisten Stimmen in den verbliebenen Wahlzetteln der Gruppe der gewählten Personen hinzugefügt und ihre Wahlzettel von den übrigen Wahlzetteln getrennt. Dies wird so lange wiederholt bis alle Plätze besetzt sind oder keine Wahlzettel mehr übrig sind.
 #*Sollten noch nicht alle Plätze in der Gruppe der gewählten Personen besetzt sein obwohl keine Wahlzettel mehr verblieben sind, werden die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde besetzt. Bei Gleichstand entscheidet das Los.
-
-
 #Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und bedürfen einer Zweidrittelmehrheit. Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
 
 == Anhang: Versionshistorie ==
 
-Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Erlangen beschlosse. Inhaltliche Änderungen wurden vorgenommen auf der:
+Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Erlangen beschlossen. Inhaltliche Änderungen wurden vorgenommen auf der:
 *Sommer-ZaPF 2007 in Berlin,
 *Sommer-ZaPF 2008 in Konstanz,
 *Winter-ZaPF 2008 in Aachen,
@@ -118,7 +108,8 @@ Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Er
 *Sommer-ZaPF 2014 in Düsseldorf,
 *Winter-ZaPF 2014 in Bremen.
 *Sommer-ZaPF 2015 in Aachen,
-*und auf der Sommer-ZaPF 2016 in Konstanz.
+*Sommer-ZaPF 2016 in Konstanz,
+*und auf der Winter-ZaPF 2016 in Dresden.
 
 
 == Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung ==
