@@ -126,8 +126,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
      sofort durchgeführt, auch bekannt als "Antrag auf sofortige Abstimmung") *
    - zur Anzweiflung einer Abstimmung (ohne Gegenrede, ohne Abstimmung)
    - zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
-     Recht auf ein Meinungsbild im Plenum (auch bekannt als "Vertagung auf die
-     nächste ZaPF") *
+     Recht auf ein Meinungsbild im Plenum (auch bekannt als "Vertagung auf das
+     nächste Plenum bzw. die nächste ZaPF") *
    - Nichtbefassung *
    - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
      Abstimmung und Abstimmung per Handzeichen außer Kraft)
