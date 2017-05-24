@@ -174,10 +174,10 @@ Wahl stehen.
    Adressaten haben müssen, Positionspapiere, die keinen Adressaten haben,
    sowie ZaPF-interne Selbstverpflichtungen und Aufträge an den StAPF.
 
-3. Stimmberechtigt für Meinungsbilder ist jede angemeldete Person der ZaPF.
+3. Stimmberechtigt für Meinungsbilder ist jede teilnehmende Person der ZaPF.
 
 4. Stimmberechtigt für Abstimmungen ist jede im Plenum anwesende Fachschaft
-   die mindestens eine angemeldete Person hat.
+   die mindestens eine teilnehmende Person hat.
    Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der
    jeweiligen Fachschaft zu regeln.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
@@ -237,7 +237,7 @@ Wahl stehen.
    Vertrauenspersonen im Anfangsplenum unterschieden.
 
 4. Stimmberechtigt für normale Personenwahlen ist jede im Plenum anwesende
-   Fachschaft die mindestens eine angemeldete Person hat.
+   Fachschaft die mindestens eine teilnehmende Person hat.
    Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der
    jeweiligen Fachschaft zu regeln.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
