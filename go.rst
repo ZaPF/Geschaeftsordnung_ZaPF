@@ -101,7 +101,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    bzw. Abstimmung zu behandeln und abzustimmen.
 
 2. Es ist nur eine Für-Rede durch die antragstellende Person und eine Gegenrede
-   erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen.
+   erlaubt. Eine ist inhaltliche einer formellen Gegenrede vorzuziehen.
    Eine Diskussion von GO-Anträgen findet nicht statt.
 
 3. In der Abstimmung ist (bis auf unten angegebene Ausnahmen) eine einfache
