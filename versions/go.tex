@@ -36,6 +36,7 @@ pdfdisplaydoctitle=true]{hyperref}
 % hyperlinks:
 \ifthenelse{\isundefined{\hypersetup}}{
   \usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue]{hyperref}
+  \usepackage{bookmark}
   \urlstyle{same} % normal text font (alternatives: tt, rm, sf)
 }{}
 \hypersetup{
@@ -75,12 +76,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 \section{2 Ablauf eines Plenums%
   \label{ablauf-eines-plenums}%
 }
-\newcounter{listcnt0}
-\begin{list}{\arabic{listcnt0}.}
-{
-\usecounter{listcnt0}
-\setlength{\rightmargin}{\leftmargin}
-}
+\begin{enumerate}
 
 \item Sitzungen der ZaPF sind öffentlich.
 
@@ -120,7 +116,7 @@ werden.
 
 \item Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
 Regel jedoch zehn Minuten nicht überschreiten.
-\end{list}
+\end{enumerate}
 
 
 \section{3 Anträge%
@@ -131,12 +127,7 @@ Regel jedoch zehn Minuten nicht überschreiten.
 \subsection{3.1 Antragsfristen und Antragsdurchführung%
   \label{antragsfristen-und-antragsdurchfuhrung}%
 }
-\setcounter{listcnt0}{0}
-\begin{list}{\arabic{listcnt0}.}
-{
-\usecounter{listcnt0}
-\setlength{\rightmargin}{\leftmargin}
-}
+\begin{enumerate}
 
 \item Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens
 eine Stunde vor Beginn des Plenums schriftlich bei der die ZaPF
@@ -164,18 +155,13 @@ Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kr
 oder kann einen Vertreter oder eine Vertreterin benennen und muss dies
 der Sitzungsleitung mitteilen.
 Die Vertreterin oder der Vertreter ist dann die neue antragstellende Person.
-\end{list}
+\end{enumerate}
 
 
 \subsection{3.2 Geschäftsordnungsanträge%
   \label{geschaftsordnungsantrage}%
 }
-\setcounter{listcnt0}{0}
-\begin{list}{\arabic{listcnt0}.}
-{
-\usecounter{listcnt0}
-\setlength{\rightmargin}{\leftmargin}
-}
+\begin{enumerate}
 
 \item \emph{Geschäftsordnungsanträge} (GO-Anträge) werden durch das Heben
 beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung
@@ -198,7 +184,7 @@ Gibt es keine Gegenrede gilt der Antrag als angenommen.
 \item zur erneuten Feststellung der Beschlussfähigkeit
 (ohne Abstimmung, ohne Gegenrede),
 
-\item zur Unterbrechung der Sitzung,
+\item zur Unterbrechung der Sitzung (auch bekannt als \textquotedbl{}Pause\textquotedbl{}),
 
 \item zur Vertagung eines Verhandlungsgegenstandes in einen anderen
 Tagesordnungspunkt,
@@ -217,12 +203,13 @@ geschlossen, weitere Wortmeldungen sind dann nicht mehr möglich)
 
 \item zum Schluss der Debatte (die Diskussion wird nach Annahme des
 Antrages sofort abgebrochen, eine Abstimmung zum Thema wird ggf.
-sofort durchgeführt)*
+sofort durchgeführt, auch bekannt als \textquotedbl{}Antrag auf sofortige Abstimmung\textquotedbl{}) *
 
 \item zur Anzweiflung einer Abstimmung (ohne Gegenrede, ohne Abstimmung)
 
 \item zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
-Recht auf ein Meinungsbild im Plenum *
+Recht auf ein Meinungsbild im Plenum (auch bekannt als \textquotedbl{}Vertagung auf das
+nächste Plenum bzw. die nächste ZaPF\textquotedbl{}) *
 
 \item Nichtbefassung *
 
@@ -246,7 +233,7 @@ Abstimmungen und Meinungsbildern)
 \end{itemize}
 
 Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
-\end{list}
+\end{enumerate}
 
 
 \section{4 Abstimmungen und Wahlen%
@@ -255,7 +242,7 @@ Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
 
 Dieser Abschnitt regelt die Abstimmungen und Meinungsbilder des ZaPF-Plenums
 sowie die Wahlmodi für Personenwahlen. Die Beschlussfähigkeit für Abstimmungen
-und Personenwahlen ist gegeben, wenn \emph{fünfzehn Physikfachschaften}
+und Personenwahlen ist gegeben, wenn \emph{zwanzig Physikfachschaften}
 im Plenum anwesend sind.
 
 Die Beschlussfähigkeit ist ausschließlich für Abstimmungen und Personenwahlen
@@ -273,12 +260,7 @@ Wahl stehen.
 \subsection{4.1 Abstimmungen und Meinungsbilder%
   \label{abstimmungen-und-meinungsbilder}%
 }
-\setcounter{listcnt0}{0}
-\begin{list}{\arabic{listcnt0}.}
-{
-\usecounter{listcnt0}
-\setlength{\rightmargin}{\leftmargin}
-}
+\begin{enumerate}
 
 \item Es werden Abstimmungen und Meinungsbilder unterschieden. Meinungsbilder
 sind informelle Abstimmungen um die Meinung der im Plenum anwesenden
@@ -289,10 +271,10 @@ Beschlüssen entscheiden.
 Adressaten haben müssen, Positionspapiere, die keinen Adressaten haben,
 sowie ZaPF-interne Selbstverpflichtungen und Aufträge an den StAPF.
 
-\item Stimmberechtigt für Meinungsbilder ist jede angemeldete Person der ZaPF.
+\item Stimmberechtigt für Meinungsbilder ist jede teilnehmende Person der ZaPF.
 
 \item Stimmberechtigt für Abstimmungen ist jede im Plenum anwesende Fachschaft
-die mindestens eine angemeldete Person hat.
+die mindestens eine teilnehmende Person hat.
 Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der
 jeweiligen Fachschaft zu regeln.
 Den Fachschaften ist Zeit zur Beratung zu gewähren.
@@ -335,18 +317,13 @@ Lässt sich diese nicht mehr feststellen, entscheidet die Sitzungsleitung.
 Mehrheit.
 Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur
 explizit und mit einer Zweidrittelmehrheit geändert werden.
-\end{list}
+\end{enumerate}
 
 
 \subsection{4.2 Personenwahlen%
   \label{personenwahlen}%
 }
-\setcounter{listcnt0}{0}
-\begin{list}{\arabic{listcnt0}.}
-{
-\usecounter{listcnt0}
-\setlength{\rightmargin}{\leftmargin}
-}
+\begin{enumerate}
 
 \item Das passive Wahlrecht für Personenwahlen haben alle teilnehmenden Personen
 der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine
@@ -361,7 +338,7 @@ Akklamation gewählt werden.
 Vertrauenspersonen im Anfangsplenum unterschieden.
 
 \item Stimmberechtigt für normale Personenwahlen ist jede im Plenum anwesende
-Fachschaft die mindestens eine angemeldete Person hat.
+Fachschaft die mindestens eine teilnehmende Person hat.
 Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der
 jeweiligen Fachschaft zu regeln.
 Den Fachschaften ist Zeit zur Beratung zu gewähren.
@@ -373,7 +350,7 @@ Dem Plenum ist die Möglichkeit zu geben, unter Ausschluss der Kandidatinnen
 und Kandidaten zu diskutieren.
 Diese Diskussion wird nicht protokolliert.
 Ein Kandidat oder eine Kandidatin gilt als gewählt, wenn er oder sie mehr
-Ja-Stimmen als Nein-Stimmen, \emph{mindestens acht Ja-Stimmen}
+Ja-Stimmen als Nein-Stimmen, \emph{mindestens elf Ja-Stimmen}
 erhält und die Wahl annimmt.
 Enthaltungen sind möglich und wirken wie nicht oder ungültig abgegebene
 Stimmen.
@@ -443,7 +420,7 @@ besetzt. Bei Gleichstand entscheidet das Los.
 \item Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
 bedürfen einer Zweidrittelmehrheit.
 Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
-\end{list}
+\end{enumerate}
 
 
 \section{Anhang: Versionshistorie%
@@ -527,8 +504,8 @@ Formale Gegenrede bedeutet nur bekanntzugeben, dass man dagegen ist, inhaltliche
 Gegenrede beinhaltet eine Begründung.
 
 
-\subsection{Beschlussfähigkeit bei fünfzehn anwesenden Fachschaften%
-  \label{beschlussfahigkeit-bei-funfzehn-anwesenden-fachschaften}%
+\subsection{Beschlussfähigkeit bei zwanzig anwesenden Fachschaften%
+  \label{beschlussfahigkeit-bei-zwanzig-anwesenden-fachschaften}%
 }
 
 Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachschaften.
@@ -538,7 +515,7 @@ Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachscha
   \label{mindestanzahl-von-ja-stimmen-bei-personenzahlen}%
 }
 
-Das Minimum von acht Ja-Stimmen bewirkt, dass Kandidatinnen und Kandidaten
+Das Minimum von elf Ja-Stimmen bewirkt, dass Kandidatinnen und Kandidaten
 mindestens die absolute Mehrheit der zur Beschlussfähigkeit notwendigen Stimmen
 erhalten muss.
 
