@@ -258,10 +258,10 @@ Wahl stehen.
    Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
 
 6. Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Zur Wahl
-   berechtigt sind alle angemeldeten Teilnehmer der ZaPF.
+   berechtigt sind alle anwesenden natürlichen Personen.
 
 7. Die Wahl der Vertrauenspersonen erfolgt per Wahl durch
-   Zustimmung aus einem Pool von angemeldeten Teilnehmern der ZaPF.
+   Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF.
    Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums
    in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der
    ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
