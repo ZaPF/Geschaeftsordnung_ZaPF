@@ -177,9 +177,9 @@ Wahl stehen.
    einzuholen, während Abstimmungen über die Annahme oder Ablehnung von
    Beschlüssen entscheiden.
 
-2. Beschlüsse sind nach außen zu tragende Resolutionen, die zwingend einen
-   Adressaten haben müssen, Positionspapiere, die keinen Adressaten haben,
-   sowie ZaPF-interne Selbstverpflichtungen und Aufträge an den StAPF.
+2. Beschlüsse sind nach außen zu tragende *Resolutionen*, die zwingend einen
+   Adressaten haben müssen, *Positionspapiere*, die keinen Adressaten haben,
+   sowie ZaPF-interne *Selbstverpflichtungen* und Aufträge an den StAPF.
 
 3. Stimmberechtigt für Meinungsbilder ist jede teilnehmende Person der ZaPF.
 
@@ -398,3 +398,19 @@ Geeignete Form des Nachvollziehbarmachens
 Es kann sehr schwer sein kleinste Änderungen in Texten nachzuvollziehen, es
 erleichtert die Arbeit im Plenum deswegen erheblich, wenn Änderungen bestehender
 Texte im einzelnen hervorgehoben sind. Dies kann z.B. durch ein Diff geschehen.
+
+Resolutionen, Positionspapiere und Selbstverpflichtungen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Resolutionen halten Positionen der ZaPF fest und werden vom StAPF an die im
+Antrag angegebenen Adressaten verschickt.
+
+Positionspapiere erfüllen den selben Zweck wie Resolutionen, aber haben keine
+eigenen Adressaten und sollen im Bericht des StAPFes und auf der
+Internetpräsenz der ZaPF in der Liste aller Resolutionen und Positionspapiere
+veröffentlicht werden.
+
+Selbstverpflichtungen sind ZaPF-interne Dokumente, die Aufträge an die Organe
+der ZaPF, z.B. den StAPF, geben. Selbstverpflichtungen können insbesondere dafür
+genutzt werden Arbeitsthesen eines Arbeitskreises festzuhalten, mit der
+Intention auf einer folgenden ZaPF einen weiteren Beschluss zu fassen.
