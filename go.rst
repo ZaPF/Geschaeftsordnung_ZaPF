@@ -406,7 +406,7 @@ Resolutionen halten Positionen der ZaPF fest und werden vom StAPF an die im
 Antrag angegebenen Adressaten verschickt.
 
 Positionspapiere erfüllen den selben Zweck wie Resolutionen, aber haben keine
-eigenen Adressaten und sollen nur im Bericht des StAPFes und auf der
+eigenen Adressaten und sollen im Bericht des StAPFes und auf der
 Internetpräsenz der ZaPF in der Liste aller Resolutionen und Positionspapiere
 veröffentlicht werden.
 
