@@ -93,6 +93,12 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    der Sitzungsleitung mitteilen.
    Die Vertreterin oder der Vertreter ist dann die neue antragstellende Person.
 
+5. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
+   und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
+   *geeignet nachvollziehbar* machen.
+   Diese Pflicht entfällt für Initiativanträge.
+
+
 3.2 Geschäftsordnungsanträge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -385,3 +391,10 @@ Mindestanzahl von Ja-Stimmen bei Personenzahlen
 Das Minimum von elf Ja-Stimmen bewirkt, dass Kandidatinnen und Kandidaten
 mindestens die absolute Mehrheit der zur Beschlussfähigkeit notwendigen Stimmen
 erhalten muss.
+
+Geeignete Form des Nachvollziehbarmachens
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Es kann sehr schwer sein kleinste Änderungen in Texten nachzuvollziehen, es
+erleichtert die Arbeit im Plenum deswegen erheblich, wenn Änderungen bestehender
+Texte im einzelnen hervorgehoben sind. Dies kann z.B. durch ein Diff geschehen.
