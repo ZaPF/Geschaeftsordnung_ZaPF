@@ -26,6 +26,7 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmer und Teiln
 #Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge und müssen von mindestens zwei Personen aus verschiedenen Fachschaften getragen werden. Auch diese Anträge müssen dem Plenum in geeigneter Form vorgelegt werden.
 #Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet bekanntgemacht werden, z.B. über die Mailingliste. Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung der Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder Abschlussplenum bekanntgegeben werden. Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich. Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 #Die antragsstellende Person muss im Plenum anwesend sein oder kann einen Vertreter oder eine Vertreterin benennen und muss dies der Sitzungsleitung mitteilen. Die Vertreterin oder der Vertreter ist dann die neue antragstellende Person.
+#Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes ''geeignet nachvollziehbar'' machen. Diese Pflicht entfällt für Initiativanträge.
 
 
 === 3.2 Geschäftsordnungsanträge ===
@@ -68,7 +69,7 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 === 4.1 Abstimmungen und Meinungsbilder ===
 
 #Es werden Abstimmungen und Meinungsbilder unterschieden. Meinungsbilder sind informelle Abstimmungen um die Meinung der im Plenum anwesenden einzuholen, während Abstimmungen über die Annahme oder Ablehnung von Beschlüssen entscheiden.
-#Beschlüsse sind nach außen zu tragende Resolutionen, die zwingend einen Adressaten haben müssen, Positionspapiere, die keinen Adressaten haben, sowie ZaPF-interne Selbstverpflichtungen und Aufträge an den StAPF.
+#Beschlüsse sind nach außen zu tragende ''Resolutionen'', die zwingend einen Adressaten haben müssen, ''Positionspapiere'', die keinen Adressaten haben, sowie ZaPF-interne ''Selbstverpflichtungen'' und Aufträge an den StAPF.
 #Stimmberechtigt für Meinungsbilder ist jede teilnehmende Person der ZaPF.
 #Stimmberechtigt für Abstimmungen ist jede im Plenum anwesende Fachschaft die mindestens eine teilnehmende Person hat. Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der jeweiligen Fachschaft zu regeln. Den Fachschaften ist Zeit zur Beratung zu gewähren. Eine geheime Abstimmung ist möglich.
 #Ein Beschluss gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer ist als die Summe aus Enthaltungen und Nein-Stimmen. Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen überwiegen, wird die Abstimmung einmalig wiederholt. Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen überwiegt, gilt der Antrag als abgelehnt. Die Abstimmung ist geeignet, z.B. durch deutliches Handheben, kenntlich zu machen, eine geheime Abstimmung in Papierform kann beantragt werden. Eine schriftliche Stimmabgabe ist bei vorzeitiger Abreise möglich, es ist jedoch bei geheimer Abstimmung auf Wahrung des Wahlgeheimnisses zu achten. Die schriftliche Stimmabgabe gilt nur für inhaltlich unveränderte Anträge und verfällt sonst. Stimmrechtsübertragung ist nicht möglich. Anträge zur Abstimmung sind positiv zu formulieren.
@@ -84,8 +85,8 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 #Es werden die Wahlmodi für normale Personenwahlen und die Wahl der Vertrauenspersonen im Anfangsplenum unterschieden.
 #Stimmberechtigt für normale Personenwahlen ist jede im Plenum anwesende Fachschaft die mindestens eine teilnehmende Person hat. Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der jeweiligen Fachschaft zu regeln. Den Fachschaften ist Zeit zur Beratung zu gewähren.
 #Die normalen Personenwahlen sind wie folgt durchzuführen: Die Kandidaten und Kandidatinnen stellen sich vor der Wahl kurz dem Plenum vor. Dem Plenum ist die Möglichkeit zu geben, unter Ausschluss der Kandidatinnen und Kandidaten zu diskutieren. Diese Diskussion wird nicht protokolliert. Ein Kandidat oder eine Kandidatin gilt als gewählt, wenn er oder sie mehr Ja-Stimmen als Nein-Stimmen, ''mindestens elf Ja-Stimmen''erhält und die Wahl annimmt. Enthaltungen sind möglich und wirken wie nicht oder ungültig abgegebene Stimmen. Sollten mehr Kandidatinnen und Kandidaten gewählt werden, als Posten zur Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
-#Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Zur Wahl berechtigt sind alle angemeldeten Teilnehmer der ZaPF.
-#Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von angemeldeten Teilnehmern der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
+#Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Zur Wahl berechtigt sind alle anwesenden natürlichen Personen.
+#Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
 Der so bestimmten Gruppe muss anschließend mit absoluter Mehrheit vom Plenum das Vertrauen ausgesprochen werden, damit sie als gewählt gelten. Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht, ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die sechste Person in der Rangfolge. Sollten sich nur Personen eines Geschlechts beworben haben, ist diese Regelung irrelevant.
 
 Bei weniger als sieben sich bewerbenden Menschen muss der kompletten Gruppe das Vertrauen mit absoluter Mehrheit vom Plenum ausgesprochen werden, damit sie als gewählt gelten. Die Wahl durch Zustimmung entfällt hierbei.
@@ -103,7 +104,7 @@ Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen aus
 #*Sollten noch nicht alle Plätze in der Gruppe der gewählten Personen besetzt sein obwohl keine Wahlzettel mehr verblieben sind, werden die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde besetzt. Bei Gleichstand entscheidet das Los.
 
 
-#Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und bedürfen einer Zweidrittelmehrheit. Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
+#Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und bedürfen einer Zweidrittelmehrheit. Der Antrag auf Abwahl ist bis spätestens 15 Uhr am Vortag der ausrichtenden Fachschaft anzukündigen. Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
 
 == Anhang: Versionshistorie ==
@@ -119,7 +120,8 @@ Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Er
 *Winter-ZaPF 2014 in Bremen.
 *Sommer-ZaPF 2015 in Aachen,
 *Sommer-ZaPF 2016 in Konstanz,
-*und auf der Winter-ZaPF 2016 in Dresden.
+*Winter-ZaPF 2016 in Dresden,
+*und auf der Sommer-ZaPF 2017 in Berlin.
 
 
 == Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung ==
@@ -139,4 +141,12 @@ Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachscha
 === Mindestanzahl von Ja-Stimmen bei Personenzahlen ===
 
 Das Minimum von elf Ja-Stimmen bewirkt, dass Kandidatinnen und Kandidaten mindestens die absolute Mehrheit der zur Beschlussfähigkeit notwendigen Stimmen erhalten muss.
+=== Geeignete Form des Nachvollziehbarmachens ===
+
+Es kann sehr schwer sein kleinste Änderungen in Texten nachzuvollziehen, es erleichtert die Arbeit im Plenum deswegen erheblich, wenn Änderungen bestehender Texte im einzelnen hervorgehoben sind. Dies kann z.B. durch ein Diff geschehen.
+=== Resolutionen, Positionspapiere und Selbstverpflichtungen ===
+
+Resolutionen halten Positionen der ZaPF fest und werden vom StAPF an die im Antrag angegebenen Adressaten verschickt.
+Positionspapiere erfüllen den selben Zweck wie Resolutionen, aber haben keine eigenen Adressaten und sollen im Bericht des StAPFes und auf der Internetpräsenz der ZaPF in der Liste aller Resolutionen und Positionspapiere veröffentlicht werden.
+Selbstverpflichtungen sind ZaPF-interne Dokumente, die Aufträge an die Organe der ZaPF, z.B. den StAPF, geben. Selbstverpflichtungen können insbesondere dafür genutzt werden Arbeitsthesen eines Arbeitskreises festzuhalten, mit der Intention auf einer folgenden ZaPF einen weiteren Beschluss zu fassen.
 
