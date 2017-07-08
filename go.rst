@@ -94,7 +94,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Die Vertreterin oder der Vertreter ist dann die neue antragstellende Person.
 
 5. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
-   und die Satzung, ändern wollen, müssen ihre Änderung des bestehenden Textes
+   und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
    *geeignet nachvollziehbar* machen.
    Diese Pflicht entfällt für Initiativanträge.
 
