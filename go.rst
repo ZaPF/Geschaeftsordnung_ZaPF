@@ -136,7 +136,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
      Recht auf ein Meinungsbild im Plenum (auch bekannt als "Vertagung auf das
      nächste Plenum bzw. die nächste ZaPF") *
-   - Nichtbefassung *
+   - Nichtbefassung (kann nicht geheim abgestimmt werden) *
    - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
      Abstimmung und Abstimmung per Handzeichen außer Kraft)
    - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidaten
