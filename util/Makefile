@@ -1,10 +1,13 @@
 # Dies ist das Makefile um die verschiedenen Publikationsversionen der Satzung
 # der ZaPF
 
-all: html tex pdf wiki
+all: html tex pdf wiki md
 
 html: ../go.rst
 	rst2html ../go.rst > ../versions/go.html
+
+md: ../go.rst
+	pandoc --from=rst --to=markdown --output=../versions/go.md ../go.rst 
 
 tex: ../go.rst
 	rst2latex --documentclass=scrartcl --documentoptions=12pt,oneside --stylesheet=./preamble.tex --embed-stylesheet --latex-preamble= ../go.rst > ../versions/go.tex
