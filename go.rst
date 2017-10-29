@@ -216,7 +216,9 @@ Wahl stehen.
    Die antragstellende Person hat bis zur endgültigen Beschlussfassung das Recht,
    auch eine geänderte Fassung ihres Antrages zurückzuziehen.
 
-7. Bei konkurrierenden Anträgen ist die Beschlussfassung wie folgt durchzuführen:
+7. *Konkurriende Anträge* sind einander widersprechende Anträge zur selben Sache.
+
+8. Bei konkurrierenden Anträgen ist die Beschlussfassung wie folgt durchzuführen:
    Geht ein Antrag weiter als ein anderer, so ist über den weitergehenden
    zuerst abzustimmen.
    Wird dieser angenommen, so sind weniger weit gehende Anträge erledigt.
@@ -225,7 +227,7 @@ Wahl stehen.
    gestellt werden, aus der Reihenfolge der Antragsstellung.
    Lässt sich diese nicht mehr feststellen, entscheidet die Sitzungsleitung.
 
-8. Beschlüsse zur Änderung dieser Geschäftsordnung bedürfen einer absoluten
+9. Beschlüsse zur Änderung dieser Geschäftsordnung bedürfen einer absoluten
    Mehrheit.
    Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur
    explizit und mit einer Zweidrittelmehrheit geändert werden.
@@ -417,3 +419,11 @@ Selbstverpflichtungen sind ZaPF-interne Dokumente, die Aufträge an die Organe
 der ZaPF, z.B. den StAPF, geben. Selbstverpflichtungen können insbesondere dafür
 genutzt werden Arbeitsthesen eines Arbeitskreises festzuhalten, mit der
 Intention auf einer folgenden ZaPF einen weiteren Beschluss zu fassen.
+
+Konkurrierende Anträge
+^^^^^^^^^^^^^^^^^^^^^^
+
+Konkurriende Anträge entfallen üblicherweise in eine von zwei Kategorien:
+
+1. Verschiedene Änderungsanträge, die die selbe Textstelle ändern wollen.
+2. Verschiede inhaltliche Beschlussfassungen zur selben Sache.
