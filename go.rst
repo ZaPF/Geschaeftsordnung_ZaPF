@@ -211,8 +211,8 @@ Wahl stehen.
    Soweit das Plenum den Änderungsanträgen zustimmt oder sie vom
    Hauptantragsteller oder von der Hauptantragstellerin übernommen werden,
    wird der Hauptantrag in der geänderten Fassung zur Beschlussfassung gestellt.
-   Der antragstellende Person hat bis zur endgültigen Beschlussfassung das Recht,
-   auch eine geänderte Fassung seines Antrages zurückzuziehen.
+   Die antragstellende Person hat bis zur endgültigen Beschlussfassung das Recht,
+   auch eine geänderte Fassung ihres Antrages zurückzuziehen.
 
 7. Bei konkurrierenden Anträgen ist die Beschlussfassung wie folgt durchzuführen:
    Geht ein Antrag weiter als ein anderer, so ist über den weitergehenden
