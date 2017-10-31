@@ -66,7 +66,9 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 3.1 Antragsfristen und Antragsdurchführung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens
+1. Antragsberechtigt sind alle teilnehmende Personen.
+
+2. Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens
    eine Stunde vor Beginn des Plenums schriftlich bei der die ZaPF
    ausrichtenden Fachschaft einzureichen.
    Dies gilt insbesondere für Texte, über die abgestimmt werden soll.
@@ -74,12 +76,12 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Die Fristen für Anträge zur Änderung der Geschäftsordnung werden in einem
    eigenen Absatz geregelt.
 
-2. Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge
+3. Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge
    und müssen von mindestens zwei Personen aus verschiedenen Fachschaften
    getragen werden. Auch diese Anträge müssen dem Plenum in geeigneter Form
    vorgelegt werden.
 
-3. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
+4. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
    Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
@@ -88,12 +90,12 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
    Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 
-4. Die antragsstellende Person muss im Plenum anwesend sein
+5. Die antragsstellende Person muss im Plenum anwesend sein
    oder kann einen Vertreter oder eine Vertreterin benennen und muss dies
    der Sitzungsleitung mitteilen.
    Die Vertreterin oder der Vertreter ist dann die neue antragstellende Person.
 
-5. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
+6. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
    und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
    *geeignet nachvollziehbar* machen.
    Diese Pflicht entfällt für Initiativanträge.
