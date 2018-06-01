@@ -238,7 +238,7 @@ Wahl stehen.
 1. Das passive Wahlrecht für Personenwahlen haben alle teilnehmenden Personen
    der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine
    Wiederwahl oder Bestätigung im Amt ist, so dass in diesem Fall auch nicht
-   anwesende Teilnehmerinnen und Teilnehmer gewählt werden können.
+   teilnehmende Personen gewählt werden können.
 
 2. Personenwahlen sind grundsätzlich geheim durchzuführen.
    In Abweichung davon dürfen Sitzungsleitung und Protokollführung per
