@@ -313,6 +313,8 @@ Wahl stehen.
      Personen hinzugefügt und ihre Wahlzettel von den übrigen Wahlzetteln
      getrennt. Dies wird so lange wiederholt bis alle Plätze besetzt sind
      oder keine Wahlzettel mehr übrig sind.
+   - Bei Stimmengleichheit entscheidet die Anzahl der Stimmen aus der 
+     ersten Runde. Bei Gleichstand entscheidet das Los.
    - Sollten noch nicht alle Plätze in der Gruppe der gewählten Personen
      besetzt sein obwohl keine Wahlzettel mehr verblieben sind, werden
      die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde
