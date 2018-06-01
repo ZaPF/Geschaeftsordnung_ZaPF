@@ -267,8 +267,8 @@ Wahl stehen.
    Sollten mehr Kandidatinnen und Kandidaten gewählt werden, als Posten zur
    Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
 
-6. Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Zur Wahl
-   berechtigt sind alle anwesenden natürlichen Personen.
+6. Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Das aktive 
+   Wahlrecht besitzen alle anwesenden natürlichen Personen.
 
 7. Die Wahl der Vertrauenspersonen erfolgt per Wahl durch
    Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF.
