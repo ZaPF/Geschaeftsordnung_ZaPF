@@ -82,12 +82,12 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 
 === 4.2 Personenwahlen ===
 
-#Das passive Wahlrecht für Personenwahlen haben alle teilnehmenden Personen der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine Wiederwahl oder Bestätigung im Amt ist, so dass in diesem Fall auch nicht anwesende Teilnehmerinnen und Teilnehmer gewählt werden können.
+#Das passive Wahlrecht für Personenwahlen haben alle teilnehmenden Personen der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine Wiederwahl oder Bestätigung im Amt ist, so dass in diesem Fall auch nicht teilnehmende Personen gewählt werden können.
 #Personenwahlen sind grundsätzlich geheim durchzuführen. In Abweichung davon dürfen Sitzungsleitung und Protokollführung per Akklamation gewählt werden.
 #Es werden die Wahlmodi für normale Personenwahlen und die Wahl der Vertrauenspersonen im Anfangsplenum unterschieden.
 #Stimmberechtigt für normale Personenwahlen ist jede im Plenum anwesende Fachschaft die mindestens eine teilnehmende Person hat. Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der jeweiligen Fachschaft zu regeln. Den Fachschaften ist Zeit zur Beratung zu gewähren.
 #Die normalen Personenwahlen sind wie folgt durchzuführen: Die Kandidaten und Kandidatinnen stellen sich vor der Wahl kurz dem Plenum vor. Dem Plenum ist die Möglichkeit zu geben, unter Ausschluss der Kandidatinnen und Kandidaten zu diskutieren. Diese Diskussion wird nicht protokolliert. Ein Kandidat oder eine Kandidatin gilt als gewählt, wenn er oder sie mehr Ja-Stimmen als Nein-Stimmen, ''mindestens elf Ja-Stimmen''erhält und die Wahl annimmt. Enthaltungen sind möglich und wirken wie nicht oder ungültig abgegebene Stimmen. Sollten mehr Kandidatinnen und Kandidaten gewählt werden, als Posten zur Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
-#Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Zur Wahl berechtigt sind alle anwesenden natürlichen Personen.
+#Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Das aktive Wahlrecht besitzen alle anwesenden natürlichen Personen.
 #Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
 Der so bestimmten Gruppe muss anschließend mit absoluter Mehrheit vom Plenum das Vertrauen ausgesprochen werden, damit sie als gewählt gelten. Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht, ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die sechste Person in der Rangfolge. Sollten sich nur Personen eines Geschlechts beworben haben, ist diese Regelung irrelevant.
 
@@ -103,6 +103,7 @@ Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen aus
 #*Die Auszählung der Stimmen erfolgt in mehreren Durchgängen.
 #*Im ersten Durchgang werden alle Stimmen ausgezählt und die Person mit den meisten Stimmen kommt in die Gruppe der gewählten Personen. Daraufhin werden alle Wahlzettel, die der ersten gewählten Person eine Ja-Stimme gegeben haben, von den übrigen Wahlzetteln getrennt.
 #*In den darauf folgenden Durchgängen wird immer die Person mit den meisten Stimmen in den verbliebenen Wahlzetteln der Gruppe der gewählten Personen hinzugefügt und ihre Wahlzettel von den übrigen Wahlzetteln getrennt. Dies wird so lange wiederholt bis alle Plätze besetzt sind oder keine Wahlzettel mehr übrig sind.
+#*Bei Stimmengleichheit entscheidet die Anzahl der Stimmen aus der ersten Runde. Bei Gleichstand entscheidet das Los.
 #*Sollten noch nicht alle Plätze in der Gruppe der gewählten Personen besetzt sein obwohl keine Wahlzettel mehr verblieben sind, werden die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde besetzt. Bei Gleichstand entscheidet das Los.
 
 
@@ -124,7 +125,8 @@ Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Er
 *Sommer-ZaPF 2016 in Konstanz,
 *Winter-ZaPF 2016 in Dresden,
 *Sommer-ZaPF 2017 in Berlin,
-*und auf der Winter-ZaPF 2017 in Siegen.
+*Winter-ZaPF 2017 in Siegen,
+*und auf der Sommer-ZaPF 2018 in Heidelberg.
 
 
 == Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung ==
