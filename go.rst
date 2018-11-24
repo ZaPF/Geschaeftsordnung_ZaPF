@@ -8,15 +8,15 @@ kursiv gedruckt.
 1 Geltungsbereich
 -----------------
 
-Diese Geschäftsordnung gilt für die Plenen (Vollversammlungen aller Teilnehmer)
+Diese Geschäftsordnung gilt für die Plenen (Vollversammlungen aller Teilnehmenden)
 der Zusammenkunft aller Physikfachschaften (ZaPF).
-Sie ist von allen Teilnehmerinnen und Teilnehmern einzuhalten und regelt unter
+Sie ist von allen Teilnehmenden einzuhalten und regelt unter
 anderem den Ablauf des Plenums, die Wahl der Organe der ZaPF entsprechend der
 Satzung der ZaPF und die Antragsfristen und Abstimmung von Anträgen.
 
-Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmer und
-Teilnehmerinnen der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle
-Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
+Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden
+der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle
+Mitglieder und helfende Personen der ausführenden Fachschaft.
 
 2 Ablauf eines Plenums
 ----------------------
@@ -28,9 +28,10 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Bis zur Wahl der Sitzungsleitung fungiert die ausrichtende Fachschaft als
    Sitzungsleitung.
 
-3. Zu Beginn der Sitzung werden ein oder mehrere Protokollführer bzw.
-   Protokollführerinnen gewählt, das Protokoll der Sitzung wird im
-   ZaPF-Reader für die folgende ZaPF abgedruckt.
+3. Zu Beginn der Sitzung wird eine Protokollführung, bestehend aus einer
+   oder mehreren Personen, gewählt.
+   Das Protokoll der Sitzung wird im ZaPF-Reader für die folgende ZaPF
+   abgedruckt.
 
 4. Nach der Wahl der Sitzungsleitung und der Protokollführung ist die
    Beschlussfähigkeit festzustellen.
@@ -91,9 +92,9 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 
 5. Die antragsstellende Person muss im Plenum anwesend sein
-   oder kann einen Vertreter oder eine Vertreterin benennen und muss dies
+   oder kann eine Vertretung benennen und muss dies
    der Sitzungsleitung mitteilen.
-   Die Vertreterin oder der Vertreter ist dann die neue antragstellende Person.
+   Die vertretende ist dann die neue antragstellende Person.
 
 6. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
    und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
@@ -130,7 +131,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
      geschlossen, weitere Wortmeldungen sind dann nicht mehr möglich)
    - Wiedereröffnung der Redeliste *
    - geschlossene Sitzung (jeweils nur für einen Tagesordnungspunkt)
-   - Zulassung Einzelner zur geschlossenen Sitzung
+   - Zulassung einzelner Personen zur geschlossenen Sitzung
    - zum Schluss der Debatte (die Diskussion wird nach Annahme des
      Antrages sofort abgebrochen, eine Abstimmung zum Thema wird ggf.
      sofort durchgeführt, auch bekannt als "Antrag auf sofortige Abstimmung") *
@@ -141,8 +142,8 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - Nichtbefassung auf dieser ZaPF *
    - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
      Abstimmung und Abstimmung per Handzeichen außer Kraft)
-   - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidaten
-   - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
+   - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidierender
+   - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidierender
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
    - namentliche Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt Abstimmung
@@ -164,7 +165,7 @@ Die Beschlussfähigkeit ist ausschließlich für Abstimmungen und Personenwahlen
 entsprechend dieser Geschäftsordnung notwendig.
 Nur das Plenum betreffende Abstimmungen können ohne Beschlussfähigkeit
 durchgeführt werden, dies betrifft insbesondere die Wahl der Sitzungsleitung und der
-Protokollanten, sowie das Sitzungsende.
+Protokollführung, sowie das Sitzungsende.
 
 Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmungen und
 Wahlen aus. Für geheime Abstimmungen und Wahlen wird ein Wahlausschuss von der
@@ -179,8 +180,9 @@ Wahl stehen.
    einzuholen, während Abstimmungen über die Annahme oder Ablehnung von
    Beschlüssen entscheiden.
 
-2. Beschlüsse sind nach außen zu tragende *Resolutionen*, die zwingend einen
-   Adressaten haben müssen, *Positionspapiere*, die keinen Adressaten haben,
+2. Beschlüsse sind nach außen zu tragende *Resolutionen*, die zwingend an
+   eine oder mehrere natürliche oder juristische Personen adressiert sein
+   müssen, *Positionspapiere*, die an niemanden adressiert sind,
    sowie ZaPF-interne *Selbstverpflichtungen* und Aufträge an den StAPF.
 
 3. Stimmberechtigt für Meinungsbilder ist jede teilnehmende Person der ZaPF.
@@ -210,8 +212,8 @@ Wahl stehen.
 6. Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das Wesen.
    Sie können von jeder teilnehmenden Person gestellt werden.
    Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen.
-   Soweit das Plenum den Änderungsanträgen zustimmt oder sie vom
-   Hauptantragsteller oder von der Hauptantragstellerin übernommen werden,
+   Soweit das Plenum den Änderungsanträgen zustimmt oder sie von den
+   hauptantragstellenden Personen übernommen werden,
    wird der Hauptantrag in der geänderten Fassung zur Beschlussfassung gestellt.
    Die antragstellende Person hat bis zur endgültigen Beschlussfassung das Recht,
    auch eine geänderte Fassung ihres Antrages zurückzuziehen.
@@ -254,17 +256,16 @@ Wahl stehen.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
 
 5. Die normalen Personenwahlen sind wie folgt durchzuführen:
-   Die Kandidaten und Kandidatinnen stellen sich vor der Wahl kurz dem
-   Plenum vor.
-   Dem Plenum ist die Möglichkeit zu geben, unter Ausschluss der Kandidatinnen
-   und Kandidaten zu diskutieren.
+   Die Kandidierenden stellen sich vor der Wahl kurz dem Plenum vor.
+   Dem Plenum ist die Möglichkeit zu geben, unter Ausschluss der
+   Kandidierenden zu diskutieren.
    Diese Diskussion wird nicht protokolliert.
-   Ein Kandidat oder eine Kandidatin gilt als gewählt, wenn er oder sie mehr
+   Eine kandidierende Person gilt als gewählt, wenn die Person mehr
    Ja-Stimmen als Nein-Stimmen, *mindestens elf Ja-Stimmen*
    erhält und die Wahl annimmt.
    Enthaltungen sind möglich und wirken wie nicht oder ungültig abgegebene
    Stimmen.
-   Sollten mehr Kandidatinnen und Kandidaten gewählt werden, als Posten zur
+   Sollten mehr Kandidierende gewählt werden, als Posten zur
    Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
 
 6. Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Das aktive 
@@ -289,7 +290,7 @@ Wahl stehen.
    damit sie als gewählt gelten.
    Die Wahl durch Zustimmung entfällt hierbei.
 
-   Eine Personaldebatte findet nicht statt, die Kandidaten und Kandidatinnen
+   Eine Personaldebatte findet nicht statt, die Kandidierenden
    dürfen sich jedoch dem Plenum vorstellen.
    Die Stimmverteilung wird nicht bekanntgegeben.
    Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
@@ -397,7 +398,7 @@ Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachscha
 Mindestanzahl von Ja-Stimmen bei Personenzahlen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Das Minimum von elf Ja-Stimmen bewirkt, dass Kandidatinnen und Kandidaten
+Das Minimum von elf Ja-Stimmen bewirkt, dass Kandidierende
 mindestens die absolute Mehrheit der zur Beschlussfähigkeit notwendigen Stimmen
 erhalten muss.
 
@@ -412,10 +413,10 @@ Resolutionen, Positionspapiere und Selbstverpflichtungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Resolutionen halten Positionen der ZaPF fest und werden vom StAPF an die im
-Antrag angegebenen Adressaten verschickt.
+Antrag angegebenen adressierten natürlichen und juristischen Personen verschickt.
 
-Positionspapiere erfüllen den selben Zweck wie Resolutionen, aber haben keine
-eigenen Adressaten und sollen im Bericht des StAPFes und auf der
+Positionspapiere erfüllen den selben Zweck wie Resolutionen, werden aber
+nicht gesondert verschickt und sollen im Bericht des StAPFes und auf der
 Internetpräsenz der ZaPF in der Liste aller Resolutionen und Positionspapiere
 veröffentlicht werden.
 
