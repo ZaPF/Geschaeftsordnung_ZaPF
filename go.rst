@@ -180,9 +180,9 @@ Wahl stehen.
    einzuholen, während Abstimmungen über die Annahme oder Ablehnung von
    Beschlüssen entscheiden.
 
-2. Beschlüsse sind nach außen zu tragende *Resolutionen*, die zwingend an
-   eine oder mehrere natürliche oder juristische Personen adressiert sein
-   müssen, *Positionspapiere*, die an niemanden adressiert sind,
+2. Beschlüsse sind nach außen zu tragende *Resolutionen*, die zwingend an eine
+   oder mehrere natürliche oder juristische Personen oder Personengruppen
+   adressiert sein müssen, *Positionspapiere*, die an niemanden adressiert sind,
    sowie ZaPF-interne *Selbstverpflichtungen* und Aufträge an den StAPF.
 
 3. Stimmberechtigt für Meinungsbilder ist jede teilnehmende Person der ZaPF.
@@ -413,7 +413,8 @@ Resolutionen, Positionspapiere und Selbstverpflichtungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Resolutionen halten Positionen der ZaPF fest und werden vom StAPF an die im
-Antrag angegebenen adressierten natürlichen und juristischen Personen verschickt.
+Antrag angegebenen adressierten natürlichen und juristischen Personen und
+Personengruppen verschickt.
 
 Positionspapiere erfüllen den selben Zweck wie Resolutionen, werden aber
 nicht gesondert verschickt und sollen im Bericht des StAPFes und auf der
