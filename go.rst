@@ -277,29 +277,7 @@ Wahl stehen.
    in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der
    ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
 
-   Der so bestimmten Gruppe muss anschließend mit absoluter Mehrheit vom
-   Plenum das Vertrauen ausgesprochen werden, damit sie als gewählt gelten.
-   Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht,
-   ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die
-   sechste Person in der Rangfolge.
-   Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
-   Regelung irrelevant.
-
-   Bei weniger als sieben sich bewerbenden Menschen muss der kompletten Gruppe
-   das Vertrauen mit absoluter Mehrheit vom Plenum ausgesprochen werden,
-   damit sie als gewählt gelten.
-   Die Wahl durch Zustimmung entfällt hierbei.
-
-   Eine Personaldebatte findet nicht statt, die Kandidierenden
-   dürfen sich jedoch dem Plenum vorstellen.
-   Die Stimmverteilung wird nicht bekanntgegeben.
-   Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
-   vom Wahlausschuss veröffentlicht.
-
-   Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
-   aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
-
-8. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
+7.1 Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
 
    - Jede wahlberechtigte Person erhält einen Wahlzettel mit einer
      Liste aller zur Wahl stehenden Personen.
@@ -321,7 +299,32 @@ Wahl stehen.
      die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde
      besetzt. Bei Gleichstand entscheidet das Los.
 
-9. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
+7.2  Der so bestimmten Gruppe muss anschließend das Vertrauen ausgesprochen werden. Dies geschieht 	falls nicht anders gewünscht per Akklamation.
+     Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht,
+     ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die
+     sechste Person in der Rangfolge.
+     Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
+     Regelung irrelevant.
+
+     Bei weniger als sieben sich bewerbenden Speziemen der Gattung homo sapiens sapiens muss der
+     kompletten Gruppe das Vertrauen mit Zweidrittelmehrheit ausgesprochen werden, damit sie als
+     gewählt gilt.
+     Die Wahl durch Zustimmung entfällt hierbei.
+
+7.3  Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich jedoch dem Plenum
+     vorstellen.
+     Die Stimmverteilung wird nicht bekanntgegeben.
+     Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
+     vom Wahlausschuss veröffentlicht.
+
+7.4  Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
+     aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
+
+7.5  Wird den sechs Vertrauenspersonen das Vertrauen nicht ausgesprochen, werden alle Bewerbungen als 	   Vertrauensperson ungültig und das Bewerbungsverfahren wird erneut geöffnet. Die in 4.2.7
+     genannten Fristen entfallen hierbei. Ein angemessener Bewerbungszeitrum von wenigstens einer
+     Viertelstunde ist zu gewähren. Das Wahlverfahren ist erneut durchzuführen.
+
+8. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
    bedürfen einer Zweidrittelmehrheit. Der Antrag auf Abwahl ist bis spätestens
    15 Uhr am Vortag der ausrichtenden Fachschaft anzukündigen.
    Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
