@@ -307,9 +307,9 @@ Wahl stehen.
      Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
      Regelung irrelevant.
 
-     Bei weniger als sieben sich bewerbenden Speziemen der Gattung 
-     homo sapiens sapiens muss der kompletten Gruppe das Vertrauen mit 
-     Zweidrittelmehrheit ausgesprochen werden, damit sie als gewählt gilt.
+     Bei weniger als sieben sich bewerbenden Personen muss der kompletten
+     Gruppe das Vertrauen mit Zweidrittelmehrheit ausgesprochen werden, 
+     damit sie als gewählt gilt.
      Die Wahl durch Zustimmung entfällt hierbei.
 
 7.3  Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich 
