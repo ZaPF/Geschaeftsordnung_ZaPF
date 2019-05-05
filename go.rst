@@ -299,20 +299,21 @@ Wahl stehen.
      die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde
      besetzt. Bei Gleichstand entscheidet das Los.
 
-7.2  Der so bestimmten Gruppe muss anschließend das Vertrauen ausgesprochen werden. Dies geschieht 	falls nicht anders gewünscht per Akklamation.
+7.2  Der so bestimmten Gruppe muss anschließend das Vertrauen ausgesprochen 
+     werden. Dies geschieht falls nicht anders gewünscht per Akklamation.
      Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht,
      ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die
      sechste Person in der Rangfolge.
      Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
      Regelung irrelevant.
 
-     Bei weniger als sieben sich bewerbenden Speziemen der Gattung homo sapiens sapiens muss der
-     kompletten Gruppe das Vertrauen mit Zweidrittelmehrheit ausgesprochen werden, damit sie als
-     gewählt gilt.
+     Bei weniger als sieben sich bewerbenden Speziemen der Gattung 
+     homo sapiens sapiens muss der kompletten Gruppe das Vertrauen mit 
+     Zweidrittelmehrheit ausgesprochen werden, damit sie als gewählt gilt.
      Die Wahl durch Zustimmung entfällt hierbei.
 
-7.3  Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich jedoch dem Plenum
-     vorstellen.
+7.3  Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich 
+     jedoch dem Plenum vorstellen.
      Die Stimmverteilung wird nicht bekanntgegeben.
      Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
      vom Wahlausschuss veröffentlicht.
@@ -320,8 +321,10 @@ Wahl stehen.
 7.4  Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
      aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 
-7.5  Wird den sechs Vertrauenspersonen das Vertrauen nicht ausgesprochen, werden alle Bewerbungen als 	   Vertrauensperson ungültig und das Bewerbungsverfahren wird erneut geöffnet. Die in 4.2.7
-     genannten Fristen entfallen hierbei. Ein angemessener Bewerbungszeitrum von wenigstens einer
+7.5  Wird den sechs Vertrauenspersonen das Vertrauen nicht ausgesprochen, 
+     werden alle Bewerbungen als Vertrauensperson ungültig und das 
+     Bewerbungsverfahren wird erneut geöffnet. Die in 4.2.7 genannten Fristen 
+     entfallen hierbei. Ein angemessener Bewerbungszeitrum von wenigstens einer
      Viertelstunde ist zu gewähren. Das Wahlverfahren ist erneut durchzuführen.
 
 8. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
