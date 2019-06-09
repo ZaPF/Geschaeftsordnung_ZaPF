@@ -317,21 +317,21 @@ Wahl stehen.
    Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
    Regelung irrelevant.
 
-   Bei weniger als sieben sich bewerbenden Personen muss der kompletten
+5. Bei weniger als sieben sich bewerbenden Personen muss der kompletten
    Gruppe das Vertrauen mit Zweidrittelmehrheit ausgesprochen werden,
    damit sie als gewählt gilt.
    Die Wahl durch Zustimmung entfällt hierbei.
 
-5. Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich
+6. Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich
    jedoch dem Plenum vorstellen.
    Die Stimmverteilung wird nicht bekanntgegeben.
    Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
    vom Wahlausschuss veröffentlicht.
 
-6. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
+7. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
    aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 
-7. Wird den sechs Vertrauenspersonen das Vertrauen nicht ausgesprochen,
+8. Wird den sechs Vertrauenspersonen das Vertrauen nicht ausgesprochen,
    werden alle Bewerbungen als Vertrauensperson ungültig und das
    Bewerbungsverfahren wird erneut geöffnet. Die in 4.3.2 genannten Fristen
    entfallen hierbei. Ein angemessener Bewerbungszeitraum von wenigstens einer
