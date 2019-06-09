@@ -318,7 +318,7 @@ Wahl stehen.
 
 6. Der durch die Wahl bestimmten Gruppe muss anschließend das Vertrauen
    ausgesprochen werden. Dies geschieht falls nicht anders gewünscht per
-   Akklamation.
+   Handzeichen in offener Wahl.
    Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht,
    ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die
    sechste Person in der Rangfolge.
