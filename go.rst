@@ -157,9 +157,11 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
 -------------------------
 
 Dieser Abschnitt regelt die Abstimmungen und Meinungsbilder des ZaPF-Plenums
-sowie die Wahlmodi für Personenwahlen. Die Beschlussfähigkeit für Abstimmungen
-und Personenwahlen ist gegeben, wenn *zwanzig Physikfachschaften*
-im Plenum anwesend sind.
+sowie die Wahlmodi für Personenwahlen. Vom üblichen Modus für Personenwahlen
+abweichende Bestimmungen werden in einem eigenen Unterabschnitt geregelt, die
+verbleibenden Regelungen für Personenwahlen sind davon unbenommen. Die
+Beschlussfähigkeit für Abstimmungen und Personenwahlen ist gegeben, wenn
+*zwanzig Physikfachschaften* im Plenum anwesend sind.
 
 Die Beschlussfähigkeit ist ausschließlich für Abstimmungen und Personenwahlen
 entsprechend dieser Geschäftsordnung notwendig.
@@ -268,16 +270,24 @@ Wahl stehen.
    Sollten mehr Kandidierende gewählt werden, als Posten zur
    Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
 
-6. Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Das aktive 
+6. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
+   bedürfen einer Zweidrittelmehrheit. Der Antrag auf Abwahl ist bis spätestens
+   15 Uhr am Vortag der ausrichtenden Fachschaft anzukündigen.
+   Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
+
+4.3 Vertrauenspersonen
+^^^^^^^^^^^^^^^^^^^^^^
+
+1. Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Das aktive
    Wahlrecht besitzen alle anwesenden natürlichen Personen.
 
-7. Die Wahl der Vertrauenspersonen erfolgt per Wahl durch
+2. Die Wahl der Vertrauenspersonen erfolgt per Wahl durch
    Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF.
    Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums
    in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der
    ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
 
-7.1 Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
+3. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
 
    - Jede wahlberechtigte Person erhält einen Wahlzettel mit einer
      Liste aller zur Wahl stehenden Personen.
@@ -292,45 +302,40 @@ Wahl stehen.
      Personen hinzugefügt und ihre Wahlzettel von den übrigen Wahlzetteln
      getrennt. Dies wird so lange wiederholt bis alle Plätze besetzt sind
      oder keine Wahlzettel mehr übrig sind.
-   - Bei Stimmengleichheit entscheidet die Anzahl der Stimmen aus der 
+   - Bei Stimmengleichheit entscheidet die Anzahl der Stimmen aus der
      ersten Runde. Bei Gleichstand entscheidet das Los.
    - Sollten noch nicht alle Plätze in der Gruppe der gewählten Personen
      besetzt sein obwohl keine Wahlzettel mehr verblieben sind, werden
      die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde
      besetzt. Bei Gleichstand entscheidet das Los.
 
-7.2  Der so bestimmten Gruppe muss anschließend das Vertrauen ausgesprochen 
-     werden. Dies geschieht falls nicht anders gewünscht per Akklamation.
-     Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht,
-     ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die
-     sechste Person in der Rangfolge.
-     Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
-     Regelung irrelevant.
+4. Der so bestimmten Gruppe muss anschließend das Vertrauen ausgesprochen
+   werden. Dies geschieht falls nicht anders gewünscht per Akklamation.
+   Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht,
+   ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die
+   sechste Person in der Rangfolge.
+   Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
+   Regelung irrelevant.
 
-     Bei weniger als sieben sich bewerbenden Personen muss der kompletten
-     Gruppe das Vertrauen mit Zweidrittelmehrheit ausgesprochen werden, 
-     damit sie als gewählt gilt.
-     Die Wahl durch Zustimmung entfällt hierbei.
+   Bei weniger als sieben sich bewerbenden Personen muss der kompletten
+   Gruppe das Vertrauen mit Zweidrittelmehrheit ausgesprochen werden,
+   damit sie als gewählt gilt.
+   Die Wahl durch Zustimmung entfällt hierbei.
 
-7.3  Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich 
-     jedoch dem Plenum vorstellen.
-     Die Stimmverteilung wird nicht bekanntgegeben.
-     Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
-     vom Wahlausschuss veröffentlicht.
+5. Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich
+   jedoch dem Plenum vorstellen.
+   Die Stimmverteilung wird nicht bekanntgegeben.
+   Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
+   vom Wahlausschuss veröffentlicht.
 
-7.4  Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
-     aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
+6. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
+   aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 
-7.5  Wird den sechs Vertrauenspersonen das Vertrauen nicht ausgesprochen, 
-     werden alle Bewerbungen als Vertrauensperson ungültig und das 
-     Bewerbungsverfahren wird erneut geöffnet. Die in 4.2.7 genannten Fristen 
-     entfallen hierbei. Ein angemessener Bewerbungszeitrum von wenigstens einer
-     Viertelstunde ist zu gewähren. Das Wahlverfahren ist erneut durchzuführen.
-
-8. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
-   bedürfen einer Zweidrittelmehrheit. Der Antrag auf Abwahl ist bis spätestens
-   15 Uhr am Vortag der ausrichtenden Fachschaft anzukündigen.
-   Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
+7. Wird den sechs Vertrauenspersonen das Vertrauen nicht ausgesprochen,
+   werden alle Bewerbungen als Vertrauensperson ungültig und das
+   Bewerbungsverfahren wird erneut geöffnet. Die in 4.3.2 genannten Fristen
+   entfallen hierbei. Ein angemessener Bewerbungszeitraum von wenigstens einer
+   Viertelstunde ist zu gewähren. Das Wahlverfahren ist erneut durchzuführen.
 
 Anhang: Versionshistorie
 ------------------------
