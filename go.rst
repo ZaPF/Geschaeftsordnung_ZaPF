@@ -330,13 +330,7 @@ Wahl stehen.
    damit sie als gewählt gilt.
    Die Wahl durch Zustimmung entfällt hierbei.
 
-8. Wird der Gruppe der Vertrauenspersonen das Vertrauen nicht ausgesprochen,
-   werden alle Bewerbungen als Vertrauensperson ungültig und das
-   Bewerbungsverfahren wird erneut geöffnet. Die in 4.3.2 genannten Fristen
-   entfallen hierbei. Ein angemessener Bewerbungszeitraum von wenigstens einer
-   Viertelstunde ist zu gewähren. Das Wahlverfahren ist erneut durchzuführen.
-
-9. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
+8. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
    aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 
 Anhang: Versionshistorie
