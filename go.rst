@@ -287,7 +287,10 @@ Wahl stehen.
    in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der
    ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
 
-3. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
+3. Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich
+   jedoch dem Plenum vorstellen.
+
+4. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
 
    - Jede wahlberechtigte Person erhält einen Wahlzettel mit einer
      Liste aller zur Wahl stehenden Personen.
@@ -309,33 +312,32 @@ Wahl stehen.
      die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde
      besetzt. Bei Gleichstand entscheidet das Los.
 
-4. Der so bestimmten Gruppe muss anschließend das Vertrauen ausgesprochen
-   werden. Dies geschieht falls nicht anders gewünscht per Akklamation.
+5. Die Stimmverteilung wird nicht bekanntgegeben.
+   Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
+   vom Wahlausschuss veröffentlicht.
+
+6. Der durch die Wahl bestimmten Gruppe muss anschließend das Vertrauen
+   ausgesprochen werden. Dies geschieht falls nicht anders gewünscht per
+   Akklamation.
    Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht,
    ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die
    sechste Person in der Rangfolge.
    Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
    Regelung irrelevant.
 
-5. Bei weniger als sieben sich bewerbenden Personen muss der kompletten
+7. Bei weniger als sieben sich bewerbenden Personen muss der kompletten
    Gruppe das Vertrauen mit Zweidrittelmehrheit ausgesprochen werden,
    damit sie als gewählt gilt.
    Die Wahl durch Zustimmung entfällt hierbei.
 
-6. Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich
-   jedoch dem Plenum vorstellen.
-   Die Stimmverteilung wird nicht bekanntgegeben.
-   Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
-   vom Wahlausschuss veröffentlicht.
-
-7. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
-   aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
-
-8. Wird den sechs Vertrauenspersonen das Vertrauen nicht ausgesprochen,
+8. Wird der Gruppe der Vertrauenspersonen das Vertrauen nicht ausgesprochen,
    werden alle Bewerbungen als Vertrauensperson ungültig und das
    Bewerbungsverfahren wird erneut geöffnet. Die in 4.3.2 genannten Fristen
    entfallen hierbei. Ein angemessener Bewerbungszeitraum von wenigstens einer
    Viertelstunde ist zu gewähren. Das Wahlverfahren ist erneut durchzuführen.
+
+9. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
+   aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 
 Anhang: Versionshistorie
 ------------------------
