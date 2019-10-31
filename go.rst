@@ -79,8 +79,12 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
 
 3. Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge
    und müssen von mindestens zwei Personen aus verschiedenen Fachschaften
-   getragen werden. Auch diese Anträge müssen dem Plenum in geeigneter Form
-   vorgelegt werden.
+   getragen werden.
+   Auch diese Anträge müssen dem Plenum in geeigneter Form vorgelegt werden.
+   Initiativanträge werden am Ende der Liste der Anträge im Tagesordnungspunkt
+   "Anträge" angehängt, so sie nicht mit einem anderen Antrag konkurrieren.
+   Sie früher zu behandeln bedarf eines Geschäftsordnungsantrages zur Änderung
+   der Tagesordnung.
 
 4. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
@@ -221,6 +225,7 @@ Wahl stehen.
    auch eine geänderte Fassung ihres Antrages zurückzuziehen.
 
 7. *Konkurriende Anträge* sind einander widersprechende Anträge zur selben Sache.
+   Sie werden gleichzeitig behandelt.
 
 8. Bei konkurrierenden Anträgen ist die Beschlussfassung wie folgt durchzuführen:
    Geht ein Antrag weiter als ein anderer, so ist über den weitergehenden
