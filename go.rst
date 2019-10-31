@@ -258,17 +258,23 @@ Wahl stehen.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
 
 5. Die normalen Personenwahlen sind wie folgt durchzuführen:
-   Die Kandidierenden stellen sich vor der Wahl kurz dem Plenum vor.
-   Dem Plenum ist die Möglichkeit zu geben, unter Ausschluss der
-   Kandidierenden zu diskutieren.
+
+   Die Kandidierenden stellen sich vor der Wahl kurz dem Plenum vor und können
+   vom Plenum befragt werden.
+
+   Danach ist dem Plenum die Möglichkeit zu geben, unter Ausschluss der
+   Kandidierenden über diese zu diskutieren.
+
    Diese Diskussion wird nicht protokolliert.
-   Eine kandidierende Person gilt als gewählt, wenn die Person mehr
-   Ja-Stimmen als Nein-Stimmen, *mindestens elf Ja-Stimmen*
-   erhält und die Wahl annimmt.
+
+   Eine kandidierende Person gilt als gewählt, wenn die Person mehr Ja-Stimmen
+   als Nein-Stimmen, *mindestens elf Ja-Stimmen* erhält und die Wahl annimmt.
+
    Enthaltungen sind möglich und wirken wie nicht oder ungültig abgegebene
    Stimmen.
-   Sollten mehr Kandidierende gewählt werden, als Posten zur
-   Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
+
+   Sollten mehr Kandidierende gewählt werden, als Posten zur Verfügung stehen,
+   werden sie nach Anzahl der Ja-Stimmen besetzt.
 
 6. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
    bedürfen einer Zweidrittelmehrheit. Der Antrag auf Abwahl ist bis spätestens
