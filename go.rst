@@ -404,7 +404,7 @@ Beschlussfähigkeit bei zwanzig anwesenden Fachschaften
 
 Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachschaften.
 
-Mindestanzahl von Ja-Stimmen bei Personenzahlen
+Mindestanzahl von Ja-Stimmen bei Personenwahlen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Das Minimum von elf Ja-Stimmen bewirkt, dass Kandidierende
