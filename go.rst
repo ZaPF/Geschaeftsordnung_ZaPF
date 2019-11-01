@@ -245,10 +245,7 @@ Wahl stehen.
 4.2 Personenwahlen
 ^^^^^^^^^^^^^^^^^^
 
-1. Das passive Wahlrecht für Personenwahlen haben alle teilnehmenden Personen
-   der ZaPF. Von dieser Regel wird abgesehen, falls die Personenwahl eine
-   Wiederwahl oder Bestätigung im Amt ist, so dass in diesem Fall auch nicht
-   teilnehmende Personen gewählt werden können.
+1. Das *passive Wahlrecht* für Personenwahlen haben alle natürlichen Personen.
 
 2. Personenwahlen sind grundsätzlich geheim durchzuführen.
    In Abweichung davon dürfen Sitzungsleitung und Protokollführung per
@@ -415,6 +412,21 @@ Beschlussfähigkeit bei zwanzig anwesenden Fachschaften
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachschaften.
+
+Passives Wahlrecht
+^^^^^^^^^^^^^^^^^^
+
+Das Plenum soll jede Person wählen können, der die teilnehmenden Personen die
+Ausübung des Amtes zutrauen. Dies ist ein breites Recht und bringt die Pflicht
+mit, sorgfältig auszuwählen, wen es wählt. Die teilnehmenden Personen sollen
+sich mit den kandidierenden Personen bekannt machen und die ZaPF nutzen, diese
+kennenzulernen und sich eine Meinung über sie zu bilden. Kandidierende Personen
+sollen sich dem Plenum in geeigneter Form vorstellen.
+
+Es ist immer eine Option Menschen nicht zu wählen und Ämter vakant zu lassen, da
+es besser sein kann sich länger mit kandidierenden Personen vertraut zu machen
+und sie im Zweifel später zu wählen. Die Wahl in Ämter ist keine Voraussetzung
+um sich aktiv in Gremien einzubringen.
 
 Mindestanzahl von Ja-Stimmen bei Personenwahlen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
