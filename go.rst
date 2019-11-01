@@ -217,7 +217,8 @@ Wahl stehen.
 
 6. Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das Wesen.
    Sie können von jeder teilnehmenden Person gestellt werden.
-   Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen.
+   Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen und
+   benötigen eine einfache Mehrheit.
    Soweit das Plenum den Änderungsanträgen zustimmt oder sie von den
    hauptantragstellenden Personen übernommen werden,
    wird der Hauptantrag in der geänderten Fassung zur Beschlussfassung gestellt.
