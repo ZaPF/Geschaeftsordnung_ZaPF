@@ -147,7 +147,7 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
    - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
      Abstimmung und Abstimmung per Handzeichen außer Kraft)
    - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidierender
-   - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidierender
+   - Neuwahl der Protokollführung unter Benennung eines oder mehrerer Gegenkandidierender
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
    - namentliche Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt Abstimmung
