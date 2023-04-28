@@ -241,6 +241,7 @@ Wahl stehen.
    Mehrheit.
    Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur
    explizit und mit einer Zweidrittelmehrheit geändert werden.
+   Vor der Abstimmung ist die Beschlussfähigkeit zwingend festzustellen.
 
 4.2 Personenwahlen
 ^^^^^^^^^^^^^^^^^^
