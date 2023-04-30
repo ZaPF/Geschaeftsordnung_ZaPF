@@ -70,7 +70,7 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
 1. Antragsberechtigt sind alle teilnehmende Personen.
 
 2. Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens
-   eine Stunde vor Beginn des Plenums schriftlich bei der die ZaPF
+   eine Stunde vor Beginn des Plenums in Textform bei der die ZaPF
    ausrichtenden Fachschaft einzureichen.
    Dies gilt insbesondere für Texte, über die abgestimmt werden soll.
    Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht.
