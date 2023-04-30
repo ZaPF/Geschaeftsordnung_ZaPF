@@ -126,8 +126,8 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
    erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen.
    Eine Diskussion von GO-Anträgen findet nicht statt.
 
-3. In der Abstimmung ist (bis auf unten angegebene Ausnahmen) eine einfache
-   Mehrheit erforderlich.
+3. In der Abstimmung ist (bis auf unten angegebene Ausnahmen) eine Mehrheit von
+   mehr Ja-Stimmen als Nein-Stimmen und Enthaltungen erforderlich.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
 
 4. Geschäftsordnungsanträge sind folgende Anträge:
@@ -164,7 +164,8 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
    - Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei
      Abstimmungen und Meinungsbildern)
 
-   Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
+   Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit der
+   abgegebenen Stimmen.
 
 4 Abstimmungen und Wahlen
 -------------------------
@@ -226,8 +227,9 @@ Wahl stehen.
 
 6. Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das Wesen.
    Sie können von jeder teilnehmenden Person gestellt werden.
-   Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen und
-   bedürfen einer einfachen Mehrheit.
+   Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen.
+   Die notwendigen Mehrheiten zur Annahme von Änderungsanträgen entsprechen der
+   von Beschlüsse.
    Soweit das Plenum den Änderungsanträgen zustimmt oder sie von den
    hauptantragstellenden Personen übernommen werden,
    wird der Hauptantrag in der geänderten Fassung zur Beschlussfassung gestellt.
@@ -246,11 +248,9 @@ Wahl stehen.
    gestellt werden, aus der Reihenfolge der Antragsstellung.
    Lässt sich diese nicht mehr feststellen, entscheidet die Sitzungsleitung.
 
-9. Beschlüsse zur Änderung dieser Geschäftsordnung bedürfen einer absoluten
-   Mehrheit.
-   Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur
-   explizit und mit einer Zweidrittelmehrheit geändert werden.
-   Vor der Abstimmung ist die Beschlussfähigkeit zwingend festzustellen.
+9. Beschlüsse zur Änderung der Geschäftsordnung, die Geschäftsordnungsanträge
+   ändern, die einer Zweidrittelmehrheit bedürfen, können nur explizit und mit
+   einer Zweidrittelmehrheit der abgegebenen Stimmen geändert werden.
 
 10. Beschlüsse zur Änderung des Verhaltenskodex des ZaPF bedürfen einer
     Zweidrittelmehrheit.
@@ -294,8 +294,9 @@ Wahl stehen.
    werden sie nach Anzahl der Ja-Stimmen besetzt.
 
 6. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
-   bedürfen einer Zweidrittelmehrheit. Der Antrag auf Abwahl ist bis spätestens
-   15 Uhr am Vortag der ausrichtenden Fachschaft anzukündigen.
+   bedürfen einer Zweidrittelmehrheit der abgegebenen Stimmen.
+   Der Antrag auf Abwahl ist bis spätestens 15 Uhr am Vortag der ausrichtenden
+   Fachschaft anzukündigen.
    Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
 4.3 Vertrauenspersonen
@@ -349,8 +350,8 @@ Wahl stehen.
    Regelung irrelevant.
 
 7. Bei weniger als sieben sich bewerbenden Personen muss der kompletten
-   Gruppe das Vertrauen mit Zweidrittelmehrheit ausgesprochen werden,
-   damit sie als gewählt gilt.
+   Gruppe das Vertrauen mit Zweidrittelmehrheit der abgegebenen Stimmen
+   ausgesprochen werden, damit sie als gewählt gilt.
    Die Wahl durch Zustimmung entfällt hierbei.
 
 8. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
