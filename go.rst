@@ -181,10 +181,11 @@ Wahl stehen.
 4.1 Abstimmungen und Meinungsbilder
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Es werden Abstimmungen und Meinungsbilder unterschieden. Meinungsbilder
+1. Es werden Abstimmungen und *Meinungsbilder* unterschieden. Meinungsbilder
    sind informelle Abstimmungen um die Meinung der im Plenum anwesenden
    einzuholen, während Abstimmungen über die Annahme oder Ablehnung von
    Beschlüssen entscheiden.
+   Eine *Vorabstimmung* ist nicht zulässig.
 
 2. Beschlüsse sind nach außen zu tragende *Resolutionen*, die zwingend an eine
    oder mehrere natürliche oder juristische Personen oder Personengruppen
@@ -467,3 +468,12 @@ Konkurriende Anträge entfallen üblicherweise in eine von zwei Kategorien:
 
 1. Verschiedene Änderungsanträge, die die selbe Textstelle ändern wollen.
 2. Verschiede inhaltliche Beschlussfassungen zur selben Sache.
+
+Meinungsbilder und Vorabstimmungen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Meinungsbilder sind dazu gedacht anzuzeigen, in welche Richtung die Personen im
+Plenum tendieren, so dass Antragstellende diese Meinungen in ihre Anträge
+einarbeiten können. Sie sind jedoch nicht dazu gedacht um in Erfahrung zu
+bringen wie das Plenum abstimmen würde. Aus diesem Grund sollten Fragen für
+Meinungsbilder verschieden vom Abstimmungsgegenstand formuliert werden.
