@@ -74,8 +74,8 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
    ausrichtenden Fachschaft einzureichen.
    Dies gilt insbesondere für Texte, über die abgestimmt werden soll.
    Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht.
-   Die Fristen für Anträge zur Änderung der Geschäftsordnung werden in einem
-   eigenen Absatz geregelt.
+   Die Fristen für Anträge zur Änderung der Geschäftsordnung und des
+   Verhaltenskodex der ZaPF werden in eigenen Absätzen geregelt.
 
 3. Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge
    und müssen von mindestens zwei Personen aus verschiedenen Fachschaften
@@ -95,12 +95,21 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
    Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 
-5. Die antragsstellende Person muss im Plenum anwesend sein
+5. Anträge zur Änderung der des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum
+   müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
+   bekanntgemacht werden, z.B. über die Mailingliste.
+   Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
+   des Verhaltenskodex der ZaPF spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
+   Abschlussplenum bekanntgegeben werden.
+   Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich.
+   Die Änderung des Verhaltenskodex tritt sofort in Kraft.
+
+6. Die antragsstellende Person muss im Plenum anwesend sein
    oder kann eine Vertretung benennen und muss dies
    der Sitzungsleitung mitteilen.
    Die vertretende ist dann die neue antragstellende Person.
 
-6. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
+7. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
    und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
    *geeignet nachvollziehbar* machen.
    Diese Pflicht entfällt für Initiativanträge.
@@ -242,6 +251,10 @@ Wahl stehen.
    Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur
    explizit und mit einer Zweidrittelmehrheit geändert werden.
    Vor der Abstimmung ist die Beschlussfähigkeit zwingend festzustellen.
+
+10. Beschlüsse zur Änderung des Verhaltenskodex des ZaPF bedürfen einer
+    Zweidrittelmehrheit.
+    Vor der Abstimmung ist die Beschlussfähigkeit zwingend festzustellen.
 
 4.2 Personenwahlen
 ^^^^^^^^^^^^^^^^^^
