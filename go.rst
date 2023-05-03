@@ -67,7 +67,7 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
 3.1 Antragsfristen und Antragsdurchführung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Antragsberechtigt sind alle teilnehmende Personen.
+1. Antragsberechtigt sind alle teilnehmenden Personen.
 
 2. Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens
    eine Stunde vor Beginn des Plenums in Textform bei der die ZaPF
