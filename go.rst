@@ -70,7 +70,7 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
 1. Antragsberechtigt sind alle teilnehmende Personen.
 
 2. Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens
-   eine Stunde vor Beginn des Plenums schriftlich bei der die ZaPF
+   eine Stunde vor Beginn des Plenums in Textform bei der die ZaPF
    ausrichtenden Fachschaft einzureichen.
    Dies gilt insbesondere für Texte, über die abgestimmt werden soll.
    Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht.
@@ -293,7 +293,7 @@ Wahl stehen.
 2. Die Wahl der Vertrauenspersonen erfolgt per Wahl durch
    Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF.
    Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums
-   in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der
+   in Textform an eine, bis spätestens zwei Wochen vor Beginn der
    ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
 
 3. Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich
