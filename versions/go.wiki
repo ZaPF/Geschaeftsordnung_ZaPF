@@ -23,9 +23,10 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden der Za
 === 3.1 Antragsfristen und Antragsdurchführung ===
 
 #Antragsberechtigt sind alle teilnehmende Personen.
-#Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens eine Stunde vor Beginn des Plenums schriftlich bei der die ZaPF ausrichtenden Fachschaft einzureichen. Dies gilt insbesondere für Texte, über die abgestimmt werden soll. Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht. Die Fristen für Anträge zur Änderung der Geschäftsordnung werden in einem eigenen Absatz geregelt.
+#Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens eine Stunde vor Beginn des Plenums in Textform bei der die ZaPF ausrichtenden Fachschaft einzureichen. Dies gilt insbesondere für Texte, über die abgestimmt werden soll. Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht. Die Fristen für Anträge zur Änderung der Geschäftsordnung und des Verhaltenskodex der ZaPF werden in eigenen Absätzen geregelt.
 #Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge und müssen von mindestens zwei Personen aus verschiedenen Fachschaften getragen werden. Auch diese Anträge müssen dem Plenum in geeigneter Form vorgelegt werden. Initiativanträge werden am Ende der Liste der Anträge im Tagesordnungspunkt "Anträge" angehängt, so sie nicht mit einem anderen Antrag konkurrieren. Sie früher zu behandeln bedarf eines Geschäftsordnungsantrages zur Änderung der Tagesordnung.
 #Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet bekanntgemacht werden, z.B. über die Mailingliste. Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung der Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder Abschlussplenum bekanntgegeben werden. Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich. Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
+#Anträge zur Änderung der des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet bekanntgemacht werden, z.B. über die Mailingliste. Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung des Verhaltenskodex der ZaPF spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder Abschlussplenum bekanntgegeben werden. Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich. Die Änderung des Verhaltenskodex tritt sofort in Kraft.
 #Die antragsstellende Person muss im Plenum anwesend sein oder kann eine Vertretung benennen und muss dies der Sitzungsleitung mitteilen. Die vertretende ist dann die neue antragstellende Person.
 #Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes ''geeignet nachvollziehbar'' machen. Diese Pflicht entfällt für Initiativanträge.
 
@@ -51,7 +52,7 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden der Za
 #*Nichtbefassung auf dieser ZaPF *
 #*geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt namentliche Abstimmung und Abstimmung per Handzeichen außer Kraft)
 #*Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidierender
-#*Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidierender
+#*Neuwahl der Protokollführung unter Benennung eines oder mehrerer Gegenkandidierender
 #*Einholung eines Meinungsbildes im Plenum
 #*Verfahrensvorschlag
 #*namentliche Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt Abstimmung per Handzeichen außer Kraft)
@@ -77,7 +78,8 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 #Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das Wesen. Sie können von jeder teilnehmenden Person gestellt werden. Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen und bedürfen einer einfachen Mehrheit. Soweit das Plenum den Änderungsanträgen zustimmt oder sie von den hauptantragstellenden Personen übernommen werden, wird der Hauptantrag in der geänderten Fassung zur Beschlussfassung gestellt. Die antragstellende Person hat bis zur endgültigen Beschlussfassung das Recht, auch eine geänderte Fassung ihres Antrages zurückzuziehen.
 #''Konkurriende Anträge'' sind einander widersprechende Anträge zur selben Sache. Sie werden gleichzeitig behandelt.
 #Bei konkurrierenden Anträgen ist die Beschlussfassung wie folgt durchzuführen: Geht ein Antrag weiter als ein anderer, so ist über den weitergehenden zuerst abzustimmen. Wird dieser angenommen, so sind weniger weit gehende Anträge erledigt. Lässt sich ein Weitergehen nicht feststellen, so bestimmt sich die Reihenfolge, in der die konkurrierenden Anträge zur Beschlussfassung gestellt werden, aus der Reihenfolge der Antragsstellung. Lässt sich diese nicht mehr feststellen, entscheidet die Sitzungsleitung.
-#Beschlüsse zur Änderung dieser Geschäftsordnung bedürfen einer absoluten Mehrheit. Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur explizit und mit einer Zweidrittelmehrheit geändert werden.
+#Beschlüsse zur Änderung dieser Geschäftsordnung bedürfen einer absoluten Mehrheit. Die Geschäftsordnungsanträge, die einer Zweidrittelmehrheit bedürfen, können nur explizit und mit einer Zweidrittelmehrheit geändert werden. Vor der Abstimmung ist die Beschlussfähigkeit zwingend festzustellen.
+#Beschlüsse zur Änderung des Verhaltenskodex des ZaPF bedürfen einer Zweidrittelmehrheit. Vor der Abstimmung ist die Beschlussfähigkeit zwingend festzustellen.
 
 
 === 4.2 Personenwahlen ===
@@ -105,7 +107,7 @@ Sollten mehr Kandidierende gewählt werden, als Posten zur Verfügung stehen, we
 === 4.3 Vertrauenspersonen ===
 
 #Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Das aktive Wahlrecht besitzen alle anwesenden natürlichen Personen.
-#Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in schriftlicher Form an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
+#Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in Textform an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
 #Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich jedoch dem Plenum vorstellen.
 #Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
 #*Jede wahlberechtigte Person erhält einen Wahlzettel mit einer Liste aller zur Wahl stehenden Personen.
@@ -142,7 +144,8 @@ Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Er
 *Sommer-ZaPF 2018 in Heidelberg,
 *Winter-ZaPF 2018 in Würzburg,
 *Sommer-ZaPF 2019 in Bonn,
-*und auf der Winter-ZaPF 2019 in Freiburg.
+*Winter-ZaPF 2019 in Freiburg,
+*und auf der Sommer-ZaPF 2023 in Berlin.
 
 
 == Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung ==

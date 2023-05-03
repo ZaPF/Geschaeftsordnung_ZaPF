@@ -379,7 +379,8 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2018 in Heidelberg,
 - Winter-ZaPF 2018 in Würzburg,
 - Sommer-ZaPF 2019 in Bonn,
-- und auf der Winter-ZaPF 2019 in Freiburg.
+- Winter-ZaPF 2019 in Freiburg,
+- und auf der Sommer-ZaPF 2023 in Berlin.
 
 Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
 -----------------------------------------------------------
