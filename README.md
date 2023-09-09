@@ -2,7 +2,7 @@
 
 Dieses Repository enthält die Quelldateien für die Geschäftsordnung für Plenen der ZaPF.
 
-Die main branch enthält die offiziele Variante der Satzung in reStructuredText
+Die main branch enthält die offiziele Variante der Satzung in
 Markdown. Aus dieser können mit dem Python Paket `docutils` die Versionen in
 HTML und LaTeX und daraus die PDF-Version generiert werden. Mit dem Skript
 `rst2wiki.py`  in `./util` kann eine Variante in Mediawiki-Markup generiert
