@@ -15,4 +15,4 @@ werden.
 ### Kontakt
 
 * [Ständiger Ausschuss der Physik-Fachschaften – kurz StAPF](http://zapfev.de/zapf/stapf)
-  * E-Mail: **der.stapf →AT→ gmail.com**
+  * E-Mail: **stapf@zapf.in**
