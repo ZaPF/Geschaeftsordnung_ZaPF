@@ -131,7 +131,6 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
 
 4. Geschäftsordnungsanträge sind folgende Anträge:
-
    - zur Änderung der Tagesordnung,
    - zur erneuten Feststellung der Beschlussfähigkeit
      (ohne Abstimmung, ohne Gegenrede),
@@ -166,7 +165,6 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
      Abstimmungen und Meinungsbildern)
 
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit der
-   abgegebenen Stimmen.
 
 4 Abstimmungen und Wahlen
 -------------------------
@@ -311,7 +309,6 @@ Wahl stehen.
    jedoch dem Plenum vorstellen.
 
 4. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
-
    - Jede wahlberechtigte Person erhält einen Wahlzettel mit einer
      Liste aller zur Wahl stehenden Personen.
    - Jeder zur Wahl stehenden Person kann eine Stimme gegeben werden.
