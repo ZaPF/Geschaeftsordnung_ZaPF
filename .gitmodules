@@ -1,3 +1,0 @@
-[submodule "util/rst2wiki"]
-	path = util/rst2wiki
-	url = git@github.com:ZaPF/rst2wiki.git

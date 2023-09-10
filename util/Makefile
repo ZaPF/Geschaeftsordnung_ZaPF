@@ -1,21 +1,21 @@
 # Dies ist das Makefile um die verschiedenen Publikationsversionen der Satzung
 # der ZaPF
 
-all: html tex pdf wiki
+all: html wiki tex pdf
 
-html: ../go.rst
-	rst2html ../go.rst > ../versions/go.html
+html: ../go.md
+	pandoc --standalone --metadata-file=./metadata.yml --number-sections --output=../versions/go.html ../go.md
 
-tex: ../go.rst
-	rst2latex --documentclass=scrartcl --documentoptions=12pt,oneside --stylesheet=./preamble.tex --embed-stylesheet --latex-preamble= ../go.rst > ../versions/go.tex
+tex: ../go.md
+	pandoc --standalone --metadata-file=./metadata.yml --number-sections --to=latex --output=../versions/go.tex ../go.md
 
 pdf: ../versions/go.tex
 	pdflatex -output-directory ../versions go.tex
 	pdflatex -output-directory ../versions go.tex
-	rm ../versions/go.{log,aux,out}
+	rm -f ../versions/go.{log,aux,out}
 
-wiki: ../go.rst
-	./rst2wiki/rst2wiki.py ../go.rst > ../versions/go.wiki
+wiki: ../go.md
+	pandoc --to=mediawiki --lua-filter=remove-attr.lua --output=../versions/go.wiki ../go.md
 
 clean:
 	rm ../versions/*
