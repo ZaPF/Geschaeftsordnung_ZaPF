@@ -16,7 +16,7 @@ Satzung der ZaPF und die Antragsfristen und Abstimmung von Anträgen.
 
 Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden
 der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle
-Mitglieder und helfende Personen der ausführenden Fachschaft.
+Mitglieder und helfende Personen der ausrichtenden Fachschaft.
 
 2 Ablauf eines Plenums
 ----------------------
@@ -311,7 +311,7 @@ Wahl stehen.
    Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF.
    Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums
    in Textform an eine, bis spätestens zwei Wochen vor Beginn der
-   ZaPF durch die ausführende Fachschaft bekanntzugebende, Adresse erfolgen.
+   ZaPF durch die ausrichtende Fachschaft bekanntzugebende, Adresse erfolgen.
 
 3. Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich
    jedoch dem Plenum vorstellen.
