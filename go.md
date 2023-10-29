@@ -1,12 +1,7 @@
-====================================
-Geschäftsordnung für Plenen der ZaPF
-====================================
-
 Begriffe und Regelungen, die im Anhang kommentiert oder erklärt werden, sind
 kursiv gedruckt.
 
-1 Geltungsbereich
------------------
+# Geltungsbereich
 
 Diese Geschäftsordnung gilt für die Plenen (Vollversammlungen aller Teilnehmenden)
 der Zusammenkunft aller Physikfachschaften (ZaPF).
@@ -18,30 +13,23 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden
 der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle
 Mitglieder und helfende Personen der ausrichtenden Fachschaft.
 
-2 Ablauf eines Plenums
-----------------------
+# Ablauf eines Plenums
 
 1. Sitzungen der ZaPF sind öffentlich.
-
 2. Die Sitzungsleitung wird von der die ZaPF organisierenden Fachschaft
    vorgeschlagen und im Plenum abgestimmt.
    Bis zur Wahl der Sitzungsleitung fungiert die ausrichtende Fachschaft als
    Sitzungsleitung.
-
 3. Zu Beginn der Sitzung wird eine Protokollführung, bestehend aus einer
    oder mehreren Personen, gewählt.
    Das Protokoll der Sitzung wird im ZaPF-Reader für die folgende ZaPF
    abgedruckt.
-
 4. Nach der Wahl der Sitzungsleitung und der Protokollführung ist die
    Beschlussfähigkeit festzustellen.
-
 5. Anschließend wird die Tagesordnung bekanntgegeben und abgestimmt.
    Diese Tagesordnung ist bindend.
-
 6. Im Anfangsplenum werden nach Abstimmung der Tagesordnung die
    Vertrauenspersonen gewählt.
-
 7. Im Abschlussplenum sollte es immer einen Tagesordnungspunkt "Berichte
    der Arbeitskreise" geben.
    Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild
@@ -52,23 +40,18 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Plenum" vertagte Anträge sowie solche, die wegen mangelnder
    Beschlussfähigkeit, nicht mehr behandelt werden konnten, sollen priorisiert
    behandelt werden.
-
 8. Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung
    auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage
    mit Wirkung für die gesamte Sitzung durch die Sitzungsleitung entschieden
    werden.
-
 9. Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
    Regel jedoch zehn Minuten nicht überschreiten.
 
-3 Anträge
----------
+# Anträge
 
-3.1 Antragsfristen und Antragsdurchführung
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Antragsfristen und Antragsdurchführung
 
 1. Antragsberechtigt sind alle teilnehmenden Personen.
-
 2. Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens
    eine Stunde vor Beginn des Plenums in Textform bei der die ZaPF
    ausrichtenden Fachschaft einzureichen.
@@ -76,7 +59,6 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht.
    Die Fristen für Anträge zur Änderung der Geschäftsordnung und des
    Verhaltenskodex der ZaPF werden in eigenen Absätzen geregelt.
-
 3. Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge
    und müssen von mindestens zwei Personen aus verschiedenen Fachschaften
    getragen werden.
@@ -85,7 +67,6 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    "Anträge" angehängt, so sie nicht mit einem anderen Antrag konkurrieren.
    Sie früher zu behandeln bedarf eines Geschäftsordnungsantrages zur Änderung
    der Tagesordnung.
-
 4. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
@@ -94,7 +75,6 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Abschlussplenum bekanntgegeben werden.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
    Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
-
 5. Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
@@ -103,35 +83,27 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Abschlussplenum bekanntgegeben werden.
    Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich.
    Die Änderung des Verhaltenskodex tritt sofort in Kraft.
-
 6. Die antragsstellende Person muss im Plenum anwesend sein
    oder kann eine Vertretung benennen und muss dies
    der Sitzungsleitung mitteilen.
    Die vertretende ist dann die neue antragstellende Person.
-
 7. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
    und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
    *geeignet nachvollziehbar* machen.
    Diese Pflicht entfällt für Initiativanträge.
 
-
-3.2 Geschäftsordnungsanträge
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Geschäftsordnungsanträge
 
 1. *Geschäftsordnungsanträge* (GO-Anträge) werden durch das Heben
    beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung
    bzw. Abstimmung zu behandeln und abzustimmen.
-
 2. Es ist nur eine Für-Rede durch die antragstellende Person und eine Gegenrede
    erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen.
    Eine Diskussion von GO-Anträgen findet nicht statt.
-
 3. In der Abstimmung ist (bis auf unten angegebene Ausnahmen) eine Mehrheit von
    mehr Ja-Stimmen als der Summe von Nein-Stimmen und Enthaltungen erforderlich.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
-
 4. Geschäftsordnungsanträge sind folgende Anträge:
-
    - zur Änderung der Tagesordnung,
    - zur erneuten Feststellung der Beschlussfähigkeit
      (ohne Abstimmung, ohne Gegenrede),
@@ -166,10 +138,8 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
      Abstimmungen und Meinungsbildern)
 
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit der
-   abgegebenen Stimmen.
 
-4 Abstimmungen und Wahlen
--------------------------
+# Abstimmungen und Wahlen
 
 Dieser Abschnitt regelt die Abstimmungen und Meinungsbilder des ZaPF-Plenums
 sowie die Wahlmodi für Personenwahlen. Vom üblichen Modus für Personenwahlen
@@ -189,29 +159,24 @@ Wahlen aus. Für geheime Abstimmungen und Wahlen wird ein Wahlausschuss von der
 Sitzungsleitung bestimmt. Hierbei darf kein Mitglied des Wahlausschusses selbst zur
 Wahl stehen.
 
-4.1 Abstimmungen und Meinungsbilder
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Abstimmungen und Meinungsbilder
 
 1. Es werden Abstimmungen und *Meinungsbilder* unterschieden. Meinungsbilder
    sind informelle Abstimmungen um die Meinung der im Plenum anwesenden
    einzuholen, während Abstimmungen über die Annahme oder Ablehnung von
    Beschlüssen entscheiden.
    Eine *Vorabstimmung* ist nicht zulässig.
-
 2. Beschlüsse sind nach außen zu tragende *Resolutionen*, die zwingend an eine
    oder mehrere natürliche oder juristische Personen oder Personengruppen
    adressiert sein müssen, *Positionspapiere*, die an niemanden adressiert sind,
    sowie ZaPF-interne *Selbstverpflichtungen* und Aufträge an den StAPF.
-
 3. Stimmberechtigt für Meinungsbilder ist jede teilnehmende Person der ZaPF.
-
 4. Stimmberechtigt für Abstimmungen ist jede im Plenum anwesende Fachschaft
    die mindestens eine teilnehmende Person hat.
    Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der
    jeweiligen Fachschaft zu regeln.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
    Eine geheime Abstimmung ist möglich.
-
 5. Ein Beschluss gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer
    ist als die Summe aus Enthaltungen und Nein-Stimmen.
    Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen
@@ -226,7 +191,6 @@ Wahl stehen.
    und verfällt sonst.
    Stimmrechtsübertragung ist nicht möglich.
    Anträge zur Abstimmung sind positiv zu formulieren.
-
 6. Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das Wesen.
    Sie können von jeder teilnehmenden Person gestellt werden.
    Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen.
@@ -237,10 +201,8 @@ Wahl stehen.
    wird der Hauptantrag in der geänderten Fassung zur Beschlussfassung gestellt.
    Die antragstellende Person hat bis zur endgültigen Beschlussfassung das Recht,
    auch eine geänderte Fassung ihres Antrages zurückzuziehen.
-
 7. *Konkurriende Anträge* sind einander widersprechende Anträge zur selben Sache.
    Sie werden gleichzeitig behandelt.
-
 8. Bei konkurrierenden Anträgen ist die Beschlussfassung wie folgt durchzuführen:
    Geht ein Antrag weiter als ein anderer, so ist über den weitergehenden
    zuerst abzustimmen.
@@ -249,33 +211,26 @@ Wahl stehen.
    Reihenfolge, in der die konkurrierenden Anträge zur Beschlussfassung
    gestellt werden, aus der Reihenfolge der Antragsstellung.
    Lässt sich diese nicht mehr feststellen, entscheidet die Sitzungsleitung.
-
 9. Beschlüsse zur Änderung der Geschäftsordnung, die Geschäftsordnungsanträge
    ändern, die einer Zweidrittelmehrheit bedürfen, können nur explizit und mit
    einer Zweidrittelmehrheit der abgegebenen Stimmen geändert werden.
-
 10. Beschlüsse zur Änderung des Verhaltenskodex des ZaPF bedürfen einer
     Zweidrittelmehrheit.
     Vor der Abstimmung ist die Beschlussfähigkeit zwingend festzustellen.
 
-4.2 Personenwahlen
-^^^^^^^^^^^^^^^^^^
+## Personenwahlen
 
 1. Das *passive Wahlrecht* für Personenwahlen haben alle natürlichen Personen.
-
 2. Personenwahlen sind grundsätzlich geheim durchzuführen.
    In Abweichung davon dürfen Sitzungsleitung und Protokollführung per
    Akklamation gewählt werden.
-
 3. Es werden die Wahlmodi für normale Personenwahlen und die Wahl der
    Vertrauenspersonen im Anfangsplenum unterschieden.
-
 4. Stimmberechtigt für normale Personenwahlen ist jede im Plenum anwesende
    Fachschaft die mindestens eine teilnehmende Person hat.
    Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der
    jeweiligen Fachschaft zu regeln.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
-
 5. Die normalen Personenwahlen sind wie folgt durchzuführen:
    - Die Kandidierenden stellen sich vor der Wahl kurz dem Plenum vor und können
      vom Plenum befragt werden.
@@ -288,30 +243,24 @@ Wahl stehen.
      Stimmen.
    - Sollten mehr Kandidierende gewählt werden, als Posten zur Verfügung stehen,
      werden sie nach Anzahl der Ja-Stimmen besetzt.
-
 6. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
    bedürfen einer Zweidrittelmehrheit der abgegebenen Stimmen.
    Der Antrag auf Abwahl ist bis spätestens 15 Uhr am Vortag der ausrichtenden
    Fachschaft anzukündigen.
    Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
-4.3 Vertrauenspersonen
-^^^^^^^^^^^^^^^^^^^^^^
+## Vertrauenspersonen
 
 1. Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Das aktive
    Wahlrecht besitzen alle anwesenden natürlichen Personen.
-
 2. Die Wahl der Vertrauenspersonen erfolgt per Wahl durch
    Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF.
    Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums
    in Textform an eine, bis spätestens zwei Wochen vor Beginn der
    ZaPF durch die ausrichtende Fachschaft bekanntzugebende, Adresse erfolgen.
-
 3. Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich
    jedoch dem Plenum vorstellen.
-
 4. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
-
    - Jede wahlberechtigte Person erhält einen Wahlzettel mit einer
      Liste aller zur Wahl stehenden Personen.
    - Jeder zur Wahl stehenden Person kann eine Stimme gegeben werden.
@@ -331,11 +280,9 @@ Wahl stehen.
      besetzt sein obwohl keine Wahlzettel mehr verblieben sind, werden
      die restlichen Plätze nach Anzahl der Stimmen in der ersten Runde
      besetzt. Bei Gleichstand entscheidet das Los.
-
 5. Die Stimmverteilung wird nicht bekanntgegeben.
    Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge
    vom Wahlausschuss veröffentlicht.
-
 6. Der durch die Wahl bestimmten Gruppe muss anschließend das Vertrauen
    ausgesprochen werden. Dies geschieht falls nicht anders gewünscht per
    Handzeichen in offener Wahl.
@@ -344,17 +291,14 @@ Wahl stehen.
    sechste Person in der Rangfolge.
    Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
    Regelung irrelevant.
-
 7. Bei weniger als sieben sich bewerbenden Personen muss der kompletten
    Gruppe das Vertrauen mit Zweidrittelmehrheit der abgegebenen Stimmen
    ausgesprochen werden, damit sie als gewählt gilt.
    Die Wahl durch Zustimmung entfällt hierbei.
-
 8. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
    aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 
-Anhang: Versionshistorie
-------------------------
+# Anhang: Versionshistorie {-}
 
 Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in
 Erlangen beschlossen.
@@ -380,11 +324,9 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - der Sommer-ZaPF 2023 in Berlin,
 - und auf Winter-ZaPF 2023 in Düsseldorf.
 
-Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung
------------------------------------------------------------
+# Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung {-}
 
-Geschäftsordnungsanträge
-^^^^^^^^^^^^^^^^^^^^^^^^
+## Geschäftsordnungsanträge {-}
 
 Geschäftsordnungsanträge sind dazu gedacht, zu verhindern, dass eine Diskussion
 sich ins Absurde zieht. Sie sind mit äußerster Vorsicht anzuwenden und sind
@@ -422,13 +364,11 @@ angenommen werden.
 Formale Gegenrede bedeutet nur bekanntzugeben, dass man dagegen ist, inhaltliche
 Gegenrede beinhaltet eine Begründung.
 
-Beschlussfähigkeit bei zwanzig anwesenden Fachschaften
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Beschlussfähigkeit bei zwanzig anwesenden Fachschaften {-}
 
 Dies entspricht nach unserem Kenntnisstand etwa einem Viertel der Physikfachschaften.
 
-Passives Wahlrecht
-^^^^^^^^^^^^^^^^^^
+## Passives Wahlrecht {-}
 
 Das Plenum soll jede Person wählen können, der die teilnehmenden Personen die
 Ausübung des Amtes zutrauen. Dies ist ein breites Recht und bringt die Pflicht
@@ -442,22 +382,19 @@ es besser sein kann sich länger mit kandidierenden Personen vertraut zu machen
 und sie im Zweifel später zu wählen. Die Wahl in Ämter ist keine Voraussetzung
 um sich aktiv in Gremien einzubringen.
 
-Mindestanzahl von Ja-Stimmen bei Personenwahlen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Mindestanzahl von Ja-Stimmen bei Personenwahlen {-}
 
 Das Minimum von elf Ja-Stimmen bewirkt, dass Kandidierende
 mindestens die absolute Mehrheit der zur Beschlussfähigkeit notwendigen Stimmen
 erhalten muss.
 
-Geeignete Form des Nachvollziehbarmachens
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Geeignete Form des Nachvollziehbarmachens {-}
 
 Es kann sehr schwer sein kleinste Änderungen in Texten nachzuvollziehen, es
 erleichtert die Arbeit im Plenum deswegen erheblich, wenn Änderungen bestehender
 Texte im einzelnen hervorgehoben sind. Dies kann z.B. durch ein Diff geschehen.
 
-Resolutionen, Positionspapiere und Selbstverpflichtungen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Resolutionen, Positionspapiere und Selbstverpflichtungen {-}
 
 Resolutionen halten Positionen der ZaPF fest und werden vom StAPF an die im
 Antrag angegebenen adressierten natürlichen und juristischen Personen und
@@ -473,8 +410,7 @@ der ZaPF, z.B. den StAPF, geben. Selbstverpflichtungen können insbesondere daf�
 genutzt werden Arbeitsthesen eines Arbeitskreises festzuhalten, mit der
 Intention auf einer folgenden ZaPF einen weiteren Beschluss zu fassen.
 
-Konkurrierende Anträge
-^^^^^^^^^^^^^^^^^^^^^^
+## Konkurrierende Anträge {-}
 
 Konkurriende Anträge entfallen üblicherweise in eine von zwei Kategorien:
 

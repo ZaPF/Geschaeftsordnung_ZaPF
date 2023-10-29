@@ -1,0 +1,12 @@
+---
+title: Geschäftsordnung für Plenen der ZaPF
+author: Zusammenkunft aller Physikfachschaften
+lang: de-DE
+documentclass: scrartcl
+classoption:
+  - oneside
+hyperrefoptions:
+  - pdfcreator={pdflatex}
+  - pdfdisplaydoctitle=true
+indent: false
+papersize: a4
