@@ -127,7 +127,7 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
    Eine Diskussion von GO-Anträgen findet nicht statt.
 
 3. In der Abstimmung ist (bis auf unten angegebene Ausnahmen) eine Mehrheit von
-   mehr Ja-Stimmen als Nein-Stimmen und Enthaltungen erforderlich.
+   mehr Ja-Stimmen als der Summe von Nein-Stimmen und Enthaltungen erforderlich.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
 
 4. Geschäftsordnungsanträge sind folgende Anträge:
