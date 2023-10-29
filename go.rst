@@ -136,7 +136,7 @@ Mitglieder und helfende Personen der ausführenden Fachschaft.
    - zur erneuten Feststellung der Beschlussfähigkeit
      (ohne Abstimmung, ohne Gegenrede),
    - zur Unterbrechung der Sitzung (auch bekannt als "Pause"),
-   - zur Beendigung der Sitzung, *
+   - zum Schluss der Sitzung, *
    - zur Vertagung eines Verhandlungsgegenstandes in einen anderen
      Tagesordnungspunkt,
    - zur Begrenzung der Redezeit,
