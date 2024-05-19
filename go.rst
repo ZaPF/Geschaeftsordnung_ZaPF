@@ -353,6 +353,9 @@ Wahl stehen.
 8. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
    aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
 
+9. Weiterhin sind die beiden gewählten Personen aus dem Awarenessgremium auch
+   Vertrauenspersonen, diese müssen nicht vom Plenum bestätigt werden.
+
 Anhang: Versionshistorie
 ------------------------
 
