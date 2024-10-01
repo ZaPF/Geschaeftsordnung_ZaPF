@@ -1,2 +1,10 @@
-*
-!index.md
+.DS_Store
+*.log
+*.toc
+*.aux
+*.out
+*.mediawiki.txt
+*.markdown.txt
+auto/
+.static/
+.templates/
