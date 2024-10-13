@@ -132,7 +132,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    - Neuwahl der Protokollführung unter Benennung eines oder mehrerer Gegenkandidierender
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
-   - namentliche Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt Abstimmung
+   - *namentliche Abstimmung* (ohne Gegenrede, ohne Abstimmung, setzt Abstimmung
      per Handzeichen außer Kraft)
    - Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei
      Abstimmungen und Meinungsbildern)
@@ -425,3 +425,25 @@ Plenum tendieren, so dass Antragstellende diese Meinungen in ihre Anträge
 einarbeiten können. Sie sind jedoch nicht dazu gedacht um in Erfahrung zu
 bringen wie das Plenum abstimmen würde. Aus diesem Grund sollten Fragen für
 Meinungsbilder verschieden vom Abstimmungsgegenstand formuliert werden.
+
+## Namentliche und Geheime Abstimmungen {-}
+
+Normale Abstimmungen auf der ZaPF sind nicht geheim, aber das
+Abstimmungsverhalten wird auch nicht protokolliert und nur anwesende Teilnehmika
+der ZaPF können sehen ob und wie andere Fachschaften abgestimmt haben.
+
+Die Namentliche Abstimmung soll dazu dienen einen Antrag insbesondere zu
+unterstreichen indem man ihm mit dem eignen Namen mehr Gewicht verleiht.
+
+Geheime Abstimmung schlägt namentliche Abstimmung um sicherzustellen, dass durch
+ihr Abstimmungsverhalten keiner Fachschaften Nachteile entstehen und alle frei
+ihrem Gewissen folgen können. Fachschaften entscheiden intern wie und ob sie
+abstimmen.
+
+Als mögliche Alternativen wurden in der Vergangenheit der Vorrang des zuerst
+gestellten GO-Antrages und teilgeheime Abstimmungen vorgeschlagen. Würde nur der
+erstgestellte GO-Antrag auf namentliche oder geheime Abstimmung gelten, würde dies zu
+einem Rennen führen, was zuerst gefordert würde. Könnte ein Teil der
+Fachschaften auch im Fall einer geheimen Abstimmung nicht geheim abstimmen,
+könnte dies dazu genutzt werden die geheim abgegeben Stimmen aufzudecken, was
+geheime Abstimmung ad absurdum führen würde.
