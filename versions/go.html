@@ -61,6 +61,10 @@
     img {
       max-width: 100%;
     }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
     }
@@ -153,8 +157,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -600,8 +607,9 @@ Kategorien:</p>
 wollen.</li>
 <li>Verschiede inhaltliche Beschlussfassungen zur selben Sache.</li>
 </ol>
-<p>Meinungsbilder und Vorabstimmungen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</p>
+<h2 class="unnumbered"
+id="meinungsbilder-und-vorabstimmungen">Meinungsbilder und
+Vorabstimmungen</h2>
 <p>Meinungsbilder sind dazu gedacht anzuzeigen, in welche Richtung die
 Personen im Plenum tendieren, so dass Antragstellende diese Meinungen in
 ihre Anträge einarbeiten können. Sie sind jedoch nicht dazu gedacht um

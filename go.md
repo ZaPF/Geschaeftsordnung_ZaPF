@@ -417,8 +417,7 @@ Konkurriende Anträge entfallen üblicherweise in eine von zwei Kategorien:
 1. Verschiedene Änderungsanträge, die die selbe Textstelle ändern wollen.
 2. Verschiede inhaltliche Beschlussfassungen zur selben Sache.
 
-Meinungsbilder und Vorabstimmungen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Meinungsbilder und Vorabstimmungen {-}
 
 Meinungsbilder sind dazu gedacht anzuzeigen, in welche Richtung die Personen im
 Plenum tendieren, so dass Antragstellende diese Meinungen in ihre Anträge
