@@ -445,7 +445,7 @@ Durch die Bedenkzeit soll vermieden werden, dass die Teilnahmentliche Abstimmung
 unüberlegte Gegenrede verhindert wird.
 
 Die Redeleitung sollte bei der Durchführung der Abstimmung darauf achten, dass das
-dokomentieren von Abstimmungen ein aktiver Vorgang ist (zum Beispiel durch nach vorne laufen
+Dokumentieren von Abstimmungen ein aktiver Vorgang ist (zum Beispiel durch nach vorne laufen
 und Stimmkarte und Stimme abgeben, dabei dann “normale” Abstimmung mit den restlichen
 Fachschaften), sodass nur Fachschaften namentlich abstimmen, die dies unbedingt brauchen
 oder wollen. Dies schützt die Fachschaften, die explizit nicht namentlich abstimmen wollen,
