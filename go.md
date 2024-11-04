@@ -126,14 +126,16 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
      Recht auf ein Meinungsbild im Plenum (auch bekannt als "Vertagung auf das
      nächste Plenum bzw. die nächste ZaPF") *
    - Nichtbefassung auf dieser ZaPF *
-   - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt namentliche
-     Abstimmung und Abstimmung per Handzeichen außer Kraft)
+   - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, schließt freiwillige Dokumentation von Abstimmungsverhalten
+     und Abstimmung per Handzeichen aus)
    - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidierender
    - Neuwahl der Protokollführung unter Benennung eines oder mehrerer Gegenkandidierender
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
-   - namentliche Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt Abstimmung
-     per Handzeichen außer Kraft)
+   - Freiwillige Dokumentation von Abstimmungsverhalten (ohne Gegenrede, Fachschaften geben ihre Absicht ihr Abstimmungsverhalten
+     zu dokumentieren vor der Gegenrede bekannt, Bedenkzeit möglich, Fachschaften haben das Recht ein Veto gegen diesen GO-Antrag einzulegen,
+     schließt Abstimmung per Handzeichen aus, nach Annahme können Fachschaften die das vorher bekundet haben
+     bei der Redeleitung namentlich ihre Stimme gleichzeitig zu allen anderen Fachschaften abgeben)
    - Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei
      Abstimmungen und Meinungsbildern)
 
@@ -424,3 +426,33 @@ Plenum tendieren, so dass Antragstellende diese Meinungen in ihre Anträge
 einarbeiten können. Sie sind jedoch nicht dazu gedacht um in Erfahrung zu
 bringen wie das Plenum abstimmen würde. Aus diesem Grund sollten Fragen für
 Meinungsbilder verschieden vom Abstimmungsgegenstand formuliert werden.
+
+## Teilnamentliche und Geheime Abstimmungen {-}
+
+Normale Abstimmungen auf der ZaPF sind nicht geheim, aber das
+Abstimmungsverhalten wird auch nicht protokolliert und nur anwesende Teilnehmika
+der ZaPF können sehen ob und wie andere Fachschaften abgestimmt haben.
+
+Die freiwillige Dokumentation von Abstimmungsverhalten soll dazu dienen einen Antrag besonders zu
+unterstreichen indem man ihm mit dem eigenen Namen mehr Nachdruck verleiht.
+
+Durch die Bekanntgabe der Intention namentlich abzustimmen können andere Fachschaften
+abschätzen, ob durch die teilnamentliche Abstimmung ihr Abstimmverhalten bestimmbar
+wird und ggf. Gegenrede einlegen. Dies setzt voraus, dass nur Fachschaften namentlich
+Abstimmen, die auch ihre Intention bekanntgegeben haben.
+
+Durch die Bedenkzeit soll vermieden werden, dass die Teilnahmentliche Abstimmung durch
+unüberlegte Gegenrede verhindert wird.
+
+Die Redeleitung sollte bei der Durchführung der Abstimmung darauf achten, dass das
+Dokumentieren von Abstimmungen ein aktiver Vorgang ist (zum Beispiel durch nach vorne laufen
+und Stimmkarte und Stimme abgeben, dabei dann “normale” Abstimmung mit den restlichen
+Fachschaften), sodass nur Fachschaften namentlich abstimmen, die dies unbedingt brauchen
+oder wollen. Dies schützt die Fachschaften, die explizit nicht namentlich abstimmen wollen,
+indem die Wahrscheinlichkeit, dass die Anonymität aufgedeckt wird, verringert wird.
+
+Als mögliche Alternativen gab es in der Vergangenheit namentliche Abstimmungen und es
+wurde in der Vergangenheit der Vorrang des zuerst gestellten GO-Antrages und teilgeheime
+Abstimmungen vorgeschlagen. Namentliche Abstimmung wurde in der Praxis sehr oft durch geheime
+Abstimmung gekontert. Würde nur der erstgestellte GO-Antrag auf namentliche oder
+geheime Abstimmung gelten, würde dies zu einem Rennen führen, was zuerst gefordert würde.
