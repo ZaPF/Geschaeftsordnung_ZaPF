@@ -139,7 +139,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    - Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei
      Abstimmungen und Meinungsbildern)
 
-   Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit der
+   Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit der abgegebenen Stimmen.
 
 # Abstimmungen und Wahlen
 
