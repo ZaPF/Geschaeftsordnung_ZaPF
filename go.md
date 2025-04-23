@@ -73,6 +73,9 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
    der Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
    Abschlussplenum bekanntgegeben werden.
+   Im Fall mehrtägiger Plenen muss ein Änderungsantrag, zur Abstimmung nicht früher als
+   am Folgetag, bis 15:00 am Tag vor dem letzten konsekutiven Plenumstag, ab Beginn des
+   Plenums, bekanntgegeben werden.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
    Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 5. Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum
