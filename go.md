@@ -46,6 +46,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    werden.
 9. Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
    Regel jedoch zehn Minuten nicht überschreiten.
+10. Zur Organisation von Wortbeiträgen werden Redelisten geführt.
 
 # Anträge
 
@@ -91,6 +92,9 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
    *geeignet nachvollziehbar* machen.
    Diese Pflicht entfällt für Initiativanträge.
+8. Für alle Anträge und deren Änderungsanträge werden jeweils eigene Redelisten geführt.
+   Abweichend davon teilen sich konkurrierende Anträge eine Redeliste.
+   Antragstellende Personen dürfen auf Rückfragen außerhalb der Redeliste antworten.
 
 ## Geschäftsordnungsanträge
 
