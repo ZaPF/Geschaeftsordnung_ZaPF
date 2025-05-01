@@ -132,8 +132,9 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    - Neuwahl der Protokollführung unter Benennung eines oder mehrerer Gegenkandidierender
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
-   - Freiwillige Dokumentation von Abstimmungsverhalten (Kurze Bedenkzeit, bei
-     Gegenrede sofortige Ablehnung, ausführliches Verfahren im Anhang)
+   - *Freiwillige Dokumentation des Abstimmungsverhaltens* (kurze Bedenkzeit, bei
+     Gegenrede automatische Ablehnung des GO-Antrags ohne Abstimmung, schließt
+     Abstimmung per Handzeichen aus)
    - Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei
      Abstimmungen und Meinungsbildern)
 
@@ -427,14 +428,13 @@ einarbeiten können. Sie sind jedoch nicht dazu gedacht um in Erfahrung zu
 bringen wie das Plenum abstimmen würde. Aus diesem Grund sollten Fragen für
 Meinungsbilder verschieden vom Abstimmungsgegenstand formuliert werden.
 
-## Teilnamentliche und Geheime Abstimmungen {-}
+## Freiwillige Dokumentation des Abstimmungsverhaltens {-}
 
 Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach folgendem Schema ab:
-- Bekanntmachung des Abstimmungsverhaltens der Fachschaften nach kurzer Bedenkzeit
-  (namentlich oder nicht namentlich)
+- Bekanntgabe der Intention der Fachschaften, die namentlich abstimmen wollen,
+  nach kurzer Bedenkzeit.
 - Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf nicht-namentlich
   abgegebene Stimmen zu verhindern
-- Bei Gegenrede wird der GO-Antrag sofort abgelehnt. (schließt Abstimmung per Handzeichen aus)
 - Nach Annahme (durch Ausbleiben von Gegenrede): Bei namentlicher Abstimmung wird die
   Stimme bei der Redeleitung abgegeben. Währenddessen stimmen die übrigen Fachschaften per
   Handzeichen ab.
