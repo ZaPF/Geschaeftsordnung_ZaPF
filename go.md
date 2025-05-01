@@ -132,10 +132,8 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    - Neuwahl der Protokollführung unter Benennung eines oder mehrerer Gegenkandidierender
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
-   - Freiwillige Dokumentation von Abstimmungsverhalten (ohne Gegenrede, Fachschaften geben ihre Absicht ihr Abstimmungsverhalten
-     zu dokumentieren vor der Gegenrede bekannt, Bedenkzeit möglich, Fachschaften haben das Recht ein Veto gegen diesen GO-Antrag einzulegen,
-     schließt Abstimmung per Handzeichen aus, nach Annahme können Fachschaften die das vorher bekundet haben
-     bei der Redeleitung namentlich ihre Stimme gleichzeitig zu allen anderen Fachschaften abgeben)
+   - Freiwillige Dokumentation von Abstimmungsverhalten (Kurze Bedenkzeit, bei
+     Gegenrede sofortige Ablehnung, ausführliches Verfahren im Anhang)
    - Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei
      Abstimmungen und Meinungsbildern)
 
@@ -323,9 +321,10 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Winter-ZaPF 2018 in Würzburg,
 - Sommer-ZaPF 2019 in Bonn,
 - Winter-ZaPF 2019 in Freiburg,
-- der Sommer-ZaPF 2023 in Berlin,
-- auf Winter-ZaPF 2023 in Düsseldorf,
-- auf der Winter-ZaPF 2024 in Mainz.
+- Sommer-ZaPF 2023 in Berlin,
+- Winter-ZaPF 2023 in Düsseldorf,
+- der Winter-ZaPF 2024 in Mainz, und
+- der Sommer-ZaPF 2025 in Erlangen.
 
 # Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung {-}
 
@@ -430,30 +429,17 @@ Meinungsbilder verschieden vom Abstimmungsgegenstand formuliert werden.
 
 ## Teilnamentliche und Geheime Abstimmungen {-}
 
-Normale Abstimmungen auf der ZaPF sind nicht geheim, aber das
-Abstimmungsverhalten wird auch nicht protokolliert und nur anwesende Teilnehmika
-der ZaPF können sehen ob und wie andere Fachschaften abgestimmt haben.
+Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach folgendem Schema ab:
+- Bekanntmachung des Abstimmungsverhaltens der Fachschaften nach kurzer Bedenkzeit
+  (namentlich oder nicht namentlich)
+- Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf nicht-namentlich
+  abgegebene Stimmen zu verhindern
+- Bei Gegenrede wird der GO-Antrag sofort abgelehnt. (schließt Abstimmung per Handzeichen aus)
+- Nach Annahme (durch Ausbleiben von Gegenrede): Bei namentlicher Abstimmung wird die
+  Stimme bei der Redeleitung abgegeben. Währenddessen stimmen die übrigen Fachschaften per
+  Handzeichen ab.
 
-Die freiwillige Dokumentation von Abstimmungsverhalten soll dazu dienen einen Antrag besonders zu
-unterstreichen indem man ihm mit dem eigenen Namen mehr Nachdruck verleiht.
-
-Durch die Bekanntgabe der Intention namentlich abzustimmen können andere Fachschaften
-abschätzen, ob durch die teilnamentliche Abstimmung ihr Abstimmverhalten bestimmbar
-wird und ggf. Gegenrede einlegen. Dies setzt voraus, dass nur Fachschaften namentlich
-Abstimmen, die auch ihre Intention bekanntgegeben haben.
-
-Durch die Bedenkzeit soll vermieden werden, dass die Teilnahmentliche Abstimmung durch
-unüberlegte Gegenrede verhindert wird.
-
-Die Redeleitung sollte bei der Durchführung der Abstimmung darauf achten, dass das
-Dokumentieren von Abstimmungen ein aktiver Vorgang ist (zum Beispiel durch nach vorne laufen
-und Stimmkarte und Stimme abgeben, dabei dann “normale” Abstimmung mit den restlichen
-Fachschaften), sodass nur Fachschaften namentlich abstimmen, die dies unbedingt brauchen
-oder wollen. Dies schützt die Fachschaften, die explizit nicht namentlich abstimmen wollen,
-indem die Wahrscheinlichkeit, dass die Anonymität aufgedeckt wird, verringert wird.
-
-Als mögliche Alternativen gab es in der Vergangenheit namentliche Abstimmungen und es
-wurde in der Vergangenheit der Vorrang des zuerst gestellten GO-Antrages und teilgeheime
-Abstimmungen vorgeschlagen. Namentliche Abstimmung wurde in der Praxis sehr oft durch geheime
-Abstimmung gekontert. Würde nur der erstgestellte GO-Antrag auf namentliche oder
-geheime Abstimmung gelten, würde dies zu einem Rennen führen, was zuerst gefordert würde.
+Die freiwillige Dokumentation von Abstimmungsverhalten soll dazu dienen, einen Antrag
+besonders zu unterstreichen, indem man ihm mit dem eigenen Namen mehr Nachdruck
+verleiht. So soll ein konkurrierendes Stellen von GO-Anträgen verschiedener
+Abstimmungsformen verhindert werden.
