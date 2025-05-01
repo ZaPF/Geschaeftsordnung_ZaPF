@@ -431,11 +431,13 @@ Meinungsbilder verschieden vom Abstimmungsgegenstand formuliert werden.
 ## Freiwillige Dokumentation des Abstimmungsverhaltens {-}
 
 Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach folgendem Schema ab:
+
 - Bekanntgabe der Intention der Fachschaften, die namentlich abstimmen wollen,
   nach kurzer Bedenkzeit.
 - Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf nicht-namentlich
   abgegebene Stimmen zu verhindern
-- Nach Annahme (durch Ausbleiben von Gegenrede): Bei namentlicher Abstimmung wird die
+- Nach Annahme (durch Ausbleiben von Gegenrede): Fachschaften, die ihre
+  entsprechende Intention vorher bekanntgegeben haben, geben ihre
   Stimme bei der Redeleitung abgegeben. Währenddessen stimmen die übrigen Fachschaften per
   Handzeichen ab.
 
