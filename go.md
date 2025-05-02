@@ -434,7 +434,8 @@ Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach folgendem Sch
   (namentlich oder nicht namentlich)
 - Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf nicht-namentlich
   abgegebene Stimmen zu verhindern
-- Bei Gegenrede wird der GO-Antrag sofort abgelehnt. (schließt Abstimmung per Handzeichen aus)
+- Bei Gegenrede wird der GO-Antrag ohne Abstimmung abgelehnt.
+  Der Antrag / die Reso, über die abgestimmt werden soll, bleibt bestehen.
 - Nach Annahme (durch Ausbleiben von Gegenrede): Bei namentlicher Abstimmung wird die
   Stimme bei der Redeleitung abgegeben. Währenddessen stimmen die übrigen Fachschaften per
   Handzeichen ab.
