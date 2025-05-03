@@ -164,7 +164,7 @@ Wahl stehen.
 1. Es werden Abstimmungen und *Meinungsbilder* unterschieden. Meinungsbilder
    sind informelle Abstimmungen um die Meinung der im Plenum anwesenden
    einzuholen, während Abstimmungen über die Annahme oder Ablehnung von
-   Beschlüssen entscheiden.
+   Anträgen auf Beschlüsse entscheiden.
    Eine *Vorabstimmung* ist nicht zulässig.
 2. Beschlüsse sind nach außen zu tragende *Resolutionen*, die zwingend an eine
    oder mehrere natürliche oder juristische Personen oder Personengruppen
@@ -177,7 +177,7 @@ Wahl stehen.
    jeweiligen Fachschaft zu regeln.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
    Eine geheime Abstimmung ist möglich.
-5. Ein Beschluss gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer
+5. Ein Antrag gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer
    ist als die Summe aus Enthaltungen und Nein-Stimmen.
    Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen
    überwiegen, wird die Abstimmung einmalig wiederholt.
