@@ -126,14 +126,11 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
      Recht auf ein Meinungsbild im Plenum (auch bekannt als "Vertagung auf das
      nächste Plenum bzw. die nächste ZaPF") *
    - Nichtbefassung auf dieser ZaPF *
-   - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, schließt freiwillige Dokumentation von Abstimmungsverhalten
-     und Abstimmung per Handzeichen aus)
+   - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, setzt Abstimmung per Handzeichen außer Kraft)
    - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidierender
    - Neuwahl der Protokollführung unter Benennung eines oder mehrerer Gegenkandidierender
    - Einholung eines Meinungsbildes im Plenum
    - Verfahrensvorschlag
-   - Freiwillige Dokumentation von Abstimmungsverhalten (Kurze Bedenkzeit, bei
-     Gegenrede sofortige Ablehnung, ausführliches Verfahren im Anhang)
    - Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei
      Abstimmungen und Meinungsbildern)
 
@@ -426,21 +423,3 @@ Plenum tendieren, so dass Antragstellende diese Meinungen in ihre Anträge
 einarbeiten können. Sie sind jedoch nicht dazu gedacht um in Erfahrung zu
 bringen wie das Plenum abstimmen würde. Aus diesem Grund sollten Fragen für
 Meinungsbilder verschieden vom Abstimmungsgegenstand formuliert werden.
-
-## Teilnamentliche und Geheime Abstimmungen {-}
-
-Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach folgendem Schema ab:
-- Bekanntmachung des Abstimmungsverhaltens der Fachschaften nach kurzer Bedenkzeit
-  (namentlich oder nicht namentlich)
-- Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf nicht-namentlich
-  abgegebene Stimmen zu verhindern
-- Bei Gegenrede wird der GO-Antrag ohne Abstimmung abgelehnt.
-  Der Antrag / die Reso, über die abgestimmt werden soll, bleibt bestehen.
-- Nach Annahme (durch Ausbleiben von Gegenrede): Bei namentlicher Abstimmung wird die
-  Stimme bei der Redeleitung abgegeben. Währenddessen stimmen die übrigen Fachschaften per
-  Handzeichen ab.
-
-Die freiwillige Dokumentation von Abstimmungsverhalten soll dazu dienen, einen Antrag
-besonders zu unterstreichen, indem man ihm mit dem eigenen Namen mehr Nachdruck
-verleiht. So soll ein konkurrierendes Stellen von GO-Anträgen verschiedener
-Abstimmungsformen verhindert werden.
