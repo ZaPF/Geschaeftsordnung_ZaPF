@@ -69,7 +69,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    der Tagesordnung.
 4. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
-   bekanntgemacht werden, z.B. über die Mailingliste.
+   bekanntgemacht werden, z.B. über die Mailingliste, das Wiki, ….
    Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
    der Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
    Abschlussplenum bekanntgegeben werden.
@@ -77,7 +77,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 5. Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
-   bekanntgemacht werden, z.B. über die Mailingliste.
+   bekanntgemacht werden, z.B. über die Mailingliste, das Wiki, ….
    Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
    des Verhaltenskodex der ZaPF spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
    Abschlussplenum bekanntgegeben werden.
