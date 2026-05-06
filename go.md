@@ -10,8 +10,8 @@ anderem den Ablauf des Plenums, die Wahl der Organe der ZaPF entsprechend der
 Satzung der ZaPF und die Antragsfristen und Abstimmung von Anträgen.
 
 Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden
-der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle
-Mitglieder und helfende Personen der ausrichtenden Fachschaft.
+der ZaPF, die ihren Tagungsbeitrag entrichtet haben, alle Personen der
+ausrichtenden Fachschaft sowie die bei der aktuellen Zapf helfenden Personen.
 
 # Ablauf eines Plenums
 
@@ -88,26 +88,34 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Abschlussplenum bekanntgegeben werden.
    Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich.
    Die Änderung des Verhaltenskodex tritt sofort in Kraft.
-7. Die antragsstellende Person muss im Plenum anwesend sein
+7. Die antragstellende Person muss im Plenum anwesend sein
    oder kann eine Vertretung benennen und muss dies
    der Sitzungsleitung mitteilen.
-   Die vertretende ist dann die neue antragstellende Person.
+   Die vertretende Person ist dann die neue antragstellende Person.
+   Ein Antrag gilt erst als eingebracht, wenn er durch einen Wortbeitrag im
+   Plenum durch die antragstellende oder die vertretende Person vorgestellt
+   wurde.
 8. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
    und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
    *geeignet nachvollziehbar* machen.
    Diese Pflicht entfällt für Initiativanträge.
 8. Für alle Anträge und deren Änderungsanträge werden jeweils eigene Redelisten geführt.
    Abweichend davon teilen sich konkurrierende Anträge eine Redeliste.
-   Antragstellende Personen dürfen auf Rückfragen außerhalb der Redeliste antworten.
+   Antragstellende Personen des ursprünglichen Antrags sowie des
+   Änderungsantrags dürfen auf an sie gerichtete Rückfragen außerhalb der
+   Redeliste antworten.
 
 ## Geschäftsordnungsanträge
 
-1. *Geschäftsordnungsanträge* (GO-Anträge) werden durch das Heben
-   beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung
-   bzw. Abstimmung zu behandeln und abzustimmen.
+1. *Geschäftsordnungsanträge* (GO-Anträge) werden durch ein deutliches Zeichen
+   gegenüber der Sitzungsleitung angezeigt (z. B. durch Heben beider Arme).
+   Sie sind spätestens vor der nächsten Wortmeldung bzw. Abstimmung zu behandeln
+   und abzustimmen.
 2. Es ist nur eine Für-Rede durch die antragstellende Person und eine Gegenrede
    erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen.
    Eine Diskussion von GO-Anträgen findet nicht statt.
+   Das Antwortrecht außerhalb der Redeliste für die antragstellenden Person besteht
+   nicht.
 3. In der Abstimmung ist (bis auf unten angegebene Ausnahmen) eine Mehrheit von
    mehr Ja-Stimmen als der Summe von Nein-Stimmen und Enthaltungen erforderlich.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
