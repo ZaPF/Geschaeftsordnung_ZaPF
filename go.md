@@ -105,9 +105,10 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
 1. *Geschäftsordnungsanträge* (GO-Anträge) werden durch das Heben
    beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung
    bzw. Abstimmung zu behandeln und abzustimmen.
-2. Es ist nur eine Für-Rede durch die antragstellende Person und eine Gegenrede
-   erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen.
+2. Es ist nur eine Rede für den Antrag durch die antragstellende Person und eine
+   Gegenrede erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen.
    Eine Diskussion von GO-Anträgen findet nicht statt.
+   Das Antwortrecht außerhalb der Redeliste besteht nicht.
 3. In der Abstimmung ist (bis auf unten angegebene Ausnahmen) eine Mehrheit von
    mehr Ja-Stimmen als der Summe von Nein-Stimmen und Enthaltungen erforderlich.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
