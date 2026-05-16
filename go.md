@@ -9,9 +9,9 @@ Sie ist von allen Teilnehmenden einzuhalten und regelt unter
 anderem den Ablauf des Plenums, die Wahl der Organe der ZaPF entsprechend der
 Satzung der ZaPF und die Antragsfristen und Abstimmung von Anträgen.
 
-Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden
-der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle
-Mitglieder und helfende Personen der ausrichtenden Fachschaft.
+Als teilnehmende Personen gelten alle durch die ausrichtende Fachschaft
+zugelassenen, vor Ort anwesenden Personen, sowie alle Mitglieder der ausrichtenden
+Fachschaft und der ausrichtenden Fachschaft helfenden Personen.
 
 # Ablauf eines Plenums
 
