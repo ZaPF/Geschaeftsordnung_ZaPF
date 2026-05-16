@@ -103,8 +103,11 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
 ## Geschäftsordnungsanträge
 
 1. *Geschäftsordnungsanträge* (GO-Anträge) werden durch das Heben
-   beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung
-   bzw. Abstimmung zu behandeln und abzustimmen.
+   beider Arme angezeigt. Falls dies für eine teilnehmende Person nicht möglich ist,
+   darf diese mit der Sitzungsleitung jederzeit ein anderes Zeichen vereinbaren,
+   das dem Plenum von der Sitzungsleitung mitzuteilen ist und für das gesamte Plenum gilt.
+   GO-Anträge sind spätestens vor der nächsten Wortmeldung bzw. Abstimmung zu behandeln und
+   abzustimmen.
 2. Es ist nur eine Für-Rede durch die antragstellende Person und eine Gegenrede
    erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen.
    Eine Diskussion von GO-Anträgen findet nicht statt.
