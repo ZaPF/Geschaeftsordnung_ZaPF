@@ -92,6 +92,8 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    oder kann eine Vertretung benennen und muss dies
    der Sitzungsleitung mitteilen.
    Die vertretende ist dann die neue antragstellende Person.
+   Die antragstellende Person hat selbst Sorge dafür zu tragen, dass die Redeleitung
+   des Antrags gewahr wird, z.B. durch einen Redebeitrag.
 8. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
    und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
    *geeignet nachvollziehbar* machen.
