@@ -65,7 +65,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    und das Endplenum, andere Antragsfristen festsetzen.
    Die Antragsfristen dürfen die in Absatz 2 geregelten Fristen nicht unterschreiten.
 4. Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge
-   und müssen von mindestens zwei Personen aus verschiedenen Fachschaften
+   und müssen von mindestens zwei teilnehmenden Personen aus verschiedenen Fachschaften
    getragen werden.
    Auch diese Anträge müssen dem Plenum in geeigneter Form vorgelegt werden.
    Initiativanträge werden am Ende der Liste der Anträge im Tagesordnungspunkt
