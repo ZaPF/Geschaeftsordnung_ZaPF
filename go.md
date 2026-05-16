@@ -6,8 +6,8 @@ kursiv gedruckt.
 Diese Geschäftsordnung gilt für die Plenen (Vollversammlungen aller Teilnehmenden)
 der Zusammenkunft aller Physikfachschaften (ZaPF).
 Sie ist von allen Teilnehmenden einzuhalten und regelt unter
-anderem den Ablauf des Plenums, die Wahl der Organe der ZaPF entsprechend der
-Satzung der ZaPF und die Antragsfristen und Abstimmung von Anträgen.
+anderem den Ablauf des Plenums, die Wahl der Organe der ZaPF, entsprechend der
+Satzung der ZaPF, und die Antragsfristen und Abstimmung von Anträgen.
 
 Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden
 der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle
@@ -33,19 +33,19 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
 7. Im Abschlussplenum sollte es immer einen Tagesordnungspunkt "Berichte
    der Arbeitskreise" geben.
    Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild
-   einholen wollen, so ist diese entsprechend des Abschnittes "Anträge"
+   einholen wollen, so ist dies entsprechend des Abschnittes "Anträge"
    einzureichen.
    Auf einer vorherigen ZaPF durch einen GO-Antrag auf "Schließung der Redeliste
    und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im
    Plenum" vertagte Anträge sowie solche, die wegen mangelnder
-   Beschlussfähigkeit, nicht mehr behandelt werden konnten, sollen priorisiert
+   Beschlussfähigkeit nicht mehr behandelt werden konnten, sollen priorisiert
    behandelt werden.
 8. Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung
    auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage
    mit Wirkung für die gesamte Sitzung durch die Sitzungsleitung entschieden
    werden.
-9. Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
-   Regel jedoch zehn Minuten nicht überschreiten.
+9. Die Sitzungsleitung kann die Sitzung unterbrechen.
+   Die Unterbrechung sollte in der Regel zehn Minuten nicht überschreiten.
 10. Zur Organisation von Wortbeiträgen werden Redelisten geführt.
 
 # Anträge
@@ -73,7 +73,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Sie früher zu behandeln bedarf eines Geschäftsordnungsantrages zur Änderung
    der Tagesordnung.
 5. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
-   müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
+   müssen mindestens 7 Tage vor dem Anfangsplenum geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
    Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
    der Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
@@ -81,7 +81,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
    Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 6. Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum
-   müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
+   müssen mindestens 7 Tage vor dem Anfangsplenum geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
    Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
    des Verhaltenskodex der ZaPF spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
@@ -108,9 +108,9 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
 2. Es ist nur eine Für-Rede durch die antragstellende Person und eine Gegenrede
    erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen.
    Eine Diskussion von GO-Anträgen findet nicht statt.
-3. In der Abstimmung ist (bis auf unten angegebene Ausnahmen) eine Mehrheit von
+3. In der Abstimmung ist, bis auf unten angegebene Ausnahmen, eine Mehrheit von
    mehr Ja-Stimmen als der Summe von Nein-Stimmen und Enthaltungen erforderlich.
-   Gibt es keine Gegenrede gilt der Antrag als angenommen.
+   Gibt es keine Gegenrede, gilt der Antrag als angenommen.
 4. Geschäftsordnungsanträge sind folgende Anträge:
    - zur Änderung der Tagesordnung,
    - zur erneuten Feststellung der Beschlussfähigkeit
