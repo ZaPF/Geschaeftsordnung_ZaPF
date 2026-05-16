@@ -22,8 +22,8 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Sitzungsleitung.
 3. Zu Beginn der Sitzung wird eine Protokollführung, bestehend aus einer
    oder mehreren Personen, gewählt.
-   Das Protokoll der Sitzung wird im ZaPF-Reader für die folgende ZaPF
-   abgedruckt.
+   Das Protokoll der Sitzung wird spätestens zur folgenden ZaPF
+   geeignet zugänglich gemacht.
 4. Nach der Wahl der Sitzungsleitung und der Protokollführung ist die
    Beschlussfähigkeit festzustellen.
 5. Anschließend wird die Tagesordnung bekanntgegeben und abgestimmt.
