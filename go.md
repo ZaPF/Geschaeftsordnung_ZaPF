@@ -30,7 +30,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Diese Tagesordnung ist bindend.
 6. Im Anfangsplenum werden nach Abstimmung der Tagesordnung die
    Vertrauenspersonen gewählt.
-7. Im Abschlussplenum sollte es immer einen Tagesordnungspunkt "Berichte
+7. Im Endplenum sollte es immer einen Tagesordnungspunkt "Berichte
    der Arbeitskreise" geben.
    Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild
    einholen wollen, so ist diese entsprechend des Abschnittes "Anträge"
@@ -75,17 +75,17 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
 5. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
-   Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
+   Zur Abstimmung im Zwischen- oder Endplenum müssen Anträge zur Änderung
    der Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
-   Abschlussplenum bekanntgegeben werden.
+   Endplenum bekanntgegeben werden.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
    Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 6. Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
-   Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
+   Zur Abstimmung im Zwischen- oder Endplenum müssen Anträge zur Änderung
    des Verhaltenskodex der ZaPF spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
-   Abschlussplenum bekanntgegeben werden.
+   Endplenum bekanntgegeben werden.
    Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich.
    Die Änderung des Verhaltenskodex tritt sofort in Kraft.
 7. Die antragsstellende Person muss im Plenum anwesend sein
@@ -311,7 +311,7 @@ Wahl stehen.
 
 # Anhang: Versionshistorie {-}
 
-Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in
+Diese Geschäftsordnung wurde auf dem Endplenum der Sommer-ZaPF 2005 in
 Erlangen beschlossen.
 Inhaltliche Änderungen wurden vorgenommen auf der:
 
