@@ -3,7 +3,7 @@ kursiv gedruckt.
 
 # Geltungsbereich
 
-Diese Geschäftsordnung gilt für die Plenen (Vollversammlungen aller Teilnehmenden)
+Diese Geschäftsordnung gilt für die Plena (Vollversammlungen aller Teilnehmenden)
 der Zusammenkunft aller Physikfachschaften (ZaPF).
 Sie ist von allen Teilnehmenden einzuhalten und regelt unter
 anderem den Ablauf des Plenums, die Wahl der Organe der ZaPF entsprechend der
