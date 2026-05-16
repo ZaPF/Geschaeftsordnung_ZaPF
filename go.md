@@ -88,10 +88,9 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Abschlussplenum bekanntgegeben werden.
    Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich.
    Die Änderung des Verhaltenskodex tritt sofort in Kraft.
-7. Die antragsstellende Person muss im Plenum anwesend sein
-   oder kann eine Vertretung benennen und muss dies
-   der Sitzungsleitung mitteilen.
-   Die vertretende ist dann die neue antragstellende Person.
+7. Mindestens eine der antragsstellenden Personen muss im Plenum anwesend sein,
+   sofern sie nicht eine Vertretung benannt und diese der Sitzungsleitung mitgeteilt haben.
+   Die Vertretung ist dann die neue antragstellende Person.
 8. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
    und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
    *geeignet nachvollziehbar* machen.
