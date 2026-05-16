@@ -57,7 +57,8 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    zwei Stunden vor Beginn des Plenums in Textform bei der die ZaPF
    ausrichtenden Fachschaft einzureichen.
    Dies gilt insbesondere für Texte, über die abgestimmt werden soll.
-   Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht.
+   Die antragstellenden Personen haben dafür zu sorgen, dass dies rechtzeitig
+   geschieht.
    Die Fristen für Anträge zur Änderung der Geschäftsordnung und des
    Verhaltenskodex der ZaPF werden in eigenen Absätzen geregelt.
 3. Plena können für spätere Plena einer ZaPF, z.B. das Anfangsplenum für alle
