@@ -11,14 +11,14 @@ Satzung der ZaPF und die Antragsfristen und Abstimmung von Anträgen.
 
 Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden
 der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle
-Mitglieder und helfende Personen der ausrichtenden Fachschaft.
+Mitglieder und helfende Personen der ausrichtenden Fachschaften.
 
 # Ablauf eines Plenums
 
 1. Sitzungen der ZaPF sind öffentlich.
-2. Die Sitzungsleitung wird von der die ZaPF organisierenden Fachschaft
+2. Die Sitzungsleitung wird von der die ZaPF organisierenden Fachschaften
    vorgeschlagen und im Plenum abgestimmt.
-   Bis zur Wahl der Sitzungsleitung fungiert die ausrichtende Fachschaft als
+   Bis zur Wahl der Sitzungsleitung fungiert die ausrichtenden Fachschaften als
    Sitzungsleitung.
 3. Zu Beginn der Sitzung wird eine Protokollführung, bestehend aus einer
    oder mehreren Personen, gewählt.
@@ -55,7 +55,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
 1. Antragsberechtigt sind alle teilnehmenden Personen.
 2. Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens
    zwei Stunden vor Beginn des Plenums in Textform bei der die ZaPF
-   ausrichtenden Fachschaft einzureichen.
+   ausrichtenden Fachschaften einzureichen.
    Dies gilt insbesondere für Texte, über die abgestimmt werden soll.
    Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht.
    Die Fristen für Anträge zur Änderung der Geschäftsordnung und des
@@ -254,8 +254,8 @@ Wahl stehen.
      werden sie nach Anzahl der Ja-Stimmen besetzt.
 6. Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und
    bedürfen einer Zweidrittelmehrheit der abgegebenen Stimmen.
-   Der Antrag auf Abwahl ist bis spätestens 15 Uhr am Vortag der ausrichtenden
-   Fachschaft anzukündigen.
+   Der Antrag auf Abwahl ist bis spätestens 15 Uhr am Vortag den ausrichtenden
+   Fachschaften anzukündigen.
    Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
 ## Vertrauenspersonen
@@ -266,7 +266,7 @@ Wahl stehen.
    Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF.
    Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums
    in Textform an eine, bis spätestens zwei Wochen vor Beginn der
-   ZaPF durch die ausrichtende Fachschaft bekanntzugebende, Adresse erfolgen.
+   ZaPF durch die ausrichtenden Fachschaften bekanntzugebende, Adresse erfolgen.
 3. Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich
    jedoch dem Plenum vorstellen.
 4. Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
@@ -304,8 +304,8 @@ Wahl stehen.
    Gruppe das Vertrauen mit Zweidrittelmehrheit der abgegebenen Stimmen
    ausgesprochen werden, damit sie als gewählt gilt.
    Die Wahl durch Zustimmung entfällt hierbei.
-8. Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen
-   aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
+8. Darüber hinaus nominieren die austragenden Fachschaften zwei Vertrauenspersonen
+   aus ihren Fachschaften, diese müssen nicht vom Plenum bestätigt werden.
 9. Weiterhin sind die beiden gewählten Personen aus dem Awarenessgremium auch
    Vertrauenspersonen, diese müssen nicht vom Plenum bestätigt werden.
 
