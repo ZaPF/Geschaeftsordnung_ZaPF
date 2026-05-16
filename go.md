@@ -41,9 +41,8 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Beschlussfähigkeit, nicht mehr behandelt werden konnten, sollen priorisiert
    behandelt werden.
 8. Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung
-   auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage
-   mit Wirkung für die gesamte Sitzung durch die Sitzungsleitung entschieden
-   werden.
+   auszulegen oder wie eine Lücke zu schließen ist, so wird die Auslegungsfrage
+   mit Wirkung für die gesamte Sitzung durch die Sitzungsleitung entschieden.
 9. Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
    Regel jedoch zehn Minuten nicht überschreiten.
 10. Zur Organisation von Wortbeiträgen werden Redelisten geführt.
