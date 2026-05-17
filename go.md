@@ -112,25 +112,25 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    mehr Ja-Stimmen als der Summe von Nein-Stimmen und Enthaltungen erforderlich.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
 4. Geschäftsordnungsanträge sind folgende Anträge:
-   - zur Änderung der Tagesordnung,
-   - zur erneuten Feststellung der Beschlussfähigkeit
-     (ohne Abstimmung, ohne Gegenrede),
-   - zur Unterbrechung der Sitzung (auch bekannt als "Pause"),
-   - zum Schluss der Sitzung, *
-   - zur Vertagung eines Verhandlungsgegenstandes in einen anderen
-     Tagesordnungspunkt,
-   - zur Begrenzung der Redezeit,
-   - zum Schluss der Redeliste (nach Annahme des Antrages können sich noch
+   - Änderung der Tagesordnung
+   - erneute Feststellung der Beschlussfähigkeit
+     (ohne Abstimmung, ohne Gegenrede)
+   - Unterbrechung der Sitzung (auch bekannt als "Pause")
+   - Schluss der Sitzung *
+   - Vertagung eines Verhandlungsgegenstandes in einen anderen
+     Tagesordnungspunkt
+   - Begrenzung der Redezeit
+   - Schluss der Redeliste (nach Annahme des Antrages können sich noch
      Personen auf die Redeliste setzen lassen, anschließend wird die Liste
      geschlossen, weitere Wortmeldungen sind dann nicht mehr möglich)
    - Wiedereröffnung der Redeliste *
    - geschlossene Sitzung (jeweils nur für einen Tagesordnungspunkt)
    - Zulassung einzelner Personen zur geschlossenen Sitzung
-   - zum Schluss der Debatte (die Diskussion wird nach Annahme des
+   - Schluss der Debatte (die Diskussion wird nach Annahme des
      Antrages sofort abgebrochen, eine Abstimmung zum Thema wird ggf.
      sofort durchgeführt, auch bekannt als "Antrag auf sofortige Abstimmung") *
-   - zur Anzweiflung einer Abstimmung (ohne Gegenrede, ohne Abstimmung)
-   - zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
+   - Anzweiflung einer Abstimmung (ohne Gegenrede, ohne Abstimmung)
+   - Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
      Recht auf ein Meinungsbild im Plenum (auch bekannt als "Vertagung auf das
      nächste Plenum bzw. die nächste ZaPF") *
    - Nichtbefassung auf dieser ZaPF *
