@@ -123,9 +123,9 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    - zum Schluss der Redeliste (nach Annahme des Antrages können sich noch
      Personen auf die Redeliste setzen lassen, anschließend wird die Liste
      geschlossen, weitere Wortmeldungen sind dann nicht mehr möglich)
-   - Wiedereröffnung der Redeliste *
-   - geschlossene Sitzung (jeweils nur für einen Tagesordnungspunkt)
-   - Zulassung einzelner Personen zur geschlossenen Sitzung
+   - zur Wiedereröffnung der Redeliste, *
+   - zur geschlossene Sitzung (jeweils nur für einen Tagesordnungspunkt),
+   - zur Zulassung einzelner Personen zur geschlossenen Sitzung,
    - zum Schluss der Debatte (die Diskussion wird nach Annahme des
      Antrages sofort abgebrochen, eine Abstimmung zum Thema wird ggf.
      sofort durchgeführt, auch bekannt als "Antrag auf sofortige Abstimmung") *
@@ -133,18 +133,18 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    - zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit
      Recht auf ein Meinungsbild im Plenum (auch bekannt als "Vertagung auf das
      nächste Plenum bzw. die nächste ZaPF") *
-   - Nichtbefassung auf dieser ZaPF *
-   - geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, schließt freiwillige Dokumentation von Abstimmungsverhalten
-     und Abstimmung per Handzeichen aus)
-   - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidierender
-   - Neuwahl der Protokollführung unter Benennung eines oder mehrerer Gegenkandidierender
-   - Einholung eines Meinungsbildes im Plenum
-   - Verfahrensvorschlag
-   - *Freiwillige Dokumentation des Abstimmungsverhaltens* (kurze Bedenkzeit, bei
+   - zur Nichtbefassung auf dieser ZaPF, *
+   - zur geheimen Abstimmung (ohne Gegenrede, ohne Abstimmung, schließt freiwillige Dokumentation von Abstimmungsverhalten
+     und Abstimmung per Handzeichen aus),
+   - zur Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidierender,
+   - zur Neuwahl der Protokollführung unter Benennung eines oder mehrerer Gegenkandidierender,
+   - zur Einholung eines Meinungsbildes im Plenum,
+   - für einen Verfahrensvorschlag,
+   - zur *Freiwillige Dokumentation des Abstimmungsverhaltens* (kurze Bedenkzeit, bei
      Gegenrede automatische Ablehnung des GO-Antrags ohne Abstimmung, schließt
-     Abstimmung per Handzeichen aus)
-   - Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei
-     Abstimmungen und Meinungsbildern)
+     Abstimmung per Handzeichen aus), und
+   - zur Abstimmung per Handzeichen (ohne Gegenrede, ohne Abstimmung, nur bei
+     Abstimmungen und Meinungsbildern).
 
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit der Anwesenden.
 
