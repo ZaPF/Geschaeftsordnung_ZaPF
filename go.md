@@ -46,6 +46,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    werden.
 9. Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
    Regel jedoch zehn Minuten nicht überschreiten.
+   Dies kann insbesondere auf Bitte der Vertrauenspersonen geschehen.
 10. Zur Organisation von Wortbeiträgen werden Redelisten geführt.
 
 # Anträge
