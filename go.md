@@ -107,6 +107,11 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaften.
 ## Geschäftsordnungsanträge
 
 1. *Geschäftsordnungsanträge* (GO-Anträge) werden durch das Heben
+   beider Arme angezeigt. Falls dies für eine teilnehmende Person nicht möglich ist,
+   darf diese mit der Sitzungsleitung jederzeit ein anderes Zeichen vereinbaren,
+   das dem Plenum von der Sitzungsleitung mitzuteilen ist und für das gesamte Plenum gilt.
+   GO-Anträge sind spätestens vor der nächsten Wortmeldung bzw. Abstimmung zu behandeln und
+   abzustimmen.
    beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung
    bzw. Abstimmung zu behandeln und abzustimmen.
 2. Es ist nur eine Rede für den Antrag durch die antragstellende Person und eine
@@ -340,8 +345,9 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2023 in Berlin,
 - Winter-ZaPF 2023 in Düsseldorf,
 - Winter-ZaPF 2024 in Mainz,
-- Sommer-ZaPF 2025 in Erlangen, und
-- der Winter-ZaPF 2025 in Frankfurt am Main.
+- Sommer-ZaPF 2025 in Erlangen,
+- Winter-ZaPF 2025 in Frankfurt am Main, und
+- der Sommer-ZaPF 2026 in Göttingen.
 
 # Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung {-}
 
