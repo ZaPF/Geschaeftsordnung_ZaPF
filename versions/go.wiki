@@ -2,21 +2,21 @@ Begriffe und Regelungen, die im Anhang kommentiert oder erklärt werden, sind ku
 
 = Geltungsbereich =
 
-Diese Geschäftsordnung gilt für die Plenen (Vollversammlungen aller Teilnehmenden) der Zusammenkunft aller Physikfachschaften (ZaPF). Sie ist von allen Teilnehmenden einzuhalten und regelt unter anderem den Ablauf des Plenums, die Wahl der Organe der ZaPF entsprechend der Satzung der ZaPF und die Antragsfristen und Abstimmung von Anträgen.
+Diese Geschäftsordnung gilt für die Plena (Vollversammlungen aller Teilnehmenden) der Zusammenkunft aller Physikfachschaften (ZaPF). Sie ist von allen Teilnehmenden einzuhalten und regelt unter anderem den Ablauf des Plenums, die Wahl der Organe der ZaPF, entsprechend der Satzung der ZaPF, und die Antragsfristen und Abstimmung von Anträgen.
 
-Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle Mitglieder und helfende Personen der ausrichtenden Fachschaft.
+Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden der ZaPF, die ihren Tagungsbeitrag entrichtet haben, sowie alle Mitglieder und helfende Personen der ausrichtenden Fachschaften.
 
 = Ablauf eines Plenums =
 
 # Sitzungen der ZaPF sind öffentlich.
-# Die Sitzungsleitung wird von der die ZaPF organisierenden Fachschaft vorgeschlagen und im Plenum abgestimmt. Bis zur Wahl der Sitzungsleitung fungiert die ausrichtende Fachschaft als Sitzungsleitung.
-# Zu Beginn der Sitzung wird eine Protokollführung, bestehend aus einer oder mehreren Personen, gewählt. Das Protokoll der Sitzung wird im ZaPF-Reader für die folgende ZaPF abgedruckt.
+# Die Sitzungsleitung wird von der die ZaPF organisierenden Fachschaften vorgeschlagen und im Plenum abgestimmt. Bis zur Wahl der Sitzungsleitung fungiert die ausrichtenden Fachschaften als Sitzungsleitung.
+# Zu Beginn der Sitzung wird eine Protokollführung, bestehend aus einer oder mehreren Personen, gewählt. Das Protokoll der Sitzung wird spätestens zur folgenden ZaPF geeignet zugänglich gemacht.
 # Nach der Wahl der Sitzungsleitung und der Protokollführung ist die Beschlussfähigkeit festzustellen.
 # Anschließend wird die Tagesordnung bekanntgegeben und abgestimmt. Diese Tagesordnung ist bindend.
 # Im Anfangsplenum werden nach Abstimmung der Tagesordnung die Vertrauenspersonen gewählt.
-# Im Abschlussplenum sollte es immer einen Tagesordnungspunkt “Berichte der Arbeitskreise” geben. Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild einholen wollen, so ist diese entsprechend des Abschnittes “Anträge” einzureichen. Auf einer vorherigen ZaPF durch einen GO-Antrag auf “Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im Plenum” vertagte Anträge sowie solche, die wegen mangelnder Beschlussfähigkeit, nicht mehr behandelt werden konnten, sollen priorisiert behandelt werden.
+# Im Endplenum sollte es immer einen Tagesordnungspunkt “Berichte der Arbeitskreise” geben. Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild einholen wollen, so ist dies entsprechend des Abschnittes “Anträge” einzureichen. Auf einer vorherigen ZaPF durch einen GO-Antrag auf “Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im Plenum” vertagte Anträge sowie solche, die wegen mangelnder Beschlussfähigkeit nicht mehr behandelt werden konnten, sollen priorisiert behandelt werden.
 # Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage mit Wirkung für die gesamte Sitzung durch die Sitzungsleitung entschieden werden.
-# Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der Regel jedoch zehn Minuten nicht überschreiten.
+# Die Sitzungsleitung kann die Sitzung unterbrechen. Die Unterbrechung sollte in der Regel zehn Minuten nicht überschreiten. Dies kann insbesondere auf Bitte der Vertrauenspersonen geschehen.
 # Zur Organisation von Wortbeiträgen werden Redelisten geführt.
 
 = Anträge =
@@ -24,36 +24,36 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden der Za
 == Antragsfristen und Antragsdurchführung ==
 
 # Antragsberechtigt sind alle teilnehmenden Personen.
-# Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens zwei Stunden vor Beginn des Plenums in Textform bei der die ZaPF ausrichtenden Fachschaft einzureichen. Dies gilt insbesondere für Texte, über die abgestimmt werden soll. Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht. Die Fristen für Anträge zur Änderung der Geschäftsordnung und des Verhaltenskodex der ZaPF werden in eigenen Absätzen geregelt.
+# Anträge (z.B. für Tagesordnungspunkte oder Abstimmungen) sind mindestens zwei Stunden vor Beginn des Plenums in Textform bei der die ZaPF ausrichtenden Fachschaften einzureichen. Dies gilt insbesondere für Texte, über die abgestimmt werden soll. Die antragstellenden Personen haben dafür zu sorgen, dass dies rechtzeitig geschieht. Die Fristen für Anträge zur Änderung der Geschäftsordnung und des Verhaltenskodex der ZaPF werden in eigenen Absätzen geregelt.
 # Plena können für spätere Plena einer ZaPF, z.B. das Anfangsplenum für alle Zwischenplena und das Endplenum bzw. Zwischenplena für folgende Zwischenplena und das Endplenum, andere Antragsfristen festsetzen. Die Antragsfristen dürfen die in Absatz 2 geregelten Fristen nicht unterschreiten.
-# Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge und müssen von mindestens zwei Personen aus verschiedenen Fachschaften getragen werden. Auch diese Anträge müssen dem Plenum in geeigneter Form vorgelegt werden. Initiativanträge werden am Ende der Liste der Anträge im Tagesordnungspunkt “Anträge” angehängt, so sie nicht mit einem anderen Antrag konkurrieren. Sie früher zu behandeln bedarf eines Geschäftsordnungsantrages zur Änderung der Tagesordnung.
-# Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet bekanntgemacht werden, z.B. über die Mailingliste. Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung der Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder Abschlussplenum bekanntgegeben werden. Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich. Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
-# Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet bekanntgemacht werden, z.B. über die Mailingliste. Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung des Verhaltenskodex der ZaPF spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder Abschlussplenum bekanntgegeben werden. Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich. Die Änderung des Verhaltenskodex tritt sofort in Kraft.
-# Die antragsstellende Person muss im Plenum anwesend sein oder kann eine Vertretung benennen und muss dies der Sitzungsleitung mitteilen. Die vertretende ist dann die neue antragstellende Person.
+# Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge und müssen von mindestens zwei teilnehmenden Personen aus verschiedenen Fachschaften getragen werden. Auch diese Anträge müssen dem Plenum in geeigneter Form vorgelegt werden. Initiativanträge werden am Ende der Liste der Anträge im Tagesordnungspunkt “Anträge” angehängt, so sie nicht mit einem anderen Antrag konkurrieren. Sie früher zu behandeln bedarf eines Geschäftsordnungsantrages zur Änderung der Tagesordnung.
+# Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum müssen mindestens 7 Tage vor dem Anfangsplenum geeignet bekanntgemacht werden, z.B. über die Mailingliste. Zur Abstimmung im Zwischen- oder Endplenum müssen Anträge zur Änderung der Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder Endplenum bekanntgegeben werden. Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich. Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
+# Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum müssen mindestens 7 Tage vor dem Anfangsplenum geeignet bekanntgemacht werden, z.B. über die Mailingliste. Zur Abstimmung im Zwischen- oder Endplenum müssen Anträge zur Änderung des Verhaltenskodex der ZaPF spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder Endplenum bekanntgegeben werden. Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich. Die Änderung des Verhaltenskodex tritt sofort in Kraft.
+# Die antragsstellende Person muss im Plenum anwesend sein oder kann eine Vertretung benennen und muss dies der Sitzungsleitung mitteilen. Die vertretende ist dann die neue antragstellende Person. Die antragstellende Person hat selbst Sorge dafür zu tragen, dass die Redeleitung des Antrags gewahr wird, z.B. durch einen Redebeitrag.
 # Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes ''geeignet nachvollziehbar'' machen. Diese Pflicht entfällt für Initiativanträge.
 # Für alle Anträge und deren Änderungsanträge werden jeweils eigene Redelisten geführt. Abweichend davon teilen sich konkurrierende Anträge eine Redeliste. Antragstellende Personen dürfen auf Rückfragen außerhalb der Redeliste antworten.
 
 == Geschäftsordnungsanträge ==
 
 <ol style="list-style-type: decimal;">
-<li>''Geschäftsordnungsanträge'' (GO-Anträge) werden durch das Heben beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung bzw. Abstimmung zu behandeln und abzustimmen.</li>
-<li>Es ist nur eine Für-Rede durch die antragstellende Person und eine Gegenrede erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen. Eine Diskussion von GO-Anträgen findet nicht statt.</li>
-<li>In der Abstimmung ist (bis auf unten angegebene Ausnahmen) eine Mehrheit von mehr Ja-Stimmen als der Summe von Nein-Stimmen und Enthaltungen erforderlich. Gibt es keine Gegenrede gilt der Antrag als angenommen.</li>
+<li>''Geschäftsordnungsanträge'' (GO-Anträge) werden durch das Heben beider Arme angezeigt. Falls dies für eine teilnehmende Person nicht möglich ist, darf diese mit der Sitzungsleitung jederzeit ein anderes Zeichen vereinbaren, das dem Plenum von der Sitzungsleitung mitzuteilen ist und für das gesamte Plenum gilt. GO-Anträge sind spätestens vor der nächsten Wortmeldung bzw. Abstimmung zu behandeln und abzustimmen. beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung bzw. Abstimmung zu behandeln und abzustimmen.</li>
+<li>Es ist nur eine Rede für den Antrag durch die antragstellende Person und eine Gegenrede erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen. Eine Diskussion von GO-Anträgen findet nicht statt. Das Antwortrecht außerhalb der Redeliste besteht nicht.</li>
+<li>In der Abstimmung ist, bis auf unten angegebene Ausnahmen, eine Mehrheit von mehr Ja-Stimmen als der Summe von Nein-Stimmen und Enthaltungen erforderlich. Gibt es keine Gegenrede, gilt der Antrag als angenommen.</li>
 <li>Geschäftsordnungsanträge sind folgende Anträge:
 <ul>
-<li>zur Änderung der Tagesordnung,</li>
-<li>zur erneuten Feststellung der Beschlussfähigkeit (ohne Abstimmung, ohne Gegenrede),</li>
-<li>zur Unterbrechung der Sitzung (auch bekannt als “Pause”),</li>
-<li>zum Schluss der Sitzung, *</li>
-<li>zur Vertagung eines Verhandlungsgegenstandes in einen anderen Tagesordnungspunkt,</li>
-<li>zur Begrenzung der Redezeit,</li>
-<li>zum Schluss der Redeliste (nach Annahme des Antrages können sich noch Personen auf die Redeliste setzen lassen, anschließend wird die Liste geschlossen, weitere Wortmeldungen sind dann nicht mehr möglich)</li>
+<li>Änderung der Tagesordnung</li>
+<li>erneute Feststellung der Beschlussfähigkeit (ohne Abstimmung, ohne Gegenrede)</li>
+<li>Unterbrechung der Sitzung (auch bekannt als “Pause”)</li>
+<li>Schluss der Sitzung *</li>
+<li>Vertagung eines Verhandlungsgegenstandes in einen anderen Tagesordnungspunkt</li>
+<li>Begrenzung der Redezeit</li>
+<li>Schluss der Redeliste (nach Annahme des Antrages können sich noch Personen auf die Redeliste setzen lassen, anschließend wird die Liste geschlossen, weitere Wortmeldungen sind dann nicht mehr möglich)</li>
 <li>Wiedereröffnung der Redeliste *</li>
 <li>geschlossene Sitzung (jeweils nur für einen Tagesordnungspunkt)</li>
 <li>Zulassung einzelner Personen zur geschlossenen Sitzung</li>
-<li>zum Schluss der Debatte (die Diskussion wird nach Annahme des Antrages sofort abgebrochen, eine Abstimmung zum Thema wird ggf. sofort durchgeführt, auch bekannt als “Antrag auf sofortige Abstimmung”) *</li>
-<li>zur Anzweiflung einer Abstimmung (ohne Gegenrede, ohne Abstimmung)</li>
-<li>zur Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im Plenum (auch bekannt als “Vertagung auf das nächste Plenum bzw. die nächste ZaPF”) *</li>
+<li>Schluss der Debatte (die Diskussion wird nach Annahme des Antrages sofort abgebrochen, eine Abstimmung zum Thema wird ggf. sofort durchgeführt, auch bekannt als “Antrag auf sofortige Abstimmung”) *</li>
+<li>Anzweiflung einer Abstimmung (ohne Gegenrede, ohne Abstimmung)</li>
+<li>Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im Plenum (auch bekannt als “Vertagung auf das nächste Plenum bzw. die nächste ZaPF”) *</li>
 <li>Nichtbefassung auf dieser ZaPF *</li>
 <li>geheime Abstimmung (ohne Gegenrede, ohne Abstimmung, schließt freiwillige Dokumentation von Abstimmungsverhalten und Abstimmung per Handzeichen aus)</li>
 <li>Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidierender</li>
@@ -99,12 +99,12 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 #* Eine kandidierende Person gilt als gewählt, wenn die Person mehr Ja-Stimmen als Nein-Stimmen, ''mindestens elf Ja-Stimmen'' erhält und die Wahl annimmt.
 #* Enthaltungen sind möglich und wirken wie nicht oder ungültig abgegebene Stimmen.
 #* Sollten mehr Kandidierende gewählt werden, als Posten zur Verfügung stehen, werden sie nach Anzahl der Ja-Stimmen besetzt.
-# Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und bedürfen einer Zweidrittelmehrheit der abgegebenen Stimmen. Der Antrag auf Abwahl ist bis spätestens 15 Uhr am Vortag der ausrichtenden Fachschaft anzukündigen. Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
+# Abwahlen sind auch bei Abwesenheit der betroffenen Person möglich und bedürfen einer Zweidrittelmehrheit der abgegebenen Stimmen. Der Antrag auf Abwahl ist bis spätestens 15 Uhr am Vortag den ausrichtenden Fachschaften anzukündigen. Die betroffene Person ist jedoch nach Möglichkeit anzuhören.
 
 == Vertrauenspersonen ==
 
 # Im Anfangsplenum werden sechs Vertrauenspersonen gewählt. Das aktive Wahlrecht besitzen alle anwesenden natürlichen Personen.
-# Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in Textform an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausrichtende Fachschaft bekanntzugebende, Adresse erfolgen.
+# Die Wahl der Vertrauenspersonen erfolgt per Wahl durch Zustimmung aus einem Pool von teilnehmenden Personen der ZaPF. Bewerbungen hierfür müssen bis spätestens zu Beginn des Anfangsplenums in Textform an eine, bis spätestens zwei Wochen vor Beginn der ZaPF durch die ausrichtenden Fachschaften bekanntzugebende, Adresse erfolgen.
 # Eine Personaldebatte findet nicht statt, die Kandidierenden dürfen sich jedoch dem Plenum vorstellen.
 # Wahl durch Zustimmung ist durch den folgenden Algorithmus definiert:
 #* Jede wahlberechtigte Person erhält einen Wahlzettel mit einer Liste aller zur Wahl stehenden Personen.
@@ -117,12 +117,12 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 # Die Stimmverteilung wird nicht bekanntgegeben. Die gewählten Vertrauenspersonen werden in alphabetischer Reihenfolge vom Wahlausschuss veröffentlicht.
 # Der durch die Wahl bestimmten Gruppe muss anschließend das Vertrauen ausgesprochen werden. Dies geschieht falls nicht anders gewünscht per Handzeichen in offener Wahl. Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht, ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die sechste Person in der Rangfolge. Sollten sich nur Personen eines Geschlechts beworben haben, ist diese Regelung irrelevant.
 # Bei weniger als sieben sich bewerbenden Personen muss der kompletten Gruppe das Vertrauen mit Zweidrittelmehrheit der abgegebenen Stimmen ausgesprochen werden, damit sie als gewählt gilt. Die Wahl durch Zustimmung entfällt hierbei.
-# Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
+# Darüber hinaus nominieren die austragenden Fachschaften zwei Vertrauenspersonen aus ihren Fachschaften, diese müssen nicht vom Plenum bestätigt werden.
 # Weiterhin sind die beiden gewählten Personen aus dem Awarenessgremium auch Vertrauenspersonen, diese müssen nicht vom Plenum bestätigt werden.
 
 = Anhang: Versionshistorie =
 
-Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Erlangen beschlossen. Inhaltliche Änderungen wurden vorgenommen auf der:
+Diese Geschäftsordnung wurde auf dem Endplenum der Sommer-ZaPF 2005 in Erlangen beschlossen. Inhaltliche Änderungen wurden vorgenommen auf der:
 
 * Sommer-ZaPF 2007 in Berlin,
 * Sommer-ZaPF 2008 in Konstanz,
