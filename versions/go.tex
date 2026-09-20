@@ -2,6 +2,7 @@
 \PassOptionsToPackage{unicode,pdfcreator=\{pdflatex\},pdfdisplaydoctitle=true}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 \documentclass[
+  ngerman,
   a4paper,
   oneside]{scrartcl}
 \usepackage{xcolor}
@@ -38,16 +39,12 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \ifLuaTeX
-\usepackage[bidi=basic]{babel}
+\usepackage[bidi=basic,shorthands=off]{babel}
 \else
-\usepackage[bidi=default]{babel}
+\usepackage[bidi=default,shorthands=off]{babel}
 \fi
-\babelprovide[main,import]{ngerman}
-% get rid of language-specific shorthands (see #6817):
-\let\LanguageShortHands\languageshorthands
-\def\languageshorthands#1{}
 \ifLuaTeX
-  \usepackage[german]{selnolig} % disable illegal ligatures
+  \usepackage{selnolig} % disable illegal ligatures
 \fi
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
@@ -55,6 +52,10 @@
 \usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
+% fallback for those not using the hyperref driver hyperxmp:
+\makeatletter
+\@ifundefined{xmpquote}{\newcommand{\xmpquote}[1]{#1}}{}
+\makeatother
 \hypersetup{
   pdftitle={Geschäftsordnung für Plenen der ZaPF},
   pdfauthor={Zusammenkunft aller Physikfachschaften},
@@ -122,8 +123,8 @@ alle Mitglieder und helfende Personen der ausrichtenden Fachschaften.
 \item
   Ist in einer Sitzung strittig, wie eine Bestimmung dieser
   Geschäftsordnung auszulegen oder wie eine Lücke zu schließen ist, so
-  kann die Auslegungsfrage mit Wirkung für die gesamte Sitzung durch die
-  Sitzungsleitung entschieden werden.
+  wird die Auslegungsfrage mit Wirkung für die gesamte Sitzung durch die
+  Sitzungsleitung entschieden.
 \item
   Die Sitzungsleitung kann die Sitzung unterbrechen. Die Unterbrechung
   sollte in der Regel zehn Minuten nicht überschreiten. Dies kann
@@ -569,9 +570,11 @@ Erlangen beschlossen. Inhaltliche Änderungen wurden vorgenommen auf der:
 \item
   Winter-ZaPF 2024 in Mainz,
 \item
-  Sommer-ZaPF 2025 in Erlangen, und
+  Sommer-ZaPF 2025 in Erlangen,
 \item
-  der Winter-ZaPF 2025 in Frankfurt am Main.
+  Winter-ZaPF 2025 in Frankfurt am Main, und
+\item
+  der Sommer-ZaPF 2026 in Göttingen.
 \end{itemize}
 
 \section*{Anhang: Kommentare zur Geschäftsordnung und
