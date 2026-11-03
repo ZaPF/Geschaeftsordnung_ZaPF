@@ -196,7 +196,7 @@ Wahl stehen.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
    Eine geheime Abstimmung ist möglich.
 5. Ein Antrag gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer
-   ist als die Summe aus Enthaltungen und Nein-Stimmen.
+   ist als die die Anzahl der Nein-Stimmen.
    Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen
    überwiegen, wird die Abstimmung einmalig wiederholt.
    Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen
