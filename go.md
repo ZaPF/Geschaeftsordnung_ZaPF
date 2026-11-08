@@ -111,8 +111,6 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaften.
    das dem Plenum von der Sitzungsleitung mitzuteilen ist und für das gesamte Plenum gilt.
    GO-Anträge sind spätestens vor der nächsten Wortmeldung bzw. Abstimmung zu behandeln und
    abzustimmen.
-   beider Arme signalisiert und sind spätestens vor der nächsten Wortmeldung
-   bzw. Abstimmung zu behandeln und abzustimmen.
 2. Es ist nur eine Rede für den Antrag durch die antragstellende Person und eine
    Gegenrede erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen.
    Eine Diskussion von GO-Anträgen findet nicht statt.
