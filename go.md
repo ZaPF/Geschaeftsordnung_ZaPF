@@ -117,8 +117,9 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaften.
    Gegenrede erlaubt, dabei ist eine inhaltliche einer formellen Gegenrede vorzuziehen.
    Eine Diskussion von GO-Anträgen findet nicht statt.
    Das Antwortrecht außerhalb der Redeliste besteht nicht.
-3. In der Abstimmung ist, bis auf unten angegebene Ausnahmen, eine Mehrheit von
-   mehr Ja-Stimmen als der Summe von Nein-Stimmen und Enthaltungen erforderlich.
+3. In der Abstimmung sind, bis auf unten angegebene Ausnahmen, mindestens eine Ja-Stimme
+   mehr als die Hälfte der Anzahl für die Beschlussfähigkeit notwendigen Fachschaften
+   sowie insgesamt mehr Ja-Stimmen als Nein-Stimmen erforderlich.
    Gibt es keine Gegenrede, gilt der Antrag als angenommen.
 4. Geschäftsordnungsanträge sind folgende Anträge:
    - Änderung der Tagesordnung
@@ -195,8 +196,9 @@ Wahl stehen.
    jeweiligen Fachschaft zu regeln.
    Den Fachschaften ist Zeit zur Beratung zu gewähren.
    Eine geheime Abstimmung ist möglich.
-5. Ein Antrag gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer
-   ist als die Summe aus Enthaltungen und Nein-Stimmen.
+5. Ein Antrag gilt als angenommen, wenn die Anzahl der Ja-Stimmen
+   eins mehr als die Hälfte der Anzahl für die Beschlussfähigkeit notwendigen
+   Fachschaften beträgt und grór ist als die Anzahl der Nein-Stimmen.
    Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen
    überwiegen, wird die Abstimmung einmalig wiederholt.
    Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen
