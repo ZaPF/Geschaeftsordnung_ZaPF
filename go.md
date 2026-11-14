@@ -307,8 +307,13 @@ Wahl stehen.
    Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht,
    ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die
    sechste Person in der Rangfolge.
-   Sollten sich nur Personen eines Geschlechts beworben haben, ist diese
-   Regelung irrelevant.
+   Haben die ersten sechs Personen genannter Gruppe keine Migrationsgeschichte,
+   ersetzt die Person mit Migrationsgeschichte mit den meisten Stimmen die
+   sechste Person in der Rangfolge.
+   Ist die zu ersetzende Person durch die Regelung in Satz 3 zu ihrem Platz gekommen,
+   so wird die fünfte Person ersetzt.
+   Sollten sich nur Personen eines Geschlechts und/oder ohne Migrationsgeschichte
+   beworben haben, ist diese Regelung irrelevant.
 7. Bei weniger als sieben sich bewerbenden Personen muss der kompletten
    Gruppe das Vertrauen mit Zweidrittelmehrheit der abgegebenen Stimmen
    ausgesprochen werden, damit sie als gewählt gilt.
