@@ -119,6 +119,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaften.
    Das Antwortrecht außerhalb der Redeliste besteht nicht.
 3. In der Abstimmung ist, bis auf unten angegebene Ausnahmen, eine Mehrheit von
    mehr Ja-Stimmen als der Summe von Nein-Stimmen und Enthaltungen erforderlich.
+   Auch werden ungültige Stimmen abgefragt.
    Gibt es keine Gegenrede, gilt der Antrag als angenommen.
 4. Geschäftsordnungsanträge sind folgende Anträge:
    - Änderung der Tagesordnung
@@ -199,6 +200,7 @@ Wahl stehen.
    ist als die Summe aus Enthaltungen und Nein-Stimmen.
    Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen
    überwiegen, wird die Abstimmung einmalig wiederholt.
+   Auch werden ungültige Stimmen abgefragt.
    Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen
    überwiegt, gilt der Antrag als abgelehnt.
    Die Abstimmung ist geeignet, z.B. durch deutliches Handheben, kenntlich zu
