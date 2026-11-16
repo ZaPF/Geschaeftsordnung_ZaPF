@@ -350,8 +350,9 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Winter-ZaPF 2023 in Düsseldorf,
 - Winter-ZaPF 2024 in Mainz,
 - Sommer-ZaPF 2025 in Erlangen,
-- Winter-ZaPF 2025 in Frankfurt am Main, und
-- der Sommer-ZaPF 2026 in Göttingen.
+- Winter-ZaPF 2025 in Frankfurt am Main,
+- Sommer-ZaPF 2026 in Göttingen, und
+- der Winter-ZaPF 2026 in Hamburg.
 
 # Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung {-}
 
